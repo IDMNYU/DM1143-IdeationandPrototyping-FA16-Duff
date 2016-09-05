@@ -190,7 +190,72 @@ _The following list of required readings may be incomplete and is subject to cha
 
 
 
-### **Moses Center Statement of Disability**
+### TECHNOLOGY USE IN THE CLASSROOM
 
-If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities (CSD) at 212-998-4980 or mosescsd@nyu.edu.  You must be registered with CSD to receive accommodations.  Information about the Moses Center can be found at www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
+This class is about visual foundation principles first and foremost & technology second. Through lectures & demos, we will cover many important technical issues, but—as in the professional world—the burden of technology will always lie squarely on the designer’s shoulders. Community tech sharing is highly advised as well. In this syllabus and on github, I have listed several helpful resources to help you get up to speed with technology. 
 
+Laptop computers and other mobile devices are invaluable tools for artists, designers, and students when used responsibly. However, this technology can also be incredibly distracting, especially in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, doing VFS homework, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, etc. Also, during class screenings, your laptops should not be used.
+
+
+### READINGS
+There are two types of reading in this course: technical and theoretical. The former will offer practical exercises and explanations designed to teach production skills you will need for assignments. The latter provide conceptual, historical, and cultural background that will allow you to understand visual foundation principles. Because this course is an exploration of theory AND practice, I expect full attention to both types of reading.
+
+
+### ACADEMIC HONESTY
+
+All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA style for citing and documenting source material.   
+
+
+### ACADEMIC ACCOMMODATIONS
+
+If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu.  You must be registered with CSD to receive accommodations.  Information about the Moses Center can be found at www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
+
+
+
+### ADDITIONAL INFO REGARDING PRINTING
+
+Students, in addition to their regular NYU allotment, also have available to them $5 in printing credits for use at the Dibner Library. Credits are issued by the MAGNET Managers in Rm 809 and must be signed for before the credits can be used. Once signed for, students will be issued a username and password which can be used at any of the printer stations at Dibner Library. Print jobs can be sent to the printer from any computer station at the Library. See the Library staff for further assistance.
+
+
+### REQUIRED SUPPLIES
+* Laptop
+* Digital Storage (Jump Drive, External Hard Drive, etc)
+* Mark-making Utensils (pencils, pens, brushes, charcoal, etc.)
+* Sketchbook
+
+
+### REQUIRED BOOKS
+
+These books (*) are available for purchase in the NYU bookstore, and will be on reserve at the NYU School of Engineering library. 
+
+* [Graphic Design: The New Basics: Second Edition, Revised and Expanded](https://www.amazon.com/Graphic-Design-Basics-Revised-Expanded/dp/161689332X/ref=sr_1_1?ie=UTF8&qid=1473101938&sr=8-1&keywords=graphic+design+new+basics+2nd+edition) by Ellen Lupton and Jennifer Cole Phillips
+  * The first edition of this book is available as an online book via http://bobcat.library.nyu.edu. Reading the first edition is totally fine.
+* [Lessons in Typography](https://www.amazon.com/Lessons-Typography-Must-know-typographic-principles/dp/0133993558) by Jim Krause
+* [Notes on Color Theory](https://www.amazon.com/Design-Fundamentals-Notes-Color-Theory/dp/0321969073/) by Rose Gonnella
+
+
+### REQUIRED SOFTWARE
+
+* Adobe Photoshop
+* Adobe Illustrator
+* Adobe Indesign
+* Adobe Acrobat or Preview
+
+
+### [RECOMMENDED RESOURCES](dm1123_vfs_recommended_resources.md)
+See Appendix
+
+### PROJECTS & ASSIGNMENTS
+
+All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_i&d_fa16_assignmentname (i.e. dduff_vfs_fa16_assignmentname.pdf)
+
+
+#### Projects
+
+
+#### Assignments
+
+
+
+### [SCHEDULE OVERVIEW GRID]()
+See Appendix
