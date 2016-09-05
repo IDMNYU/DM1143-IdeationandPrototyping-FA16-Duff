@@ -32,5 +32,4 @@
 * [Printed Assignment Guidelines](printed_assignment_guidelines.md)
 * [Recommended Resources](recommended_resources.md)
 * Introduction
-* Schedule
 
