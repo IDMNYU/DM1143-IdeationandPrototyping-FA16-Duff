@@ -230,7 +230,7 @@ See Appendix
 
 ### PROJECTS & ASSIGNMENTS
 
-All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_i&d_fa16_assignmentname (i.e. dduff_vfs_fa16_assignmentname.pdf)
+All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_i&d_fa16_assignmentname (i.e. dduff_i&d_fa16_assignmentname.pdf)
 
 
 #### Projects
