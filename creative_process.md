@@ -1,7 +1,7 @@
 ### DM-UY 1143 Ideation and Prototyping
 ##### Fall 2016 • De Angela L. Duff • Tuesdays and Thursdays • 10:30-12:20pm • 2MTC MAGNET 811
 
-# Creative Process Video Documentary
+# Creative Process Annotated Bibliography & Video Documentary
 
 
 Working in groups of two, you will research, analyze, evaluate, and finally communicate the research &amp; design processes of a creator from a discipline of your team’s choice. The final form of this research project will be an annotated bibliography and video documentary of 1 to 3 minutes in length.
