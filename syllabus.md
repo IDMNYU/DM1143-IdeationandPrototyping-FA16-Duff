@@ -136,7 +136,7 @@ Your grade for the course will be based on the following:
 *   12% [Constant Input Choices](constant_input_choices.md)
 *   14% [Process Website](process_website.md)
 *   16% [Future Dystopia / Utopia Project](future.md)
-*   28% [Creative Video Documentary](creative_process.md)
+*   28% [Creative Process Annotated Bibliography & Video Documentary](creative_process.md)
 
 _Grading Overview_
 
