@@ -144,7 +144,7 @@ There will be discrete team and individual exercises and projects that require y
  
 Your final grade will be based on a synthesis of quantitative &amp; qualitative rubrics:
 
-_Quantitative Overview_
+_Quantitative Grading Overview_
 
 Your grade for the course will be based on the following:
 
@@ -158,7 +158,7 @@ Your grade for the course will be based on the following:
 *   16% [Future Dystopia / Utopia Project](future.md)
 *   28% [Creative Process Annotated Bibliography & Video Documentary](creative_process.md)
 
-_Grading Overview_
+_Qualitative Grading Overview_
 
 *   **A Excellent** (Work of exceptional quality; Exceeds Expectations)
 *   **A- Very Good** (Work of high quality)
