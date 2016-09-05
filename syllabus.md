@@ -6,11 +6,13 @@
     De Angela L. Duff • deangela.duff@nyu.edu • Fall 2016 
     Tuesdays & Thursday • 10:30AM-12:30PM • 2MTC MAGNET 811 • 3 credit hrs
     Office hours by appointment or directly after class 
-    Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718  
+    Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718 
+    
+    Prerequisite: None
 
-#####Gitbook Repository: https://deangela.gitbooks.io/dm1143-ideation-and-prototyping-fall-2016/content/
+####Gitbook Repository: https://deangela.gitbooks.io/dm1143-ideation-and-prototyping-fall-2016/content/
 
-#####Course Management Site: http://bxmc.slack.com 
+####Course Management Site: http://bxmc.slack.com 
 
 ---
 _&quot;I am enough of an artist to draw freely upon my imagination._
@@ -25,9 +27,7 @@ _~Albert Einstein_
 
 ---
 
-**Course Prerequisites:** None
-
-**Course Description**
+## Welcome to Ideation &amp; Prototyping!
 
 In this class, the creative process will be investigated in order to generate ideas for art, design, technology, and business endeavors. The course will show how ideation, design research &amp; thinking, and prototyping can inspire, inform, and bring depth to what one ultimately creates. Students will expand their arsenal of design research skills, learn how to think critically about their audience, content, form, and processes, as well as, understand the importance of utilizing more than one research and design strategy.
 
