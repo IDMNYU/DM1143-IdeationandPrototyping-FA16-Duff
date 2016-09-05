@@ -187,30 +187,10 @@ _The following list of required readings may be incomplete and is subject to cha
 ---
 
 
-### **Course Calendar Overview**
 
-_The class website is the official source for all dates and assignments; the syllabus is NOT. The syllabus provides a general overview and guideline for the course. The website is a living, dynamic document. Active learning requires flexibility and the investigation of unforeseen paths which may diverge from the specifics outlined below._
-
-| week | Description (with readings and major assignments due on the date listed) |
-| --- | --- |
-
-
----
 
 
 ### **Moses Center Statement of Disability**
 
 If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities (CSD) at 212-998-4980 or mosescsd@nyu.edu.  You must be registered with CSD to receive accommodations.  Information about the Moses Center can be found at www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
 
-**NTU Tandon of Engineering Policies and Procedures on Academic Misconduct** _(from the Tandon School of Engineering Student Code of Conduct)_
-
-*   *   1.  Introduction: The School of Engineering encourages academic excellence in an environment that promotes honesty, integrity, and fairness, and students at the School of Engineering are expected to exhibit those qualities in their academic work. It is through the process of submitting their own work and receiving honest feedback on that work that students may progress academically. Any act of academic dishonesty is seen as an attack upon the School and will not be tolerated. Furthermore, those who breach the School’s rules on academic integrity will be sanctioned under this Policy. Students are responsible for familiarizing themselves with the School’s Policy on Academic Misconduct.
-        2.  Definition: Academic dishonesty may include misrepresentation, deception, dishonesty, or any act of falsification committed by a student to influence a grade or other academic evaluation. Academic dishonesty also includes intentionally damaging the academic work of others or assisting other students in acts of dishonesty. Common examples of academically dishonest behavior include, but are not limited to, the following:
-            *   1.  Cheating: intentionally using or attempting to use unauthorized notes, books, electronic media, or electronic communications in an exam; talking with fellow students or looking at another person’s work during an exam; submitting work prepared in advance for an in-class examination; having someone take an exam for you or taking an exam for someone else; violating other rules governing the administration of examinations.
-                2.  Fabrication: including but not limited to, falsifying experimental data and/or citations.
-                3.  Plagiarism: intentionally or knowingly representing the words or ideas of another as one’s own in any academic exercise; failure to attribute direct quotations, paraphrases, or borrowed facts or information.
-                4.  Unauthorized collaboration: working together on work that was meant to be done individually.
-                5.  Duplicating work: presenting for grading the same work for more than one project or in more than one class, unless express and prior permission has been received from the course instructor(s) or research adviser involved.
-                6.  Forgery: altering any academic document, including, but not limited to, academic records, admissions materials, or medical excuses.
-
-Access the entire School of Engineering Student Code of Conduct here: [engineering.nyu.edu/academics/code-of-conduct](http://engineering.nyu.edu/academics/code-of-conduct)
