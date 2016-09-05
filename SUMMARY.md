@@ -11,7 +11,7 @@
    * [Narrative Timeline](narrative_timeline.md)
    * [Notebook or Sketchbook](notebook_or_sketchbook.md)
    * [Self Assessments](self_assessments.md)
-   * [Visit Talk Meetup](visit_talk_meetup.md)
+   * [Visit Talk or Meetup](visit_talk_meetup.md)
 * [Projects](projects.md)
    * [Creative Process Annotated Bibliography and Video Documentary](creative_process.md)
    * [Future Dystopia Utopia Project](future.md)
