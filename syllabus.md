@@ -214,17 +214,17 @@ All due dates can be found in the calendar. This is just an overview and descrip
 
 
 #### Projects
-* Creative Process Video Documentary
-* Future Dystopia Utopia Project
+* [Creative Process Video Documentary](creative_process.md)
+* [Future Dystopia / Utopia Project](future.md)
 
 #### Assignments
-* Constant Input Choices
-* Inputs Map
-* Process Website
-* Narrative Timeline
-* Notebook or Sketchbook
-* Self Assessments
-* Visit Talk Meetup
+* [Constant Input Choices](constant_input_choices.md)
+* [Input Map](input_map.md)
+* [Process Website](process_website.md)
+* [Narrative Timeline of Influences](narrative_timeline.md)
+* [Notebook or Sketchbook](notebook_or_sketchbook.md)
+* [Self Assessments](self_assessments.md) 
+* [Museum or gallery visit, talk, or meetup](visit_talk_meetup.md)
 
 ### [SCHEDULE OVERVIEW GRID](schedule.md)
 See Appendix
