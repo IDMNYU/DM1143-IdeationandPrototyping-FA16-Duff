@@ -4,7 +4,6 @@
 * [Syllabus](syllabus.md)
 * [Schedule](schedule.md)
    * [Week 1](week_1.md)
-   * [Week 13](week_13.md)
    * [Week 14](week_14.md)
    * [Week 15](week_15.md)
 * [Assignments](assignments.md)
