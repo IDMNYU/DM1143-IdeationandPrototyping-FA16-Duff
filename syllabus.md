@@ -214,7 +214,7 @@ All due dates can be found in the calendar. This is just an overview and descrip
 
 
 #### Projects
-* [Creative Process Video Documentary](creative_process.md)
+* [Creative Process Annotated Bibliography & Video Documentary](creative_process.md)
 * [Future Dystopia / Utopia Project](future.md)
 
 #### Assignments
