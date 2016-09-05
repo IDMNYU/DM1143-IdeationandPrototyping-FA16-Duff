@@ -2,8 +2,7 @@
 ##### Fall 2016 • De Angela L. Duff • Tuesdays and Thursdays • 10:30-12:20pm • 2MTC MAGNET 811
 
 ---
-# Week 1
-## [Schedule Weekly Detail](schedule.md)
+## [Schedule:](schedule.md) Week 1
 
 
 <table>
