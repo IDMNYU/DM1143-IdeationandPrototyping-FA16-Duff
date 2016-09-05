@@ -59,13 +59,9 @@ By the end of this course students should be able to:
 
 **Course Requirements** 
 
-Participation is paramount to your success in this course. Be sure to log into NYU Classes and Slack multiple times a week, read all announcements, complete all Active Learning Modules* and assignments on time, and participate in Discussion Forums and Virtual Meetings.
 
-_Consult with NYU Tandon Online for further details about Active Learning Modules._
 
 **Course Structure**
-
-This course is conducted entirely online, which means you do not have to be on campus to complete any portion of it. You will participate in the course using NYU Classes located at https://newclasses.nyu.edu and Slack. 
 
 The course will be comprised of lectures, critiques, discussions, readings, screenings, exercises, projects, and a collaborative research paper.
 
@@ -140,7 +136,7 @@ Your grade for the course will be based on the following:
 *   12% [Constant Input Choices](constant_input_choices.md)
 *   14% [Process Website](process_website.md)
 *   16% [Future Dystopia / Utopia Project](future.md)
-*   28% [Creative Process Research Paper and Video Documentary](creative_process.md)
+*   28% [Creative Video Documentary](creative_process.md)
 
 _Grading Overview_
 
@@ -153,49 +149,11 @@ _Grading Overview_
 *   **C Inadequate** (Less than adequate work)
 *   **F Unacceptable** (The performance and/or attendance of the student has failed course requirements.)
 
-**Learning Time for NYU Tandon Online Courses**
-
-The New York State guidelines for online courses require the course to measure learning time. This should not be confused with lecture hours. Learning time is based upon required credit hours. Example: A three (3) credit course must have three (3) hours of learning time. 
-Learning Time shall include, but is not limited to:
-* Reviewing lecture videos/audio (including interactive lectures);
-* Participating in online discussions (both asynchronous* and synchronous**);
-* Group meetings and presentations;
-* Assessments such as high-stakes assessments (midterms, finals, projects, labs, etc.) and low-stakes assessments (quizzing, homework, projects, labs, etc.); and,
-* Any other task normally completed during an in-class session.
-
-Important: Learning Time does not reflect reading time of supplemental information or textbook required reading. It also does not include high-stakes assessments such as take-home projects or assignments. It should, however, be included if the high-stakes assessment, like a final exam, is taken with a remote proctor and requires a student to be “online” during a specific time to complete the exam.
-
-For more information on NYS policies, please go to: http://www.highered.nysed.gov/ocue/ded/policies.html
-
-
-**Learning Time Rubric**
-
-| Learning Time Element | Asynchronous\* / Synchronous\** |	Time on Task for Students (weekly estimate) |	Notes |
-| --- | --- |
-| Lecture|	Asynchronous|	.5 hours|	Interactive module format. It may take some students longer to complete.|
-|Weekly Discussion Board|	Asynchronous|	.5-1 hour|	Discussion forums are an excellent way for you to engage with the course material and with your peers. You are expected to read the discussion boards and engage in thoughtful discussions.|
-| Weekly Peer Review Submissions via Voice Thread|	Asynchronous|	.5-1 hour|	Leave feedback for at least 3 classmates in any voice thread option.|
-| Weekly Webinar Session	|Synchronous	|60-90 minutes|	Once a week, we will hold a virtual class meeting through the Meetings tool on NYU Classes. This weekly meeting is an opportunity for you to ask questions and gain clarification about the course content. We will also conduct class critiques of select assignments during this session. Attendance is required.|
- 
-*Asynchronous learning is defined as any non-real time student learning, such as recorded lecture, podcast, interactive module, articles, websites, etc. This also includes any student-to-student or faculty-to-student communication that may happen with an asynchronous tool, such as discussion board, chatroom, e-mail, text, etc.
-
-**Synchronous learning is defined as any real-time student-to-student and/or faculty-to-student learning, such as a live webinar session or other video/audio communication service.
-
-
-**Interaction Policy**
-
-You are required to be an active online learner in this course and are expected to participate in the active learning modules, weekly discussion boards, weekly peer review submissions via voice thread, weekly webinar sessions, etc.
 
 
 **Course Communication**
 
-**_Slack_**
 
-Announcements will be posted on Slack in the courses’ main slack channel on a regular basis. You are encouraged to post your questions about the course on the designated slack channel. This is an open forum in which you and your classmates are encouraged to answer each other’s questions. But, if you need to contact me directly, please direct message me on slack. You can expect a response within 24 hours.
-
-**_Netiquette_**
-
-When participating in an online class it is important to interact with your peers in an appropriate manner. Always use professional language in your online communication. Please be respectful of your classmates at all times even if you disagree with their ideas.
 
 **Required Supplies**
 
