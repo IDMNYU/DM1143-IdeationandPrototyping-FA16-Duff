@@ -38,13 +38,11 @@ Possible Choices (but not limited to):
 
 The key to your research is a proliferation of references on your subject, particularly interviews, sketchbooks, notebooks, and/or journals or other reflective writing which can give your team insights into the research and design processes of your subject.
 
-###Research Paper
+###Annotated Bibliography
 
-You will write a research paper as a team. I recommend using google docs to collaboratively write.
+You will write an annotated bibliography as a team. I recommend using google docs to collaboratively write.
 
-Research Paper Guidelines:
-
-The paper should be typed in 12-point font, double-spaced with 1 inch margins and 10 pages in length. Cite all references in MLA format. Works cited should be listed as such or as endnotes. Include any images, illustrations, or diagrams at the end of the paper (not counted towards the 10 pages) and reference them accordingly as “Fig. 1” (and so on).
+Using [Purdue OWL Annotated Bibliography Guidelines](https://owl.english.purdue.edu/owl/resource/614/01/), summarize, assess, and reflect.
 
 * The Wikipedia Disclaimer: Nowadays, wikipedia is often the starting point for research – it’s quick, easy, and provides an acceptable overview of many subjects. However, for serious, sustained research Wikipedia should not be relied upon as a primary source. Use Wikipedia to familiarize yourself with your subject and to locate other sources for further research.
 
