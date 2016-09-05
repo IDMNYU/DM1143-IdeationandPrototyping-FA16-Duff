@@ -224,7 +224,7 @@ _The following list of required readings may be incomplete and is subject to cha
 ### REQUIRED SOFTWARE
 
 
-### [RECOMMENDED RESOURCES]()
+### [RECOMMENDED RESOURCES](recommended_resources.md)
 See Appendix
 
 
