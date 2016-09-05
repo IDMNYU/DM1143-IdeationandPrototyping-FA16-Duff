@@ -18,17 +18,17 @@
 _Idea Generation_
 
 *   _Cracking Creativity_ by Michael Michalko
-*   IdeaSpotting: How to Find Your Next Great Idea by Sam Harrison
+*   _IdeaSpotting: How to Find Your Next Great Idea_ by Sam Harrison
 *   IDEO method cards
 *   _Steal like an Artist_ by Austin Kleon
-*   The Art of Looking Sideways by Alan Fletcher
-*   Thinkertoys: A Handbook of Creative-Thinking Techniques by Michael Michalko
+*   _The Art of Looking Sideways_ by Alan Fletcher
+*   _Thinkertoys: A Handbook of Creative-Thinking Techniques_ by Michael Michalko
 *   Thinkpak cards
 
 _Artists’ &amp; Designers’ Processes_
 
 *   _Creativity: The Perfect Crime_ by Philippe Petit
-*   Lynch on Lynch by Chris Rodley
+*   _Lynch on Lynch_ by Chris Rodley
 *   _MTIV: Process, Inspiration and Practice for the New Media Designer_ by Hillman Curtis
 *   _The Artist’s Way_ by Julia Cameron
 *   _The Creative Habit: Learn It and Use It for Life_ by Twyla Tharp and Mark Reiter
@@ -36,7 +36,7 @@ _Artists’ &amp; Designers’ Processes_
 
 Business
 
-*   [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Yves-Pigneur/e/B00405XLBG/ref=sr_ntt_srch_lnk_1?qid=1470188736&sr=8-1) by Alexander Osterwalder and Yves Pigneur
+*   _[Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](https://www.amazon.com/Yves-Pigneur/e/B00405XLBG/ref=sr_ntt_srch_lnk_1?qid=1470188736&sr=8-1)_ by Alexander Osterwalder and Yves Pigneur
 
 Design
 
@@ -47,7 +47,7 @@ Design
 
 _Ethnography_
 
-*   Why We Buy: The Science of Shopping by Paco Underhill
+*   _Why We Buy: The Science of Shopping_ by Paco Underhill
 
 _Sketching_
 
@@ -57,12 +57,12 @@ _Sketching_
 _Mapping_
 
 *   _Web Redesign 2.0 | Workflow That Works_ by Kelly Goto &amp; Emily Cotler
-*   _How to Make Sense of Any Mess: Information Architecture for Everybody _1.0 Edition by Abby Covert 
+*   _How to Make Sense of Any Mess: Information Architecture for Everybody 1.0 Edition_ by Abby Covert 
 *   Any Edward Tufte book
 
 _Prototyping_
 
-*   _[Getting Real](http://gettingreal.37signals.com)_ by 37Signals – 
+*   _[Getting Real](http://gettingreal.37signals.com)_ by 37Signals 
 *   _Show Your Work_ by Austin Kleon
 
 **Recommended Writing Resources**
