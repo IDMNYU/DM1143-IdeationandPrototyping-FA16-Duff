@@ -42,6 +42,7 @@ Design
 *   _Designing for Interaction_ by Dan Safer
 *   _Exposing the Magic of Design: A Practitioner’s Guide to the Methods and Theory of Synthesis_ by Jon Kolko
 *   _Gamestorming: A Playbook for Innovators, Rulebreakers, and Changemakers_ by Dave Gray, Sunni Brown, and James Macanufo
+*   _Universal Methods of Design_ by Bella Martin and Bruce Hanington
 
 _Ethnography_
 
