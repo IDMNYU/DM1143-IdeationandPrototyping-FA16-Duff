@@ -17,5 +17,4 @@
    * [Future Dystopia Utopia Project](future.md)
 * [Printed Assignment Guidelines](printed_assignment_guidelines.md)
 * [Recommended Resources](recommended_resources.md)
-* Introduction
 
