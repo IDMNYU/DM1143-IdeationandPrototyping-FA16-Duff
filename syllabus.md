@@ -166,13 +166,7 @@ _Grading Overview_
 
 ### TECHNOLOGY USE IN THE CLASSROOM
 
-This class is about visual foundation principles first and foremost & technology second. Through lectures & demos, we will cover many important technical issues, but—as in the professional world—the burden of technology will always lie squarely on the designer’s shoulders. Community tech sharing is highly advised as well. In this syllabus and on github, I have listed several helpful resources to help you get up to speed with technology. 
-
 Laptop computers and other mobile devices are invaluable tools for artists, designers, and students when used responsibly. However, this technology can also be incredibly distracting, especially in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, doing VFS homework, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, etc. Also, during class screenings, your laptops should not be used.
-
-
-### READINGS
-There are two types of reading in this course: technical and theoretical. The former will offer practical exercises and explanations designed to teach production skills you will need for assignments. The latter provide conceptual, historical, and cultural background that will allow you to understand visual foundation principles. Because this course is an exploration of theory AND practice, I expect full attention to both types of reading.
 
 
 ### ACADEMIC HONESTY
