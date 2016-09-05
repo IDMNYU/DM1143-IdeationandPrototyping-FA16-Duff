@@ -22,7 +22,7 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>2</td>    
-        <td><a href="week_2_detail_sep_8.md"></a>Sep 13<br><strong></strong><br><br>Show & Tells: David Carson & Nicholas Felton</td>
+        <td><a href="week_2_detail_sep_8.md"></a>Sep 13<br><strong></strong></td>
         <td valign="top"><a href="week_3_detail_sep_15.md"></a>Sep 15<br><strong></td>
     </tr>
     <tr>
