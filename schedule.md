@@ -61,15 +61,15 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>9</td>      
         <td valign="top">Nov 1<br><strong></strong></td>
-        <td>Nov 3<br><strong>Guest Speaker: <br>INTERFACE Wireframes 1st Draft</strong> (Entire Class)</td>
+        <td>Nov 3<br><strong></strong></td>
     </tr>
      <tr>
         <td></td><td>Nov 7<br><i>Last Day to Withdraw</i></td><td></td>
     </tr>
     <tr>
         <td>10</td>     
-        <td>Nov 8<br><strong>INTERFACE Wireframes 2nd Draft</strong> (Entire Class)</td>
-        <td>Nov 10<br><strong>INTERFACE Visual Design 1st Draft</strong> (Half of Class)</td>
+        <td>Nov 8<br><strong></strong></td>
+        <td>Nov 10<br><strong></strong></td>
     </tr>
     <tr>
         <td>11</td>   
@@ -78,33 +78,33 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>12</td>   
-        <td>Nov 22<br><strong>INTERFACE Visual Design 1st Draft</strong> (Other Half of Class)</td>
+        <td>Nov 22<br><strong></strong></td>
         <td>Nov 24<br><i>NO CLASS: Thanksgiving Holiday</i></td>
     </tr>
     <tr>
         <td>13</td>  
-        <td>Nov 29<br><strong>INTERFACE Visual Design 2nd Draft</strong> (Entire Class)</td>
-        <td>Dec 1<br><strong>INTERFACE Final: High-Fidelity Prototype</strong></td>
+        <td>Nov 29<br><strong></strong></td>
+        <td>Dec 1<br><strong></strong></td>
     </tr>
     <tr>
         <td>14</td>    
-        <td>Dec 6<br><strong>PHYSICAL APP FINAL</strong></td>
-        <td>Dec 8<br><strong>PDF or BOOK 1st DRAFT</strong> (Entire Class)</td>
+        <td>Dec 6<br><strong></strong></td>
+        <td>Dec 8<br><strong></strong></td>
     </tr>
     <tr>
         <td>15</td>     
         <td>Dec 13<br>NO CLASS: Legislative Day - Classes will meet according to a Monday schedule</td>  
-        <td>Dec 15<br><strong>PDF or BOOK 2nd DRAFT</strong> (Entire Class)</td>
+        <td>Dec 15<br><strong></strong></td>
     </tr>
     <tr>
         <td>16</td>
-        <td>Dec 20<br><strong>Final PDF or Book</strong></td>
+        <td>Dec 20<br><strong></strong></td>
         <td></td>
     </tr>
 </table>
 
 Fri Dec 16 and Mon Dec 19<br>
 * **INDIVIDUAL ONE on ONES (To Be Scheduled)**
-* **PDF or Book, Dropbox Link, Letter to Next Cohort & Final Assessment**
+* ****
 
 
