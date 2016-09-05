@@ -161,14 +161,14 @@ Your final grade will be based on a synthesis of quantitative &amp; qualitative 
 *   **A Exceptional** (Work of exceptional quality; Exceeds Expectations)
 *   **A- Excellent** (Work of high quality)
 *   **B+ Very Good** 
-*   **B Good** Solid work, though not of the highest level
+*   **B Good** (Solid work, though not of the highest level)
 *   **B-**
-*   **C+ ** A little above average
-*   **C Satisfactory** Average, Satisfies course requirements
-*   **C- Below average** but passing	 
-*   **D+ Poor Work** but passing	 
-*   **D Inadequate** Deficient, but passing	 
-*   **F Unacceptable** The performance and/or attendance of the student has failed course requirements.
+*   **C+ ** (A little above average)
+*   **C Satisfactory** (Average; Satisfies course requirements)
+*   **C- Below average** (but passing)	 
+*   **D+ Poor Work** (but passing)	 
+*   **D Inadequate** (Deficient, but passing)	 
+*   **F Unacceptable** (The performance and/or attendance of the student has failed course requirements.)
 
 
 ### TECHNOLOGY USE IN THE CLASSROOM
@@ -198,7 +198,7 @@ If you are student with a disability who is requesting accommodations, please co
 *   [IDEO’s Human-centered Design Toolkit]([http://www.ideo.com/work/human-centered-design-toolkit)
 *   _Steal like an Artist_ by Austin Kleon
 *   _Writing for Visual Thinkers: A Guide for Artists and Designers_ by Andrea Marks.
-*   _Universal Methods of Design_ by Bella Martin and Bruce Hanington
+
 
 
 ### REQUIRED READINGS
