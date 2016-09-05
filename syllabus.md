@@ -246,5 +246,5 @@ All due dates can be found in the calendar. This is just an overview and descrip
 * Self Assessments
 * Visit Talk Meetup
 
-### [SCHEDULE OVERVIEW GRID]()
+### [SCHEDULE OVERVIEW GRID](schedule.md)
 See Appendix
