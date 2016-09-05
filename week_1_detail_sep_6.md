@@ -59,7 +59,7 @@
   <li>Get setup with a website to post your homework</li>
   <ul>
   <li>Create a dedicated tumblr for this course only.</li>
-  <li><a href="dm1123idm_coursework_documentation.md">wordpress via sites.bxmc.poly.edu</a> in a directory labeled vfs</li> 
+  <li><a href="dm1123idm_coursework_documentation.md"></a>wordpress via sites.bxmc.poly.edu in a directory labeled vfs</li> 
   <li>If you already have a sites.bxmc.poly.edu account, have elton install another instance of wordpress in a directory labeled vfs</li>
   <li>Alternatively create a vfs directory if you have server space of your own via an ISP (Internet Service Provider), and install wordpress in that directory.</li>
   </ul>
