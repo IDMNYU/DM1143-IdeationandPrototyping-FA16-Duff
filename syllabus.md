@@ -165,6 +165,9 @@ Your final grade will be based on a synthesis of quantitative &amp; qualitative 
 *   **B- Needs Improvement** (Below average work)
 *   **C+ Poor Work** (Well Below Average)
 *   **C Inadequate** (Less than adequate work)
+*   **C-**
+*   **D**
+*   **D**
 *   **F Unacceptable** (The performance and/or attendance of the student has failed course requirements.)
 
 
