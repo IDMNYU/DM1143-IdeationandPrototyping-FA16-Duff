@@ -165,11 +165,6 @@ All work for this class must be your own and specific to this semester. Any work
 If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu.  You must be registered with CSD to receive accommodations.  Information about the Moses Center can be found at www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
 
 
-### ADDITIONAL INFO REGARDING PRINTING
-
-Students, in addition to their regular NYU allotment, also have available to them $5 in printing credits for use at the Dibner Library. Credits are issued by the MAGNET Managers in Rm 809 and must be signed for before the credits can be used. Once signed for, students will be issued a username and password which can be used at any of the printer stations at Dibner Library. Print jobs can be sent to the printer from any computer station at the Library. See the Library staff for further assistance.
-
-
 ### REQUIRED SUPPLIES
 *   A Notebook or Sketchbook (Analog or Digital (i.e. Evernote, Paper by FiftyThree, etc.))
 *   Digital Camera (You can also use a smart phone.)
