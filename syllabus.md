@@ -155,33 +155,7 @@ _Grading Overview_
 
 
 
-**Required Supplies**
 
-*   A Notebook or Sketchbook (Analog or Digital (i.e. Evernote, Paper by FiftyThree, etc.))
-*   Digital Camera (You can also use a smart phone.)
-*   Digital Storage (Thumb Drives or External Hard Drive, Laptop, etc)
-
-**Required Books**
-
-*   [AIGA’s Ethnography Primer]([http://www.aiga.org/ethnography-primer/])
-*   [IDEO’s Human-centered Design Toolkit]([http://www.ideo.com/work/human-centered-design-toolkit)
-*   _Steal like an Artist_ by Austin Kleon
-*   _Writing for Visual Thinkers: A Guide for Artists and Designers_ by Andrea Marks.
-*   _Universal Methods of Design_ by Bella Martin and Bruce Hanington
-
-**Required Readings**
-
-_The following list of required readings may be incomplete and is subject to change. Please see the course website for updates._
-
-*   Brown, Sunni. “[The Miseducation of the Doodle.](http://www.alistapart.com/articles/the-miseducation-of-the-doodle/)” A List Apart. January 25, 2011\.
-*   Peavey, Fran. “[Strategic Questioning: An approach to creating personal and social change.](http://www.context.org/iclib/ic40/peavey)” In Context, Spring 1995\.
-*   Rohde, Mike. “[Sketching: the Visual Thinking Power Tool](http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/)” A List Apart. January 25, 2011\. 
-*   Trollbäck, Jakob. “[One Designer Shares: How to Use Design to Tell a Story.](http://www.howdesign.com/article/storytelling/)” HOW Design. 23 Jan. 2008\. 
-
-**Required Media**
-
-*   [Everything Is A Remix](http://everythingisaremix.info/watch-the-series)
-*   [Ira Glass on storytelling](http://www.youtube.com/watch?v=loxJ3FtCJJA)
 
 
 ---
@@ -218,28 +192,37 @@ Students, in addition to their regular NYU allotment, also have available to the
 
 
 ### REQUIRED SUPPLIES
-* Laptop
-* Digital Storage (Jump Drive, External Hard Drive, etc)
-* Mark-making Utensils (pencils, pens, brushes, charcoal, etc.)
-* Sketchbook
+*   A Notebook or Sketchbook (Analog or Digital (i.e. Evernote, Paper by FiftyThree, etc.))
+*   Digital Camera (You can also use a smart phone.)
+*   Digital Storage (Thumb Drives or External Hard Drive, Laptop, etc)
 
 
 ### REQUIRED BOOKS
 
-These books (*) are available for purchase in the NYU bookstore, and will be on reserve at the NYU School of Engineering library. 
+*   [AIGA’s Ethnography Primer]([http://www.aiga.org/ethnography-primer/])
+*   [IDEO’s Human-centered Design Toolkit]([http://www.ideo.com/work/human-centered-design-toolkit)
+*   _Steal like an Artist_ by Austin Kleon
+*   _Writing for Visual Thinkers: A Guide for Artists and Designers_ by Andrea Marks.
+*   _Universal Methods of Design_ by Bella Martin and Bruce Hanington
 
-* [Graphic Design: The New Basics: Second Edition, Revised and Expanded](https://www.amazon.com/Graphic-Design-Basics-Revised-Expanded/dp/161689332X/ref=sr_1_1?ie=UTF8&qid=1473101938&sr=8-1&keywords=graphic+design+new+basics+2nd+edition) by Ellen Lupton and Jennifer Cole Phillips
-  * The first edition of this book is available as an online book via http://bobcat.library.nyu.edu. Reading the first edition is totally fine.
-* [Lessons in Typography](https://www.amazon.com/Lessons-Typography-Must-know-typographic-principles/dp/0133993558) by Jim Krause
-* [Notes on Color Theory](https://www.amazon.com/Design-Fundamentals-Notes-Color-Theory/dp/0321969073/) by Rose Gonnella
+### REQUIRED READINGS
+
+_The following list of required readings may be incomplete and is subject to change. Please see the course website for updates._
+
+*   Brown, Sunni. “[The Miseducation of the Doodle.](http://www.alistapart.com/articles/the-miseducation-of-the-doodle/)” A List Apart. January 25, 2011\.
+*   Peavey, Fran. “[Strategic Questioning: An approach to creating personal and social change.](http://www.context.org/iclib/ic40/peavey)” In Context, Spring 1995\.
+*   Rohde, Mike. “[Sketching: the Visual Thinking Power Tool](http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/)” A List Apart. January 25, 2011\. 
+*   Trollbäck, Jakob. “[One Designer Shares: How to Use Design to Tell a Story.](http://www.howdesign.com/article/storytelling/)” HOW Design. 23 Jan. 2008\. 
+
+**Required Media**
+
+*   [Everything Is A Remix](http://everythingisaremix.info/watch-the-series)
+*   [Ira Glass on storytelling](http://www.youtube.com/watch?v=loxJ3FtCJJA)
 
 
 ### REQUIRED SOFTWARE
 
-* Adobe Photoshop
-* Adobe Illustrator
-* Adobe Indesign
-* Adobe Acrobat or Preview
+
 
 
 ### [RECOMMENDED RESOURCES](dm1123_vfs_recommended_resources.md)
