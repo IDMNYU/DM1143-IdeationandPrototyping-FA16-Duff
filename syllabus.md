@@ -214,7 +214,7 @@ _The following list of required readings may be incomplete and is subject to cha
 *   Rohde, Mike. “[Sketching: the Visual Thinking Power Tool](http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/)” A List Apart. January 25, 2011\. 
 *   Trollbäck, Jakob. “[One Designer Shares: How to Use Design to Tell a Story.](http://www.howdesign.com/article/storytelling/)” HOW Design. 23 Jan. 2008\. 
 
-**Required Media**
+### REQUIRED MEDIA
 
 *   [Everything Is A Remix](http://everythingisaremix.info/watch-the-series)
 *   [Ira Glass on storytelling](http://www.youtube.com/watch?v=loxJ3FtCJJA)
@@ -225,7 +225,7 @@ _The following list of required readings may be incomplete and is subject to cha
 
 
 
-### [RECOMMENDED RESOURCES](dm1123_vfs_recommended_resources.md)
+### [RECOMMENDED RESOURCES]()
 See Appendix
 
 ### PROJECTS & ASSIGNMENTS
