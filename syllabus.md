@@ -5,7 +5,7 @@
 
     De Angela L. Duff • deangela.duff@nyu.edu • Fall 2016 
     Tuesdays & Thursday • 10:30AM-12:30PM • 2MTC MAGNET 811 • 3 credit hrs
-    Office hours by appointment or directly before class 
+    Office hours by appointment or directly after class 
     Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718  
 
 #####Gitbook Repository: https://deangela.gitbooks.io/dm1143-ideation-and-prototyping-fall-2016/content/
