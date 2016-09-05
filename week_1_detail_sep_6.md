@@ -1,8 +1,8 @@
-# Week 1
+### DM-UY 1143 Ideation and Prototyping
+##### Fall 2016 • De Angela L. Duff • Tuesdays and Thursdays • 10:30-12:20pm • 2MTC MAGNET 811
 
-# DM-UY 1123 Visual Foundation Studio
-##### Fall 2016 • De Angela L. Duff • Tuesdays & Thursdays • 2:30-4:20pm • 2MTC MAGNET 811 
 ---
+# Week 1
 ## [Schedule Weekly Detail](schedule.md)
 
 
