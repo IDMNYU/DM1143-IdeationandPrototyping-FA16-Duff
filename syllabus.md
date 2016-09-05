@@ -234,9 +234,17 @@ All due dates can be found in the calendar. This is just an overview and descrip
 
 
 #### Projects
-
+* Creative Process Video Documentary
+* Future Dystopia Utopia Project
 
 #### Assignments
+* Constant Input Choices
+* Inputs Map
+* Process Website
+* Narrative Timeline
+* Notebook or Sketchbook
+* Self Assessments
+* Visit Talk Meetup
 
 ### [SCHEDULE OVERVIEW GRID]()
 See Appendix
