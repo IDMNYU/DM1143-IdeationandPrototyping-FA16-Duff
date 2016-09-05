@@ -193,21 +193,6 @@ _The class website is the official source for all dates and assignments; the syl
 
 | week | Description (with readings and major assignments due on the date listed) |
 | --- | --- |
-| 1 | **Intro to Syllabus, Course, and Each Other** |
-| 2 | **Phase 1: Discovery / Inspiration / Process:** Inputs |
-| 3 | **Phase 1: Discovery / Inspiration / Process:** Everything is a Remix |
-| 4 | **Phase 1: Discovery / Inspiration / Process:** Creative Process Research Paper and Documentary |
-| 5 | **Phase 1: Discovery / Inspiration / Process:** Creative Process Research Paper and Documentary (Continued) |
-| 6 | **Phase 1: Discovery / Inspiration / Process:** Creative Process Research Paper and Documentary (Continued) |
-| 7 | **Phase 1: Discovery / Inspiration / Process:** Creative Process Research Paper and Documentary (Continued) |
-| 8 | **Phase 1: Discovery / Inspiration / Process:** Creative Process Research Paper and Documentary (Continued) |
-| 9 | **Phase 1: Discovery / Inspiration / Process:** Creative Process Research Paper and Documentary (Continued) |
-| 10 | **Phase 2: Research / Ideation / Brainstorming** |
-| 11 | **Phase 2: Research / Ideation / Brainstorming:** Future Dystopia / Utopia Project |
-| 12 | **Phase 3: Design / Sketching / Mapping:** Future Dystopia / Utopia Project |
-| 13 | **Phase 4: Prototyping:** Future Dystopia / Utopia Project |
-| 14 | **Phase 4: Prototyping:** Future Dystopia / Utopia Project |
-| 15 | **Phase 5: Positioning / Pitching:** Future Dystopia / Utopia Project |
 
 
 ---
