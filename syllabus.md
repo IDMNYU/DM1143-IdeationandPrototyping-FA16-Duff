@@ -161,14 +161,14 @@ Your final grade will be based on a synthesis of quantitative &amp; qualitative 
 *   **A Exceptional** (Work of exceptional quality; Exceeds Expectations)
 *   **A- Excellent** (Work of high quality)
 *   **B+ Very Good** 
-*   **B Good** (Solid work, though not of the highest level)
-*   **B- Needs Improvement** (Below average work)
+*   **B Good** Solid work, though not of the highest level
+*   **B-**
 *   **C+ ** A little above average
 *   **C Satisfactory** Average, Satisfies course requirements
-*   **C-** Below average, but passing	 
-*   **D+ Poor Work** Deficient, but passing	 
+*   **C- Below average** but passing	 
+*   **D+ Poor Work** but passing	 
 *   **D Inadequate** Deficient, but passing	 
-*   **F Unacceptable** (The performance and/or attendance of the student has failed course requirements.)
+*   **F Unacceptable** The performance and/or attendance of the student has failed course requirements.
 
 
 ### TECHNOLOGY USE IN THE CLASSROOM
