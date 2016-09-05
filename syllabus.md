@@ -196,7 +196,7 @@ If you are student with a disability who is requesting accommodations, please co
 
 *   [AIGA’s Ethnography Primer]([http://www.aiga.org/ethnography-primer/])
 *   [IDEO’s Human-centered Design Toolkit]([http://www.ideo.com/work/human-centered-design-toolkit)
-*   _Steal like an Artist_ by Austin Kleon
+
 *   _Writing for Visual Thinkers: A Guide for Artists and Designers_ by Andrea Marks.
 
 
