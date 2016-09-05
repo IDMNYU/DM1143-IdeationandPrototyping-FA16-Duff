@@ -158,16 +158,16 @@ Your final grade will be based on a synthesis of quantitative &amp; qualitative 
 
 ##### Qualitative Grading Overview
 
-*   **A Excellent** (Work of exceptional quality; Exceeds Expectations)
-*   **A- Very Good** (Work of high quality)
-*   **B+ Good** (Solid work; Meets Expectations)
-*   **B Satisfactory** (Good work; Satisfies course requirements)
+*   **A Exceptional** (Work of exceptional quality; Exceeds Expectations)
+*   **A- Excellent** (Work of high quality)
+*   **B+ Very Good** 
+*   **B Good** (Solid work, though not of the highest level)
 *   **B- Needs Improvement** (Below average work)
-*   **C+ Poor Work** (Well Below Average)
-*   **C Inadequate** (Less than adequate work)
-*   **C-**
-*   **D**
-*   **D**
+*   **C+ ** A little above average
+*   **C Satisfactory** Average, Satisfies course requirements
+*   **C-** Below average, but passing	 
+*   **D+ Poor Work** Deficient, but passing	 
+*   **D Inadequate** Deficient, but passing	 
 *   **F Unacceptable** (The performance and/or attendance of the student has failed course requirements.)
 
 
