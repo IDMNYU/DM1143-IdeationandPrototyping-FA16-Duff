@@ -1,4 +1,4 @@
-### DM-UY 1143 Ideation and Prototyping
+;### DM-UY 1143 Ideation and Prototyping
 ##### Fall 2016 • De Angela L. Duff • Tuesdays and Thursdays • 10:30-12:20pm • 2MTC MAGNET 811
 
 ---
@@ -29,13 +29,8 @@
  <li>Reading the weekly schedule. NOTE: Due on date listed</li>
  <li>Discuss course &amp; learning objectives in syllabus</li>
 </ul>
-<li>Assign Show &amp; Tells</li>
 </ul>
-
-
-</ul>
-
-</ul></td>
+</td>
 
 <!-- 2nd column class -->
 <td valign="top" width="48%">
@@ -68,7 +63,7 @@
   <li>If you already have a sites.bxmc.poly.edu account, have elton install another instance of wordpress in a directory labeled vfs</li>
   <li>Alternatively create a vfs directory if you have server space of your own via an ISP (Internet Service Provider), and install wordpress in that directory.</li>
   </ul>
-  <li>Post your wordpress or tumblr URL to the vfs_fa16 slack channel</li>
+  <li>Post your wordpress or tumblr URL to the i&amp;p_fa16 slack channel</li>
   </td>
 </table>
 
