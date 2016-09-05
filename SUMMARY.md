@@ -13,7 +13,7 @@
    * [Self Assessments](self_assessments.md)
    * [Visit Talk Meetup](visit_talk_meetup.md)
 * [Projects](projects.md)
-   * [Creative Process Paper and Documentary](creative_process.md)
+   * [Creative Process Video Documentary](creative_process.md)
    * [Future Dystopia Utopia Project](future.md)
 * [Printed Assignment Guidelines](printed_assignment_guidelines.md)
 * [Recommended Resources](recommended_resources.md)
