@@ -23,10 +23,7 @@ _The class website is the official source for all dates and assignments; the syl
 | 14 | [Phase 4: Prototyping: Future Dystopia / Utopia Project](week_14.md) |
 | 15 | [Phase 5: Positioning / Pitching: Future Dystopia / Utopia Project](week_15.md) |
 
-### DM-UY 1123 Visual Foundation Studio
-##### Fall 2016 • De Angela L. Duff • Tuesdays & Wednesdays • 2:30-4:20pm • 2MTC MAGNET 811 
 
----
 
 **All dates and assignments are subject to change at the discretion of the professor! Gitbook and slack are the official sources for all dates and assignments.**
 
