@@ -185,7 +185,6 @@ All work for this class must be your own and specific to this semester. Any work
 If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu.  You must be registered with CSD to receive accommodations.  Information about the Moses Center can be found at www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
 
 
-
 ### ADDITIONAL INFO REGARDING PRINTING
 
 Students, in addition to their regular NYU allotment, also have available to them $5 in printing credits for use at the Dibner Library. Credits are issued by the MAGNET Managers in Rm 809 and must be signed for before the credits can be used. Once signed for, students will be issued a username and password which can be used at any of the printer stations at Dibner Library. Print jobs can be sent to the printer from any computer station at the Library. See the Library staff for further assistance.
@@ -205,6 +204,7 @@ Students, in addition to their regular NYU allotment, also have available to the
 *   _Writing for Visual Thinkers: A Guide for Artists and Designers_ by Andrea Marks.
 *   _Universal Methods of Design_ by Bella Martin and Bruce Hanington
 
+
 ### REQUIRED READINGS
 
 _The following list of required readings may be incomplete and is subject to change. Please see the course website for updates._
@@ -213,6 +213,7 @@ _The following list of required readings may be incomplete and is subject to cha
 *   Peavey, Fran. “[Strategic Questioning: An approach to creating personal and social change.](http://www.context.org/iclib/ic40/peavey)” In Context, Spring 1995\.
 *   Rohde, Mike. “[Sketching: the Visual Thinking Power Tool](http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/)” A List Apart. January 25, 2011\. 
 *   Trollbäck, Jakob. “[One Designer Shares: How to Use Design to Tell a Story.](http://www.howdesign.com/article/storytelling/)” HOW Design. 23 Jan. 2008\. 
+
 
 ### REQUIRED MEDIA
 
@@ -223,10 +224,9 @@ _The following list of required readings may be incomplete and is subject to cha
 ### REQUIRED SOFTWARE
 
 
-
-
 ### [RECOMMENDED RESOURCES]()
 See Appendix
+
 
 ### PROJECTS & ASSIGNMENTS
 
@@ -237,8 +237,6 @@ All due dates can be found in the calendar. This is just an overview and descrip
 
 
 #### Assignments
-
-
 
 ### [SCHEDULE OVERVIEW GRID]()
 See Appendix
