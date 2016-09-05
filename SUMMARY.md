@@ -1,5 +1,39 @@
 # Summary
 
+<<<<<<< HEAD
+* [Introduction](README.md)
+* [Syllabus](syllabus.md)
+* [Schedule](schedule.md)
+   * [Week 1](week_1.md)
+   * [Week 2](week_2.md)
+   * [Week 3](week_3.md)
+   * [Week 4](week_4.md)
+   * [Week 5](week_5.md)
+   * [Week 6](week_6.md)
+   * [Week 7](week_7.md)
+   * [Week 8](week_8.md)
+   * [Week 9](week_9.md)
+   * [Week 10](week_10.md)
+   * [Week 11](week_11.md)
+   * [Week 12](week_12.md)
+   * [Week 13](week_13.md)
+   * [Week 14](week_14.md)
+   * [Week 15](week_15.md)
+* [Assignments](assignments.md)
+   * [Constant Input Choices](constant_input_choices.md)
+   * [Inputs Map](input_map.md)
+   * [Process Website](process_website.md)
+   * [Narrative Timeline](narrative_timeline.md)
+   * [Notebook or Sketchbook](notebook_or_sketchbook.md)
+   * [Self Assessments](self_assessments.md)
+   * [Visit Talk Meetup](visit_talk_meetup.md)
+* [Projects](projects.md)
+   * [Creative Process Paper and Documentary](creative_process.md)
+   * [Future Dystopia Utopia Project](future.md)
+* [Printed Assignment Guidelines](printed_assignment_guidelines.md)
+* [Recommended Resources](recommended_resources.md)
+=======
 * Introduction
 * [Syllabus](syllabus.md)
+>>>>>>> origin/master
 
