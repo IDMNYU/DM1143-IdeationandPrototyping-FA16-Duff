@@ -31,7 +31,7 @@ _~Albert Einstein_
 
 In this class, the creative process will be investigated in order to generate ideas for art, design, technology, and business endeavors. The course will show how ideation, design research &amp; thinking, and prototyping can inspire, inform, and bring depth to what one ultimately creates. Students will expand their arsenal of design research skills, learn how to think critically about their audience, content, form, and processes, as well as, understand the importance of utilizing more than one research and design strategy.
 
-**Program Goals**
+### PROGRAM GOALS
 
 The following Integrated Digital Media program goals are introduced and reinforced within this course. Students will:
 
@@ -40,7 +40,7 @@ The following Integrated Digital Media program goals are introduced and reinforc
 *   develop critical thinking skills that will allow them to analyze and position their work within cultural, historical, aesthetic, economic, and technological contexts.
 *   develop collaboration skills to actively and effectively work in a team or group.
 
-**Course Objectives**
+### COURSE GOALS
 
 To get students to:
 
@@ -51,17 +51,15 @@ To get students to:
 *   improve writing, documentation, and presentation skills
 *   facilitate collaboration
 
-**Course Outcomes**
+
+### LEARNING OUTCOMES
 
 By the end of this course students should be able to:
 
 *   to search and spot ideas, and transform these invisible ideas into visible realizations
 
-**Course Requirements** 
 
-
-
-**Course Structure**
+### COURSE STRUCTURE
 
 The course will be comprised of lectures, critiques, discussions, readings, screenings, exercises, projects, and a collaborative research paper.
 
@@ -114,14 +112,36 @@ There will be discrete team and individual exercises and projects that require y
 *   Framing and positioning
 *   Storytelling, engaging, communicating, selling
 
-**Evaluation &amp; Grading**
+
+
+### STUDENT RESPONSIBILITIES
+
+* Schedule your time (keep a calendar of some sort) 
+* Come to class on time and participate (be present and engaged)
+* Study outside of class (ideally with classmate(s)
+* Devote at a minimum 4 to 8 hours per week outside of class, fulfilling homework assignments, reading, and studying concepts covered in class.
+* Consult slack at least once a week for up to date info
+* Complete all assignments by due dates
+* Acquire and read all assigned readings before they are due
+* Action – do your absolute best
+* Strive for continuous improvement
+* Direct message me on slack re: contact about logistics (when, where, how many?) only
+* Talk to me in person about issues and problems. Do not direct message me long conversations on slack. (if your email turns into a paragraph or two that means you should be talking to me in person, not emailing me.)
+* Have desire amounting to enthusiasm (to learn, to explore)
+* Have patience, persistence, and discipline 
+* Be creative
+* Pay attention to detail & craft
+* Have self-confidence and pride in your work
+* Take risks & be fearless in your projects
+* Have fun!
+
+
+### EVALUATION & GRADING
 
 *   All work assigned will be completed and delivered on the due date, otherwise you will receive a failing grade for that assignment. In other words, late work will not be accepted.
 *   Makeup assignments are only available when discussed with and approved by the instructor in advance of the due date.
 *   Each student will be judged on the application of the ideas and concepts introduced during the course. Incomplete or unsatisfactory work will receive a failing grade.
-
-**Grading**
-
+ 
 Your final grade will be based on a synthesis of quantitative &amp; qualitative rubrics:
 
 _Quantitative Overview_
