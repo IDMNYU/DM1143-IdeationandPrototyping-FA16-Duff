@@ -20,6 +20,7 @@ _Idea Generation_
 *   _Cracking Creativity_ by Michael Michalko
 *   IdeaSpotting: How to Find Your Next Great Idea by Sam Harrison
 *   IDEO method cards
+*   _Steal like an Artist_ by Austin Kleon
 *   The Art of Looking Sideways by Alan Fletcher
 *   Thinkertoys: A Handbook of Creative-Thinking Techniques by Michael Michalko
 *   Thinkpak cards
