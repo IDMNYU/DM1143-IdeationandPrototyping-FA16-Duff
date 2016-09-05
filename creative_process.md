@@ -40,7 +40,7 @@ The key to your research is a proliferation of references on your subject, parti
 
 ###Annotated Bibliography
 
-You will write an annotated bibliography as a team. I recommend using google docs to collaboratively write.
+You will write an annotated bibliography as a team. I recommend using google docs to collaboratively write. The bare minimum of sources is five.
 
 Using [Purdue OWL Annotated Bibliography Guidelines](https://owl.english.purdue.edu/owl/resource/614/01/), summarize, assess, and reflect.
 
