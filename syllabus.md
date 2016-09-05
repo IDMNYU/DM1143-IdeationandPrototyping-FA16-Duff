@@ -1,16 +1,14 @@
-<<<<<<< HEAD
 # DM-UY 1143 Ideation and Prototyping
 
-[insert logo here]
-
+![NYU](http://engineering.nyu.edu/files/tandon_long_black.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    De Angela L. Duff • deangela.duff@nyu.edu • Spring 2017 
-    Day • time-timePM • 2MTC MAGNET rm number • 3 credit hrs
+    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2016 
+    Tuesdays & Thursday • 10:30AM-12:30PM • 2MTC MAGNET 811 • 3 credit hrs
     Office hours by appointment or directly before class 
     Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718  
 
-#####Gitbook Repository: https://www.gitbook.com/book/deangela/senior-project-in-digital-media-spring-2016/content/
+#####Gitbook Repository: https://deangela.gitbooks.io/dm1143-ideation-and-prototyping-fall-2016/content/
 
 #####Course Management Site: http://bxmc.slack.com 
 
@@ -273,7 +271,3 @@ If you are student with a disability who is requesting accommodations, please co
                 6.  Forgery: altering any academic document, including, but not limited to, academic records, admissions materials, or medical excuses.
 
 Access the entire School of Engineering Student Code of Conduct here: [engineering.nyu.edu/academics/code-of-conduct](http://engineering.nyu.edu/academics/code-of-conduct)
-=======
-# Syllabus
-
->>>>>>> origin/master
