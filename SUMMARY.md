@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Syllabus](syllabus.md)
 * [Schedule](schedule.md)
-   * [Week 1](week_1_detail_sep_6.md)
+   * [Week 1 Detail Sep 6](week_1_detail_sep_6.md)
 * [Assignments](assignments.md)
    * [Constant Input Choices](constant_input_choices.md)
    * [Inputs Map](input_map.md)
