@@ -99,7 +99,7 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>15</td>     
         <td>Dec 13<br>NO CLASS: Legislative Day - Classes will meet according to a Monday schedule</td>  
-        <td>Dec 15<br><strong>Phase 4: Prototyping: Future Dystopia / Utopia Project</strong></td>
+        <td>Dec 15<br><br>Future Dystopia / Utopia Project: <strong>Positioning and Pitching</strong></td>
     </tr>
     <tr>
         <td>16</td>
