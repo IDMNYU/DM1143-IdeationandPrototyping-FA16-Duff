@@ -116,6 +116,6 @@ _The class website is the official source for all dates and assignments; the syl
 
 Fri Dec 16 and Mon Dec 19<br>
 * **INDIVIDUAL ONE on ONES (To Be Scheduled)**
-* ****
+
 
 
