@@ -33,7 +33,7 @@
 </ul>
 Discuss:
 <ul>
-<li>Personal Inventories</li>
+<li>Constant Input Choices</li>
 <li>Personal Inventories</li>
 </ul>
 </td>
