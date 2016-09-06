@@ -18,12 +18,12 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>1</td>
         <td><a href="week_1_detail_sep_6.md">Sep 6<br><strong>Course and Student Introductions<br>Overview of Course</strong></a></td>
-        <td><a href="week_1_detail_sep_8.md">Sep 8<br><strong>Phase 1: Discovery / Inspiration / Process: Inputs</strong></a></td>
+        <td><a href="week_1_detail_sep_8.md">Sep 8<br><strong>Phase 1: Discovery / Inspiration / Process: Personal Inventories</strong></a></td>
     </tr>
     <tr>
         <td>2</td>    
-        <td><a href="week_2_detail_sep_8.md"></a>Sep 13<br><strong>Phase 1: Discovery / Inspiration / Process: Everything is a Remix</strong></td>
-        <td valign="top"><a href="week_3_detail_sep_15.md"></a>Sep 15<br><strong></td>
+        <td><a href="week_2_detail_sep_8.md"></a>Sep 13<br><strong>Phase 1: Discovery / Inspiration / Process: Inputs</strong></td>
+        <td valign="top"><a href="week_3_detail_sep_15.md"></a>Sep 15<br><strong>Phase 1: Discovery / Inspiration / Process: Everything is a Remix</strong></td>
     </tr>
     <tr>
         <td><td>Sep 19<br><i>Last day to drop Fall 2016 classes and not receive a grade of "W"</i></td><td></td>
