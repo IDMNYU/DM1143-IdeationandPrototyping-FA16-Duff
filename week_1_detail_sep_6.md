@@ -46,21 +46,6 @@
   <td>Watch at least three of your classmates' personal inventory videos.</td> 
 </tr>
 
-<!-- read -->
-<tr>
-  <td valign="top">read</td>
-  <td></td>
-  <td><ul>
-  <li>Rohde, Mike. “<a href="http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/" target="_blank">Sketching: the Visual Thinking Power Tool.</a>” A List Apart. January 25, 2011. </li>
-<li>Brown, Sunni. “<a href="http://www.alistapart.com/articles/the-miseducation-of-the-doodle/" target="_blank">The Miseducation of the Doodle.</a>” A List Apart. January 25, 2011. </li>
-<li>Writing for Visual Thinkers: A Guide for Artists and Designers* by Andrea Marks</li>
-  <ul>
-  <li>Mind Maps, p. 12-13
-  <li>Concept Maps, p. 14-15
-  <li>Freewriting, p. 17- 19
-  <li>Journals and Sketchbooks, p. 32-41
-  <li>Verbal Literacy, p. 60-67</ul></td> 
-</tr>
 
 <!-- film -->
 <tr>
