@@ -81,7 +81,7 @@
 <tr>
 <td>write (on your process website)</td>
 <td></td>
-<td>Write responses to at least two classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos.</td>
+<td>Write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos.</td>
 </tr>
 
 <!-- do -->
