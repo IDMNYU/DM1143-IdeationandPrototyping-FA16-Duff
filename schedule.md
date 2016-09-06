@@ -57,8 +57,8 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>8</td>     
-        <td><strong>Phase 2: Research / Ideation / Brainstorming)</strong></td>
-        <td valign="top">Oct 27<br><strong></strong></td>
+        <td>Oct 25<br>Creative Process Annotated Biblography and Video Documentary: <strong>Creative Process Video Documentary DUE</strong></td>
+        <td valign="top">Oct 27<br><strong>Midterm Self-Assessment DUE</strong></td>
     </tr>
     <tr>
         <td>9</td>      
