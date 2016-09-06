@@ -33,7 +33,8 @@
 </ul>
 Discuss:
 <ul>
-<li>Constant Input Choices</li>
+<li>Assignment: Constant Input Choices</li>
+<li>Assignment: Visit Talk or Meetup</li>
 <li>Personal Inventories</li>
 </ul>
 </td>
