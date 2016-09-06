@@ -70,6 +70,13 @@
   <li>Verbal Literacy, p. 60-67</ul></td> 
 </tr>
 
+<!-- film -->
+<tr>
+<td>film</td>
+<td></td>
+<td>A personal inventory of at least 3 objects along with your commentary / narration, using your smart phone and post it to your process website by embedding a youtube or vimeo video.</td>
+</tr>
+
 <!-- write -->
 <tr>
 <td>write (on your process website)</td>
