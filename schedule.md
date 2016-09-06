@@ -47,13 +47,13 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>6</td>    
-        <td><a href="week_6_detail_oct_6.md"></a>Oct 11<br>Phase 1: Discovery / Inspiration / Process: <strong>Creative Process Annotative Biblography and Video Documentary (continued)</strong></td>
-        <td><a href="week_7_detail_oct_13.md"></a>Oct 13<br><strong></strong></td>
+        <td><a href="week_6_detail_oct_6.md"></a>Oct 11<br>Creative Process Annotated Biblography and Video Documentary: <strong>Animatic 1st Draft</strong></td>
+        <td><a href="week_7_detail_oct_13.md"></a>Oct 13<br>Creative Process Annotated Biblography and Video Documentary: <strong>Animatic 2nd Draft</strong></td>
     </tr>
     <tr>
         <td>7</td>     
-        <td><a href="week_7_detail_oct_13.md"></a>Oct 18<br>Phase 1: Discovery / Inspiration / Process: <strong>Creative Process Annotative Biblography and Video Documentary (continued)</strong></td>
-        <td><a href="week_8_detail_oct_20.md"></a>Oct 20<br><strong></strong></td>
+        <td><a href="week_7_detail_oct_13.md"></a>Oct 18<br>Creative Process Annotated Biblography and Video Documentary: <strong></strong></td>
+        <td><a href="week_8_detail_oct_20.md"></a>Oct 20<br>Creative Process Annotated Biblography and Video Documentary: <strong></strong></td>
     </tr>
     <tr>
         <td>8</td>     
