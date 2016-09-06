@@ -70,6 +70,17 @@
   <li>Verbal Literacy, p. 60-67</ul></td> 
 </tr>
 
+<!-- write -->
+<tr>
+<td>write (on your process website)</td>
+<td></td>
+<td>
+<ul>
+<li>What is your <b>learning style</b> and why? (Consult Learning Styles, p. 49 in Writing for Visual Thinkers: A Guide for Artists and Designers.
+<li>What is your <b>thinking style</b> and why? (Consult Thinking Styles p. 49 in Writing for Visual Thinkers: A Guide for Artists and Designers.
+<li>What is your <b>communication style</b> and why? (Consult Communication Styles, p. 50 in Writing for Visual Thinkers: A Guide for Artists and Designers.
+<li>What is your <b>working style</b> and why? (Consult Working Styles p. 50 in Writing for Visual Thinkers: A Guide for Artists and Designers.</ul></td>
+</tr>
 
 <!-- do -->
 <tr>
