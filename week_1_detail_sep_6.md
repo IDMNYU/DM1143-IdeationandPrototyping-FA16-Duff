@@ -72,7 +72,7 @@
   <ul>
   <li>Get setup with a website to post your homework</li>
   
-  <li>Post your wordpress or tumblr URL to the i&amp;p_fa16 slack channel</li>
+  <li>Post your wordpress or tumblr URL to the ip_fa16 slack channel</li>
   </td>
 </table>
 
