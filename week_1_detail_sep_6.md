@@ -19,7 +19,7 @@
 <tr>
 <td valign="top">class</td>
 <td valign="top">
-<strong>Course and Student Introductions</strong><br>
+<strong>Student Introductions</strong><br>
 
 <strong>Overview of Course</strong>
 <ul>
