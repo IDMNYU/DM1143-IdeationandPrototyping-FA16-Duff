@@ -31,7 +31,7 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>3</td> 
         <td valign="top"><a href="week_3_detail_sep_15.md"></a>Sept 20<br>Phase 1: Discovery / Inspiration / Process: <strong>Photo Studies</strong></td>
-        <td valign="top"><a href="week_4_detail_sep_22.md"></a>Sep 22<br></td>
+        <td valign="top"><a href="week_4_detail_sep_22.md"></a>Sep 22<br>Phase 1: Discovery / Inspiration / Process: <strong>Visual Map of Classmate</strong></td>
     </tr>
     <tr>
         <td>4</td>
