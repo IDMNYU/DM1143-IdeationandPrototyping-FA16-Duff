@@ -88,22 +88,28 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>13</td>  
-        <td>Nov 29<br>Future Dystopia / Utopia Project: <strong>Sketching and Mapping></td>
-        <td>Dec 1<br>Future Dystopia / Utopia Project: <strong>Sketching and Mapping</td>
+        <td>Nov 29<br>Future Dystopia / Utopia Project: <strong>Storyboard 1st Draft</td>
+        <td>Dec 1<br>Future Dystopia / Utopia Project: <strong>Storyboard 2nd Draft</td>
     </tr>
     <tr>
         <td>14</td>    
-        <td>Dec 6<br><strong></strong></td>
-        <td>Dec 8<br><strong>Phase 4: Prototyping: Future Dystopia / Utopia Project</strong></td>
+        <td>Dec 6<br>Future Dystopia / Utopia Project: <strong>Lo-fi Prototype 1st Draft</td>
+        <td>Dec 8<br>Future Dystopia / Utopia Project: <strong>Lo-fi Prototype 2nd Draft</td>
     </tr>
     <tr>
         <td>15</td>     
         <td>Dec 13<br>NO CLASS: Legislative Day - Classes will meet according to a Monday schedule</td>  
-        <td>Dec 15<br><br>Future Dystopia / Utopia Project: <strong>Positioning and Pitching</strong></td>
+        <td>Dec 15<br><br>Future Dystopia / Utopia Project: <ul>
+        <li><strong>Hi-Fidelity Prototype 1st Draft</strong></li>
+        <li><strong>Positioning and Pitching 1st Draft</strong></li>
+        </ul></td>
     </tr>
     <tr>
         <td>16</td>
-        <td>Dec 20<br>Future Dystopia / Utopia Project: <strong>Positioning and Pitching</strong></td>
+        <td>Dec 20<br>Future Dystopia / Utopia Project: <ul>
+        <li><strong>Hi-Fidelity Prototype 2n Draft</strong></li>
+        <li><strong>Positioning and Pitching FINAL</strong></li>
+        </ul></td>
         <td></td>
     </tr>
 </table>
