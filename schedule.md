@@ -23,19 +23,19 @@ _The class website is the official source for all dates and assignments; the syl
         <li>Overview of Course</li></a></td>
         <td><a href="week_1_detail_sep_8.md">Sep 8<br>Phase 1: Discovery / Inspiration / Process: <strong>Personal Inventories</strong</li></ul></a></td>
     </tr>
+        <tr>
+        <td>2</td> 
+        <td valign="top"><a href="week_3_detail_sep_15.md"></a>Sept 13<br>Phase 2: Research / Ideation / Brainstorming: <strong>Photo Studies</strong></td>
+        <td valign="top"><a href="week_4_detail_sep_22.md"></a>Sep 15<br>Phase 3: Design / Sketching / Mapping: <strong>Visual Map of Classmate</strong></td>
+    </tr>
     <tr>
-        <td>2</td>    
-        <td><a href="week_2_detail_sep_8.md"></a>Sep 13<br>Phase 1: Discovery / Inspiration / Process: <strong>Inputs</strong></td>
-        <td valign="top"><a href="week_3_detail_sep_15.md"></a>Sep 15<br>Phase 1: Discovery / Inspiration / <strong>Process</strong> </td>
+        <td>3</td>    
+        <td><a href="week_2_detail_sep_8.md"></a>Sep 20<br>Phase 1: Discovery / Inspiration / Process: <strong>Inputs</strong></td>
+        <td valign="top"><a href="week_3_detail_sep_15.md"></a>Sep 22<br>Phase 1: Discovery / Inspiration / <strong>Process</strong> </td>
     </tr>
     <tr>
         <td><td>Sep 19<br><i>Last day to drop Fall 2016 classes and not receive a grade of "W"</i></td><td></td>
     </tr
-    <tr>
-        <td>3</td> 
-        <td valign="top"><a href="week_3_detail_sep_15.md"></a>Sept 20<br>Phase 2: Research / Ideation / Brainstorming: <strong>Photo Studies</strong></td>
-        <td valign="top"><a href="week_4_detail_sep_22.md"></a>Sep 22<br>Phase 3: Design / Sketching / Mapping: <strong>Visual Map of Classmate</strong></td>
-    </tr>
     <tr>
         <td>4</td>
         <td valign="top"><a href="week_4_detail_sep_22.md"></a>Sep 27<br>Phase 1: Discovery / Inspiration / Process: <strong>Everything is a Remix</strong></td>
