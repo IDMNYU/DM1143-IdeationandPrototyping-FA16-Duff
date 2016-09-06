@@ -36,7 +36,8 @@ Discuss:
 <li>Assignment: Constant Input Choices</li>
 <li>Assignment: Visit Talk or Meetup</li>
 <li>Assignment: Process Website</li>
-<li>(if time) Assignment: Process Website
+<li>(if time) Assignment: Notebook or Sketchbook
+<li> (if time) Midterm and Final Project
 <li>Personal Inventories</li>
 </ul>
 </td>
