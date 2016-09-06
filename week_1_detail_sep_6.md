@@ -70,8 +70,7 @@
   </ul></td>
   <td valign="top">
   <ul>
-  <li>Get setup with a website to post your homework</li>
-  
+  <li>Get setup with a <a href="process_website.md">process website</a> to post your homework</li>
   <li>Post your wordpress or tumblr URL to the ip_fa16 slack channel</li>
   </td>
 </table>
