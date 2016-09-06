@@ -29,12 +29,20 @@
  <li>Reading the weekly schedule. NOTE: Due on date listed</li>
  <li>Discuss course &amp; learning objectives in syllabus</li>
 </ul>
+<li>Discuss Personal Inventories</li>
 </ul>
 </td>
 
 <!-- 2nd column class -->
 <td valign="top" width="48%">
-
+Discuss:
+  <ul>
+  <li>Mind Maps
+  <li>Concept Maps
+  <li>Freewriting
+  <li>Journals and Sketchbooks
+  <li>Verbal Literacy
+  </ul>
 </td>
  
 </tr>
