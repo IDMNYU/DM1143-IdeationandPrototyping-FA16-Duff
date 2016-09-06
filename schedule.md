@@ -40,27 +40,27 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="week_5_detail_sep_29.md"></a>Oct 04<br><strong></strong></td>
+        <td><a href="week_5_detail_sep_29.md"></a>Oct 04<br><strong>Phase 1: Discovery / Inspiration / Process: Creative Process Annotative Biblography and Video Documentary (continued)</strong></td>
         <td><a href="week_6_detail_oct_6.md"></a>Oct 06<br><strong></strong></td>
     </tr>
     <tr>
         <td>6</td>    
-        <td><a href="week_6_detail_oct_6.md"></a>Oct 11<br><strong></strong></td>
+        <td><a href="week_6_detail_oct_6.md"></a>Oct 11<br><strong>Phase 1: Discovery / Inspiration / Process: Creative Process Annotative Biblography and Video Documentary (continued)</strong></td>
         <td><a href="week_7_detail_oct_13.md"></a>Oct 13<br><strong></strong></td>
     </tr>
     <tr>
         <td>7</td>     
-        <td><a href="week_7_detail_oct_13.md"></a>Oct 18<br><strong></strong></td>
+        <td><a href="week_7_detail_oct_13.md"></a>Oct 18<br><strong>Phase 1: Discovery / Inspiration / Process: Creative Process Annotative Biblography and Video Documentary (continued)</strong></td>
         <td><a href="week_8_detail_oct_20.md"></a>Oct 20<br><strong></strong></td>
     </tr>
     <tr>
         <td>8</td>     
-        <td><a href="week_8_detail_oct_20.md"></a>Oct 25<br><strong></strong></td>
+        <td><a href="week_8_detail_oct_20.md"></a>Oct 25<br><strong>Phase 1: Discovery / Inspiration / Process: Creative Process Annotative Biblography and Video Documentary (continued)</strong></td>
         <td valign="top">Oct 27<br><strong></strong></td>
     </tr>
     <tr>
         <td>9</td>      
-        <td valign="top">Nov 1<br><strong></strong></td>
+        <td valign="top">Nov 1<br><strong>Phase 2: Research / Ideation / Brainstorming)</strong></td>
         <td>Nov 3<br><strong></strong></td>
     </tr>
      <tr>
@@ -68,7 +68,7 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>10</td>     
-        <td>Nov 8<br><strong></strong></td>
+        <td>Nov 8<br><strong>Phase 2: Research / Ideation / Brainstorming)</strong></td>
         <td>Nov 10<br><strong></strong></td>
     </tr>
     <tr>
@@ -84,21 +84,21 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>13</td>  
         <td>Nov 29<br><strong></strong></td>
-        <td>Dec 1<br><strong></strong></td>
+        <td>Dec 1<br><strong>Phase 3: Design / Sketching / Mapping:** Future Dystopia / Utopia Project</strong></td>
     </tr>
     <tr>
         <td>14</td>    
         <td>Dec 6<br><strong></strong></td>
-        <td>Dec 8<br><strong></strong></td>
+        <td>Dec 8<br><strong>Phase 4: Prototyping:** Future Dystopia / Utopia Project</strong></td>
     </tr>
     <tr>
         <td>15</td>     
         <td>Dec 13<br>NO CLASS: Legislative Day - Classes will meet according to a Monday schedule</td>  
-        <td>Dec 15<br><strong></strong></td>
+        <td>Dec 15<br><strong>Phase 4: Prototyping:** Future Dystopia / Utopia Project</strong></td>
     </tr>
     <tr>
         <td>16</td>
-        <td>Dec 20<br><strong></strong></td>
+        <td>Dec 20<br><strong>Phase 5: Positioning / Pitching:** Future Dystopia / Utopia Project</strong></td>
         <td></td>
     </tr>
 </table>
