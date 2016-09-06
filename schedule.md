@@ -107,7 +107,7 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>16</td>
         <td>Dec 20<br>Future Dystopia / Utopia Project: <ul>
-        <li><strong>Hi-Fidelity Prototype 2n Draft</strong></li>
+        <li><strong>Hi-Fidelity Prototype 2nd Draft</strong></li>
         <li><strong>Positioning and Pitching FINAL</strong></li>
         </ul></td>
         <td></td>
