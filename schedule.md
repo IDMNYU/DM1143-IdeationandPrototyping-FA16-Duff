@@ -18,44 +18,44 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>1</td>
         <td><a href="week_1_detail_sep_6.md">Sep 6<br><strong>Course and Student Introductions<br>Overview of Course</strong></a></td>
-        <td><a href="week_1_detail_sep_8.md">Sep 8<br><strong>Phase 1: Discovery / Inspiration / Process: Personal Inventories</strong></a></td>
+        <td><a href="week_1_detail_sep_8.md">Sep 8<br>Phase 1: Discovery / Inspiration / Process: <strong>Personal Inventories</strong></a></td>
     </tr>
     <tr>
         <td>2</td>    
-        <td><a href="week_2_detail_sep_8.md"></a>Sep 13<br><strong>Phase 1: Discovery / Inspiration / Process: Inputs</strong></td>
-        <td valign="top"><a href="week_3_detail_sep_15.md"></a>Sep 15<br><strong>Phase 1: Discovery / Inspiration / Process: Everything is a Remix</strong></td>
+        <td><a href="week_2_detail_sep_8.md"></a>Sep 13<br>Phase 1: Discovery / Inspiration / Process: <strong>Inputs</strong></td>
+        <td valign="top"><a href="week_3_detail_sep_15.md"></a>Sep 15<br>Phase 1: Discovery / Inspiration / <strong>Process</strong> </td>
     </tr>
     <tr>
         <td><td>Sep 19<br><i>Last day to drop Fall 2016 classes and not receive a grade of "W"</i></td><td></td>
     </tr
     <tr>
         <td>3</td> 
-        <td valign="top"><a href="week_3_detail_sep_15.md"></a>Sept 20<br><strong>Phase 1: Discovery / Inspiration / Process: Creative Process Annotative Biblography and Video Documentary</strong></td>
-        <td valign="top"><a href="week_4_detail_sep_22.md"></a>Sep 22<br><strong></strong></td>
+        <td valign="top"><a href="week_3_detail_sep_15.md"></a>Sept 20<br><strong>Phase 1: Discovery / Inspiration / Process:</strong> Everything is a Remix</td>
+        <td valign="top"><a href="week_4_detail_sep_22.md"></a>Sep 22<br>Phase 1: Discovery / Inspiration / Process: <strong>Creative Process Annotative Biblography and Video Documentary</strong></td>
     </tr>
     <tr>
         <td>4</td>
-        <td valign="top"><a href="week_4_detail_sep_22.md"></a>Sep 27<br><strong>Phase 1: Discovery / Inspiration / Process: Creative Process Annotative Biblography and Video Documentary (continued)</strong></td>
+        <td valign="top"><a href="week_4_detail_sep_22.md"></a>Sep 27<br>Phase 1: Discovery / Inspiration / Process: <strong>Creative Process Annotative Biblography and Video Documentary (continued)</strong></td>
         <td><a href="week_5_detail_sep_29.md"></a>Sep 29<br><strong></strong></td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="week_5_detail_sep_29.md"></a>Oct 04<br><strong>Phase 1: Discovery / Inspiration / Process: Creative Process Annotative Biblography and Video Documentary (continued)</strong></td>
+        <td><a href="week_5_detail_sep_29.md"></a>Oct 04<br>Phase 1: Discovery / Inspiration / Process: <strong>Creative Process Annotative Biblography and Video Documentary (continued)</strong></td>
         <td><a href="week_6_detail_oct_6.md"></a>Oct 06<br><strong></strong></td>
     </tr>
     <tr>
         <td>6</td>    
-        <td><a href="week_6_detail_oct_6.md"></a>Oct 11<br><strong>Phase 1: Discovery / Inspiration / Process: Creative Process Annotative Biblography and Video Documentary (continued)</strong></td>
+        <td><a href="week_6_detail_oct_6.md"></a>Oct 11<br>Phase 1: Discovery / Inspiration / Process: <strong>Creative Process Annotative Biblography and Video Documentary (continued)</strong></td>
         <td><a href="week_7_detail_oct_13.md"></a>Oct 13<br><strong></strong></td>
     </tr>
     <tr>
         <td>7</td>     
-        <td><a href="week_7_detail_oct_13.md"></a>Oct 18<br><strong>Phase 1: Discovery / Inspiration / Process: Creative Process Annotative Biblography and Video Documentary (continued)</strong></td>
+        <td><a href="week_7_detail_oct_13.md"></a>Oct 18<br>Phase 1: Discovery / Inspiration / Process: <strong>Creative Process Annotative Biblography and Video Documentary (continued)</strong></td>
         <td><a href="week_8_detail_oct_20.md"></a>Oct 20<br><strong></strong></td>
     </tr>
     <tr>
         <td>8</td>     
-        <td><a href="week_8_detail_oct_20.md"></a>Oct 25<br><strong>Phase 1: Discovery / Inspiration / Process: Creative Process Annotative Biblography and Video Documentary (continued)</strong></td>
+        <td><a href="week_8_detail_oct_20.md"></a>Oct 25<br>Phase 1: Discovery / Inspiration / Process: <strong>Creative Process Annotative Biblography and Video Documentary (continued)</strong></td>
         <td valign="top">Oct 27<br><strong></strong></td>
     </tr>
     <tr>
@@ -84,7 +84,7 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>13</td>  
         <td>Nov 29<br><strong></strong></td>
-        <td>Dec 1<br><strong>Phase 3: Design / Sketching / Mapping: Future Dystopia / Utopia Project</strong></td>
+        <td>Dec 1<br>Phase 3: Design / Sketching / Mapping: <strong>Future Dystopia / Utopia Project</strong></td>
     </tr>
     <tr>
         <td>14</td>    
