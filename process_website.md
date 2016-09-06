@@ -18,4 +18,15 @@ You have several options:
 * If you already have a sites.bxmc.poly.edu account, have elton install another instance of wordpress in a directory labeled vfs (see below)
 * Alternatively create a vfs directory if you already have server space of your own via an ISP (Internet Service Provider), and install wordpress in that directory.
 
+If you don’t already have server space, please attend one of the group registrations for sites.bxmc.poly.edu with Elton Kwok, IDM's Technology Director, eltonkwok@nyu.edu, MAGNET 883.
 
+Group registration for IDM server accounts will happen on the third Friday of each month throughout the semester.  Sessions will start at 1PM and end at 5PM.
+
+* Friday September 9, room 811 at MAGNET
+* Friday September 23, room 811 at MAGNET
+* Friday October 21, room 811 at MAGNET
+* Friday November 18, room 811 at MAGNET
+
+Please remember to bring your laptop with you when you visit a session.
+
+  * If you choose wordpress on bxmc.poly.edu, set up your class website at http://sites.bxmc.poly.edu/~yourfirstnamelastname/ip
