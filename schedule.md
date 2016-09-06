@@ -73,8 +73,8 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>10</td>     
-        <td>Nov 8<br><strong>Phase 2: Research / Ideation / Brainstorming)</strong></td>
-        <td>Nov 10<br><strong></strong></td>
+        <td>Nov 8<br>Future Dystopia / Utopia Project: <strong>Ideation</strong></td>
+        <td>Nov 10<br><br>Future Dystopia / Utopia Project: <strong>Secondary Research</strong></td>
     </tr>
     <tr>
         <td>11</td>   
@@ -83,7 +83,7 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>12</td>   
-        <td>Nov 22<br><strong></strong></td>
+        <td>Nov 22<br>Future Dystopia / Utopia Project: <strong>Sketching and Mapping</strong></td>
         <td>Nov 24<br><i>NO CLASS: Thanksgiving Holiday</i></td>
     </tr>
     <tr>
