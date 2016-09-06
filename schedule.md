@@ -84,7 +84,7 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>13</td>  
         <td>Nov 29<br><strong></strong></td>
-        <td>Dec 1<br>Phase 3: Design / Sketching / Mapping: <strong>Future Dystopia / Utopia Project</strong></td>
+        <td>Dec 1<br><strong>Phase 3: Design / Sketching / Mapping: Future Dystopia / Utopia Project</strong></td>
     </tr>
     <tr>
         <td>14</td>    
