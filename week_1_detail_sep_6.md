@@ -60,7 +60,7 @@
   <td></td>
   <td><ul>
   <li>Rohde, Mike. “<a href="http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/" target="_blank">Sketching: the Visual Thinking Power Tool.</a>” A List Apart. January 25, 2011. </li>
-<li>Brown, Sunni. “The Miseducation of the Doodle.” A List Apart. January 25, 2011. http://www.alistapart.com/articles/the-miseducation-of-the-doodle/</li>
+<li>Brown, Sunni. “<a href="http://www.alistapart.com/articles/the-miseducation-of-the-doodle/" target="_blank">The Miseducation of the Doodle.</a>” A List Apart. January 25, 2011. </li>
 <li>Writing for Visual Thinkers: A Guide for Artists and Designers* by Andrea Marks</li>
   <ul>
   <li>Mind Maps, p. 12-13
