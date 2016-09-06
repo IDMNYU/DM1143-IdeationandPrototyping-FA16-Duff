@@ -30,30 +30,30 @@ _The class website is the official source for all dates and assignments; the syl
     </tr
     <tr>
         <td>3</td> 
-        <td valign="top"><a href="week_3_detail_sep_15.md"></a>Sept 20<br>Phase 1: Discovery / Inspiration / Process: <strong>Everything is a Remix</strong></td>
-        <td valign="top"><a href="week_4_detail_sep_22.md"></a>Sep 22<br>Phase 1: Discovery / Inspiration / Process: <strong>Narrative Timeline</strong></td>
+        <td valign="top"><a href="week_3_detail_sep_15.md"></a>Sept 20<br></td>
+        <td valign="top"><a href="week_4_detail_sep_22.md"></a>Sep 22<br></td>
     </tr>
     <tr>
         <td>4</td>
-        <td valign="top"><a href="week_4_detail_sep_22.md"></a>Sep 27<br>Creative Process Annotated Biblography and Video Documentary <strong>Brainstorming</strong></td>
-        <td><a href="week_5_detail_sep_29.md"></a>Sep 29<br>Creative Process Annotated Biblography and Video Documentary <strong>Annotated Biblography 1st Draft</strong></td>
+        <td valign="top"><a href="week_4_detail_sep_22.md"></a>Sep 27<br>Phase 1: Discovery / Inspiration / Process: <strong>Everything is a Remix</strong></td>
+        <td><a href="week_5_detail_sep_29.md"></a>Sep 29<br></strong>Phase 1: Discovery / Inspiration / Process: <strong>Narrative Timeline</strong></td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="week_5_detail_sep_29.md"></a>Oct 04<br>Creative Process Annotated Biblography and Video Documentary <ul>
-          <li><strong>Image or Text Storyboard 1st Draft</strong></li>
-          <li><strong>Annotated Biblography 2nd Draft</strong></li></ul></td>
-        <td><a href="week_6_detail_oct_6.md"></a>Oct 06<br>Creative Process Annotated Biblography and Video Documentary: <strong>Image or Text Storyboard 2nd Draft<strong></td>
+        <td><a href="week_5_detail_sep_29.md"></a>Oct 04<br>Creative Process Annotated Biblography and Video Documentary <strong>Brainstorming</strong></td>
+        <td><a href="week_6_detail_oct_6.md"></a>Oct 06<br>Creative Process Annotated Biblography and Video Documentary <strong>Annotated Biblography 1st Draft</td>
     </tr>
     <tr>
         <td>6</td>    
-        <td><a href="week_6_detail_oct_6.md"></a>Oct 11<br>Creative Process Annotated Biblography and Video Documentary: <strong>Animatic 1st Draft</strong></td>
-        <td><a href="week_7_detail_oct_13.md"></a>Oct 13<br>Creative Process Annotated Biblography and Video Documentary: <strong>Animatic 2nd Draft</strong></td>
+        <td><a href="week_6_detail_oct_6.md"></a>Oct 11<br>Creative Process Annotated Biblography and Video Documentary <ul>
+          <li><strong>Image or Text Storyboard 1st Draft</strong></li>
+          <li><strong>Annotated Biblography 2nd Draft</strong></li></ul></td>
+        <td><a href="week_7_detail_oct_13.md"></a>Oct 13<br>Creative Process Annotated Biblography and Video Documentary: <strong>Image or Text Storyboard 2nd Draft<strong></td>
     </tr>
     <tr>
         <td>7</td>     
-        <td><a href="week_7_detail_oct_13.md"></a>Oct 18<br>Creative Process Annotated Biblography and Video Documentary: <strong>Creative Process Video Documentary DUE</strong></td>
-        <td><a href="week_8_detail_oct_20.md"></a>Oct 20<br><strong>Midterm Self-Assessment DUE</strong></td>
+        <td><a href="week_7_detail_oct_13.md"></a>Oct 18<br>Creative Process Annotated Biblography and Video Documentary: <strong>Animatic 1st Draft</strong></td>
+        <td><a href="week_8_detail_oct_20.md"></a>Oct 20<br>Creative Process Annotated Biblography and Video Documentary: <strong>Animatic 2nd Draft</strong></td>
     </tr>
     <tr>
         <td>8</td>     
