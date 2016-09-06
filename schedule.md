@@ -103,7 +103,7 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>16</td>
-        <td>Dec 20<br><Future Dystopia / Utopia Project: <strong>Positioning and Pitching></strong></td>
+        <td>Dec 20<br>Future Dystopia / Utopia Project: <strong>Positioning and Pitching</strong></td>
         <td></td>
     </tr>
 </table>
