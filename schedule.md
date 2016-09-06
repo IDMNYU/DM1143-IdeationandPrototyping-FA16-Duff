@@ -33,8 +33,8 @@ _The class website is the official source for all dates and assignments; the syl
     </tr
     <tr>
         <td>3</td> 
-        <td valign="top"><a href="week_3_detail_sep_15.md"></a>Sept 20<br>Phase 2: Research / Ideation / Brainstorming <strong>Photo Studies</strong></td>
-        <td valign="top"><a href="week_4_detail_sep_22.md"></a>Sep 22<br>Phase 2: Research / Ideation / Brainstorming <strong>Visual Map of Classmate</strong></td>
+        <td valign="top"><a href="week_3_detail_sep_15.md"></a>Sept 20<br>Phase 2: Research / Ideation / Brainstorming: <strong>Photo Studies</strong></td>
+        <td valign="top"><a href="week_4_detail_sep_22.md"></a>Sep 22<br>Phase 3: Design / Sketching / Mapping: <strong>Visual Map of Classmate</strong></td>
     </tr>
     <tr>
         <td>4</td>
@@ -65,8 +65,8 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>9</td>      
-        <td valign="top">Nov 1<br><strong>Phase 2: Research / Ideation / Brainstorming</strong></td>
-        <td>Nov 3<br><strong></strong></td>
+        <td valign="top">Nov 1<br>Phase 2: Research / Ideation / Brainstorming: <strong>Storytelling</strong></td>
+        <td>Nov 3<br>Phase 2: Research / Ideation / Brainstorming: <strong>Objects</strong></td>
     </tr>
      <tr>
         <td></td><td>Nov 7<br><i>Last Day to Withdraw</i></td><td></td>
