@@ -35,6 +35,10 @@
 
 <!-- 2nd column class -->
 <td valign="top" width="48%">
+Review:
+<ul>
+<li>Personal Inventories</li>
+</ul>
 Discuss:
   <ul>
   <li>Mind Maps
