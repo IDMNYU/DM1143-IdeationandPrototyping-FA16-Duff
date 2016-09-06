@@ -36,6 +36,7 @@ Discuss:
 <li>Assignment: Constant Input Choices</li>
 <li>Assignment: Visit Talk or Meetup</li>
 <li>Assignment: Process Website</li>
+<li>(if time) Assignment: Process Website
 <li>Personal Inventories</li>
 </ul>
 </td>
