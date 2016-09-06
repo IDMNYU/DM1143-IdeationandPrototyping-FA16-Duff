@@ -53,7 +53,7 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>7</td>     
         <td><a href="week_7_detail_oct_13.md"></a>Oct 18<br>Creative Process Annotated Biblography and Video Documentary: <strong>Creative Process Video Documentary DUE</strong></td>
-        <td><a href="week_8_detail_oct_20.md"></a>Oct 20<br>Creative Process Annotated Biblography and Video Documentary: <strong></strong></td>
+        <td><a href="week_8_detail_oct_20.md"></a>Oct 20<br><strong>Midterm Self-Assessment DUE</strong></td>
     </tr>
     <tr>
         <td>8</td>     
