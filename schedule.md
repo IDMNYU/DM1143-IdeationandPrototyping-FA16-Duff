@@ -21,8 +21,7 @@ _The class website is the official source for all dates and assignments; the syl
         <ul>
         <li>Course and Student Introductions</li>
         <li>Overview of Course</li></a></td>
-        <td><a href="week_1_detail_sep_8.md">Sep 8<br>Phase 1: Discovery / Inspiration / Process: 
-        <ul><li><strong>Personal Inventories</strong</li></ul></a></td>
+        <td><a href="week_1_detail_sep_8.md">Sep 8<br>Phase 1: Discovery / Inspiration / Process: <strong>Personal Inventories</strong</li></ul></a></td>
     </tr>
     <tr>
         <td>2</td>    
