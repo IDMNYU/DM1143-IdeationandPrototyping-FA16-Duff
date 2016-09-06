@@ -39,13 +39,37 @@
  
 </tr>
 
-<!-- homework -->
+<!-- watch -->
+<tr>
+  <td valign="top">watch</td>
+  <td></td>
+  <td>
+  <ul>
+  <li>Metal Gear Solid Documentaries OR</li>
+    <ul><li>[Metal Gear Solid 2 Documentary](https://www.youtube.com/watch?v=eJVYND_YRx8)</li>
+    <li>[Metal Gear Solid 4 Documentary](https://www.youtube.com/watch?v=2nM7TLbs6fE) (make sure to turn on closed captioning)</li>
+    </ul>
+ <li>Exit Through The Gift Shop by Banksy OR</li> 
+<li>ALL if you choose</li>
+</ul></td> 
+</tr>
+
+<!-- read -->
 <tr>
   <td valign="top">read</td>
   <td></td>
-  <td></td>
-  
+  <td>*	Rohde, Mike. “Sketching: the Visual Thinking Power Tool.” A List Apart. January 25, 2011. http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/
+*	Brown, Sunni. “The Miseducation of the Doodle.” A List Apart. January 25, 2011. http://www.alistapart.com/articles/the-miseducation-of-the-doodle/
+*	Universal Methods of Design by Bella Martin and Bruce Hanington
+  *	62 Personal inventories, p. 130
+*	*Writing for Visual Thinkers: A Guide for Artists and Designers* by Andrea Marks.
+  *	Mind Maps, p. 12-13
+  *	Concept Maps, p. 14-15
+  *	Freewriting, p. 17- 19
+  *	Journals and Sketchbooks, p. 32-41
+    *	Verbal Literacy, p. 60-67</td> 
 </tr>
+
 
 <!-- do -->
 <tr>
