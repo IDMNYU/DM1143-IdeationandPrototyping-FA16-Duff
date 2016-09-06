@@ -17,8 +17,12 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="week_1_detail_sep_6.md">Sep 6<br><strong>Course and Student Introductions<br>Overview of Course</strong></a></td>
-        <td><a href="week_1_detail_sep_8.md">Sep 8<br>Phase 1: Discovery / Inspiration / Process: <strong>Personal Inventories</strong></a></td>
+        <td><a href="week_1_detail_sep_6.md">Sep 6<br>
+        <ul>
+        <li>Course and Student Introductions</li>
+        <li>Overview of Course</li></a></td>
+        <td><a href="week_1_detail_sep_8.md">Sep 8<br>Phase 1: Discovery / Inspiration / Process: 
+        <ul><li><strong>Personal Inventories</strong</li></ul></a></td>
     </tr>
     <tr>
         <td>2</td>    
@@ -30,8 +34,8 @@ _The class website is the official source for all dates and assignments; the syl
     </tr
     <tr>
         <td>3</td> 
-        <td valign="top"><a href="week_3_detail_sep_15.md"></a>Sept 20<br>Phase 1: Discovery / Inspiration / Process: <strong>Photo Studies</strong></td>
-        <td valign="top"><a href="week_4_detail_sep_22.md"></a>Sep 22<br>Phase 1: Discovery / Inspiration / Process: <strong>Visual Map of Classmate</strong></td>
+        <td valign="top"><a href="week_3_detail_sep_15.md"></a>Sept 20<br>Phase 2: Research / Ideation / Brainstorming <strong>Photo Studies</strong></td>
+        <td valign="top"><a href="week_4_detail_sep_22.md"></a>Sep 22<br>Phase 2: Research / Ideation / Brainstorming <strong>Visual Map of Classmate</strong></td>
     </tr>
     <tr>
         <td>4</td>
@@ -62,7 +66,7 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>9</td>      
-        <td valign="top">Nov 1<br><strong>Phase 2: Research / Ideation / Brainstorming)</strong></td>
+        <td valign="top">Nov 1<br><strong>Phase 2: Research / Ideation / Brainstorming</strong></td>
         <td>Nov 3<br><strong></strong></td>
     </tr>
      <tr>
