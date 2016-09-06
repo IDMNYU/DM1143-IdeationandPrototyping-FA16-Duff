@@ -58,16 +58,16 @@
 <tr>
   <td valign="top">read</td>
   <td></td>
-  <td>*	Rohde, Mike. “Sketching: the Visual Thinking Power Tool.” A List Apart. January 25, 2011. http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/
-*	Brown, Sunni. “The Miseducation of the Doodle.” A List Apart. January 25, 2011. http://www.alistapart.com/articles/the-miseducation-of-the-doodle/
-*	Universal Methods of Design by Bella Martin and Bruce Hanington
-  *	62 Personal inventories, p. 130
-*	*Writing for Visual Thinkers: A Guide for Artists and Designers* by Andrea Marks.
-  *	Mind Maps, p. 12-13
-  *	Concept Maps, p. 14-15
-  *	Freewriting, p. 17- 19
-  *	Journals and Sketchbooks, p. 32-41
-    *	Verbal Literacy, p. 60-67</td> 
+  <td><ul>
+  <li>Rohde, Mike. “<a href="http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/" target="_blank">Sketching: the Visual Thinking Power Tool.</a>” A List Apart. January 25, 2011. </li>
+<li>Brown, Sunni. “The Miseducation of the Doodle.” A List Apart. January 25, 2011. http://www.alistapart.com/articles/the-miseducation-of-the-doodle/</li>
+<li>Writing for Visual Thinkers: A Guide for Artists and Designers* by Andrea Marks</li>
+  <ul>
+  <li>Mind Maps, p. 12-13
+  <li>Concept Maps, p. 14-15
+  <li>Freewriting, p. 17- 19
+  <li>Journals and Sketchbooks, p. 32-41
+  <li>Verbal Literacy, p. 60-67</ul></td> 
 </tr>
 
 
