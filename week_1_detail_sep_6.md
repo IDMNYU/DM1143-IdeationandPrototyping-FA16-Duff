@@ -31,7 +31,11 @@
  <li>Discuss course &amp; learning objectives in syllabus</li>
  <li>Reading the weekly schedule. NOTE: Due on date listed</li>
 </ul>
-<strong>Discuss Personal Inventories</strong>
+Discuss:
+<ul>
+<li>Personal Inventories</li>
+<li>Personal Inventories</li>
+</ul>
 </td>
 
 <!-- 2nd column class -->
