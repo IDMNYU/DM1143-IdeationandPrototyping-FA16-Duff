@@ -31,7 +31,7 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>3</td> 
         <td valign="top"><a href="week_3_detail_sep_15.md"></a>Sept 20<br><strong>Phase 1: Discovery / Inspiration / Process:</strong> Everything is a Remix</td>
-        <td valign="top"><a href="week_4_detail_sep_22.md"></a>Sep 22<br>Phase 1: Discovery / Inspiration / Process: <strong>Creative Process Annotative Biblography and Video Documentary</strong></td>
+        <td valign="top"><a href="week_4_detail_sep_22.md"></a>Sep 22<br>Phase 1: Discovery / Inspiration / Process: <strong>Narrative Timeline</strong></td>
     </tr>
     <tr>
         <td>4</td>
