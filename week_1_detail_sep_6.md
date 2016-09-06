@@ -21,8 +21,9 @@
 <td valign="top">
 <strong>Student Introductions</strong><br>
 <ul>
-<li>What do you want to get out of this course?</li>
+<li>Why are you here beyond this course being required?</li>
 <li>What do you think you will get out of this course?</li>
+<li>What do you want to get out of this course?</li>
 </ul>
 <strong>Overview of Course / Review Syllabus</strong>
 <ul>
