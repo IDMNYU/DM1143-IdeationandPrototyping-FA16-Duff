@@ -46,8 +46,8 @@
   <td>
   <ul>
   <li>Metal Gear Solid Documentaries OR</li>
-    <ul><li>[Metal Gear Solid 2 Documentary](https://www.youtube.com/watch?v=eJVYND_YRx8)</li>
-    <li>[Metal Gear Solid 4 Documentary](https://www.youtube.com/watch?v=2nM7TLbs6fE) (make sure to turn on closed captioning)</li>
+    <ul><li><a href="https://www.youtube.com/watch?v=eJVYND_YRx8" target="_blank">Metal Gear Solid 2 Documentary</a></li>
+    <li><a href="https://www.youtube.com/watch?v=2nM7TLbs6fE" target="_blank">Metal Gear Solid 4 Documentary</a> (make sure to turn on closed captioning)</li>
     </ul>
  <li>Exit Through The Gift Shop by Banksy OR</li> 
 <li>ALL if you choose</li>
