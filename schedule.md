@@ -57,7 +57,7 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>8</td>     
-        <td><a href="week_8_detail_oct_20.md"></a>Oct 25<br>Phase 1: Discovery / Inspiration / Process: <strong>Creative Process Annotative Biblography and Video Documentary (continued)</strong></td>
+        <td><strong>Phase 2: Research / Ideation / Brainstorming)</strong></td>
         <td valign="top">Oct 27<br><strong></strong></td>
     </tr>
     <tr>
