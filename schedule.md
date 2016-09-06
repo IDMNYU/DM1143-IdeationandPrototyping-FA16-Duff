@@ -88,8 +88,8 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>13</td>  
-        <td>Nov 29<br><strong></strong></td>
-        <td>Dec 1<br><strong>Phase 3: Design / Sketching / Mapping: Future Dystopia / Utopia Project</strong></td>
+        <td>Nov 29<br>Future Dystopia / Utopia Project: <strong>Sketching and Mapping></td>
+        <td>Dec 1<br>Future Dystopia / Utopia Project: <strong>Sketching and Mapping</td>
     </tr>
     <tr>
         <td>14</td>    
@@ -103,7 +103,7 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>16</td>
-        <td>Dec 20<br><strong>Phase 5: Positioning / Pitching: Future Dystopia / Utopia Project</strong></td>
+        <td>Dec 20<br><Future Dystopia / Utopia Project: <strong>Positioning and Pitching></strong></td>
         <td></td>
     </tr>
 </table>
