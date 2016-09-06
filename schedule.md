@@ -35,13 +35,13 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>4</td>
-        <td valign="top"><a href="week_4_detail_sep_22.md"></a>Sep 27<br>Phase 1: Discovery / Inspiration / Process: <strong>Creative Process Annotative Biblography and Video Documentary</strong></td>
-        <td><a href="week_5_detail_sep_29.md"></a>Sep 29<br>Phase 1: Discovery / Inspiration / Process: <strong>Creative Process Annotative Biblography and Video Documentary (continued)</strong></td>
+        <td valign="top"><a href="week_4_detail_sep_22.md"></a>Sep 27<br>Creative Process Annotated Biblography and Video Documentary <strong>Brainstorming</strong></td>
+        <td><a href="week_5_detail_sep_29.md"></a>Sep 29<br>Creative Process Annotated Biblography and Video Documentary <strong>Annotated Biblography 1st Draft</strong></td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="week_5_detail_sep_29.md"></a>Oct 04<br>Phase 1: Discovery / Inspiration / Process: <strong>Creative Process Annotative Biblography and Video Documentary (continued)</strong></td>
-        <td><a href="week_6_detail_oct_6.md"></a>Oct 06<br><strong></strong></td>
+        <td><a href="week_5_detail_sep_29.md"></a>Oct 04<br>Creative Process Annotated Biblography and Video Documentary <strong>Image or Text Storyboard 1st Draft</strong></td>
+        <td><a href="week_6_detail_oct_6.md"></a>Oct 06<br>Image or Text Storyboard 2nd Draft<strong></strong></td>
     </tr>
     <tr>
         <td>6</td>    
