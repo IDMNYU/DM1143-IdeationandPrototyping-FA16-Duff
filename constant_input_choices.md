@@ -13,6 +13,7 @@ Choose either for the entire semester. **Do not do both**:
 *   Each week’s discovery log is due at least 1 hour BEFORE the beginning of class. However, I suggest that you don't wait until the last minute. I would suggest posting as you discover.
 *   Discovery logs can NOT be submitted after each due date.
 *   If you didn’t discover anything new, post literally that you did not discover anything new this week.
+*   Post your discovery log on your process website.
 
 What’s new and different in your life in the following categories? Why does it appeal to you or not? Post on your process website on a daily or weekly basis.
 
