@@ -38,4 +38,4 @@ What’s new and different in your life in the following categories? Why does it
     *   [Terry Difileliciantonio’s 15 weeks of games]([http://15weeksofgames.wordpress.com](http://15weeksofgames.wordpress.com))
     *   [Dear Data](http://www.dear-data.com/theproject) by Giorgia Lupi and Stefanie Posavec
     
-**Also remember it does NOT have to digital or visual. It could be aural (i.e. music or soundscapes), culinary, etc. The main requirement is that it is a creative project.**
+**Also remember it does NOT have to digital or visual.** It could be aural (i.e. music or soundscapes), culinary, etc. etc. times a gazillion possibilites. **The main requirement is that it is a creative project.**
