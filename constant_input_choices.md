@@ -31,11 +31,11 @@ What’s new and different in your life in the following categories? Why does it
     *   If monthly, at least 3 times
 *   Post or embed within your process website your chosen schedule with specific dates and share the link with your instructor.
 *   Reference:
-    *   Michael Bierut Five Years of 100 Days, http://designobserver.com/feature/five-years-of-100-days/24678
+    *   [Michael Bierut Five Years of 100 Days](http://designobserver.com/feature/five-years-of-100-days/24678)
     *   [Stefan G. Bucher’s Daily Monster](http://www.dailymonster.com/344_loves_you/monsterarchive.html)
     *   [30 Motion Tests in 30 Seconds Plus Interview](http://greyscalegorilla.com/blog/2011/01/30-motion-tests-in-30-seconds-plus-interview)
     *   [Nicole Meyer’s A logo a day for branding 10,000 lakes](http://www.psfk.com/2011/09/branding-10000-lakes-one-minnesota-lake-one-logo-every-day.html)
-    *   [Terry Difileliciantonio’s 15 weeks of games]([http://15weeksofgames.wordpress.com](http://15weeksofgames.wordpress.com))
+    *   [Terry Difileliciantonio’s 15 weeks of games]([http://15weeksofgames.wordpress.com](http://15weeksofgames.wordpress.com)
     *   [Dear Data](http://www.dear-data.com/theproject) by Giorgia Lupi and Stefanie Posavec
     
 **Also remember it does NOT have to digital or visual.** It could be aural (i.e. music or soundscapes), culinary, etc. etc. times a gazillion possibilites. **The main requirement is that it is a creative project.**
