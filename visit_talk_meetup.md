@@ -3,4 +3,4 @@
 
 # Museum or gallery visit, talk, or meetup
 
-During the course of the semester, each student must attend a professional social gathering or event (e.g. gallery opening, professional association meet-up, discussion forum) in order to conduct research for your creative process project or your future dystopia / utopia project. The goal of this exercise is to identify those organizations and events for professional networking and then gain experience talking informally to this community about the work that you do. You will need to submit a brief written description of the experience as well as the name and URL of someone you new you met.
+During the course of this semester, each student will attend a social gathering or event of your choice (e.g. museum or gallery opening, [meetup](http://meetup.com), talk, etc.) to gain ideas and/or conduct research for your creative process project or your future dystopia / utopia project. Write a brief description of the experience on your process website and describe how it relates to your dystopia / utopia project ideas and/or research.
