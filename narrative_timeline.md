@@ -3,7 +3,7 @@
 
 # Narrative Timeline
 
-*Make sure you watch Everything Is A Remix and read Steal Like An Artist before embarking on this assignment.*
+*Make sure you watch Everything Is A Remix before embarking on this assignment.*
 
 Create a narrative timeline thread of influences by either creating: 
 *	another video documentary 1 to 3 minutes in length, post on vimeo or youtube, and embed on your process website or 
