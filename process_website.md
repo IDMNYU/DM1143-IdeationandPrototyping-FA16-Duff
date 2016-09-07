@@ -20,6 +20,7 @@ You have several options:
 
 If you don’t already have server space, please attend one of the group registrations for sites.bxmc.poly.edu with Elton Kwok, IDM's Technology Director, eltonkwok@nyu.edu, MAGNET 883.
 
+### Wordpress Group Registration
 Group registration for IDM server accounts will happen on the third Friday of each month throughout the semester.  Sessions will start at 1PM and end at 5PM.
 
 * Friday September 9, room 811 at MAGNET
@@ -29,4 +30,5 @@ Group registration for IDM server accounts will happen on the third Friday of ea
 
 Please remember to bring your laptop with you when you visit a session.
 
-  * If you choose wordpress on bxmc.poly.edu, set up your class website at http://sites.bxmc.poly.edu/~yourfirstnamelastname/ip
+If you choose wordpress on bxmc.poly.edu, set up your class website at
+  * http://sites.bxmc.poly.edu/~yourfirstnamelastname/ip
