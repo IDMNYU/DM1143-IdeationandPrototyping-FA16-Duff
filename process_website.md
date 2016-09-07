@@ -18,9 +18,10 @@ You have several options:
 * If you already have a sites.bxmc.poly.edu account, have elton install another instance of wordpress in a directory labeled **ip** (see below)
 * Alternatively create a **ip** directory if you already have server space of your own via an ISP (Internet Service Provider), and install wordpress in that directory.
 
+### Wordpress Group Registration
+
 If you don’t already have server space, please attend one of the group registrations for sites.bxmc.poly.edu with Elton Kwok, IDM's Technology Director, eltonkwok@nyu.edu, MAGNET 883.
 
-### Wordpress Group Registration
 Group registration for IDM server accounts will happen on the third Friday of each month throughout the semester.  Sessions will start at 1PM and end at 5PM.
 
 * Friday September 9, room 811 at MAGNET
