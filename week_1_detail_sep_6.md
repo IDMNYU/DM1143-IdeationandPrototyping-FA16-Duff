@@ -50,6 +50,7 @@ Review:
 </ul>
 Discuss:
   <ul>
+  <li>Word Lists
   <li>Mind Maps
   <li>Concept Maps
   <li>Freewriting
