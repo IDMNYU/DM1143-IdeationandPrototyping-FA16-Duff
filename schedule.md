@@ -26,7 +26,7 @@ _The class website is the official source for all dates and assignments; the syl
         <tr>
         <td>2</td> 
         <td valign="top"><a href="week_2_detail_sep_13.md">Sept 13<br>Phase 1: Discovery / Inspiration / Process: <strong>Inputs</strong></a></td>
-        <td valign="top"><a href="week_2_detail_sep_13.md">Sep 15<br>Phase 2: Research / Ideation / Brainstorming: <strong>Photo Studies</strong></a></td>
+        <td valign="top"><a href="week_2_detail_sep_13.md">Sep 15<br>Phase 2: Research / Ideation / Brainstorming: <strong>Media Studies</strong></a></td>
     </tr>
     <tr>
         <td>3</td>    
