@@ -20,6 +20,7 @@
 <td valign="top">class</td>
 <!--inputs-->
 <td valign="top">
+Review Input Maps
 </td>
 
 <!-- media studies -->
