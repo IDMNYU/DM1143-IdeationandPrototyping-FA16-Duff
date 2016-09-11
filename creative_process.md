@@ -29,6 +29,7 @@ Possible Choices (but not limited to):
 *   Sal Khan (Khan Academy)
 *   Stephen King
 *   David Lynch
+*   **Hayao Miyazaki - Tim &amp; Catherine**
 *   Dr. John Pemberton (Coca-Cola)
 *   Philippe Petit
 *   Pablo Picasso
