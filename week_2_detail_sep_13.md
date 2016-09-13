@@ -65,7 +65,7 @@ Review:
 <td>Create</td>
 <td><a href="input_map.md">Your Inputs Map</a></td>
 <td><ul>
-<li>A photo, video, or audio study of one week in your life (daily for at least 5 days). Post to your process website daily or all at once or in between.</li>
+<li>A media (photo, video, or audio) study of one week in your life (daily for at least 5 days). Post to your process website daily or all at once or in between.</li>
 <li>Depending on your choice, post your discovery log or (if applicable this week) your constant input assignment on your process website.</li>
 
 </ul></td>
