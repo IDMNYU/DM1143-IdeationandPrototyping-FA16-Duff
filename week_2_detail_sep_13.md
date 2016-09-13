@@ -20,7 +20,10 @@
 <td valign="top">class</td>
 <!--inputs-->
 <td valign="top">
-Review Input Maps
+<ul>
+<li>Review Readings</li>
+<li>Review Input Maps</li>
+</ul>
 </td>
 
 <!-- media studies -->
