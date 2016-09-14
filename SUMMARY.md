@@ -15,7 +15,7 @@
    * [Process Website](process_website.md)
    * [Self Assessments](self_assessments.md)
    * [Visit Talk or Meetup](visit_talk_meetup.md)
-   * Days in the Life of Media Study
+   * [Days in the Life of Media Study](days_in_the_life_of_media_study.md)
 * [Projects](projects.md)
    * [Creative Process Annotated Bibliography and Video Documentary](creative_process.md)
    * [Future Dystopia Utopia Project](future.md)
