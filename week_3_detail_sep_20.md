@@ -61,7 +61,7 @@ insights that occurred while watching, how it reflects your own process (or does
 <!-- create -->
 <tr>
   <td valign="top">create</td>
-  <td>Classmate Discovery</td>
+  <td><a href="classmate_discovery.md">Classmate Discovery</a></td>
   <td valign="top">
   <ul>
   <li><a href="narrative_timeline.md">Narrative Timeline</a></li>
