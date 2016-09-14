@@ -68,11 +68,7 @@ Review:
 <tr>
 <td>Create</td>
 <td><a href="input_map.md">Your Inputs Map</a></td>
-<td><ul>
-<li>A media study (photo, video, or audio) of one week in your life (daily for at least 5 days). Post to your process website daily or all at once or in between.</li>
-<li>(if applicable this week) post your constant input assignment on your process website.</li>
-
-</ul></td>
+<td><a href="days_in_the_life_of_media_study.md">Days in the life of... media study</a></td>
 </tr>
 
 <!-- write -->
