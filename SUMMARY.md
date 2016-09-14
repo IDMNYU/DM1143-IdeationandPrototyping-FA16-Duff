@@ -14,6 +14,7 @@
    * [Process Website](process_website.md)
    * [Self Assessments](self_assessments.md)
    * [Visit Talk or Meetup](visit_talk_meetup.md)
+   * Personal Inventory
 * [Projects](projects.md)
    * [Creative Process Annotated Bibliography and Video Documentary](creative_process.md)
    * [Future Dystopia Utopia Project](future.md)
