@@ -35,20 +35,29 @@
 <!-- read -->
 <tr>
   <td valign="top">read</td> 
-  <td>Writing for Visual Thinkers: A Guide for Artists and Designers by Andrea Marks
-  <ul>
-  <li>Writing &amp; Critiquing, p. 26-28</li>
-  </ul></td>
+  <td></td>
   <td></td>
 </tr>
 
 <!-- write -->
 <tr>
 <td>write (on your process website)</td>
-<td> Write your response to the Everything is A Remix Series (if this is your choice). Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or
-insights that occurred while watching, how it reflects your own process (or does not and why) or how it willinform or change your own process (or will not and why)</td>
-<td>Research one or more of the following artists for inspiration and post your findings and response on your process website:
-* Sherrie Levine, Marcel Duchamp, Joseph Cornell, Felix Gonzalez-Torrez, Tectonic Industries, Douglas Gordon, Christian Marclay, DJ Spooky, etc.</td>
+<td> 
+<ul>
+<li>Write your response to the Everything is A Remix Series (if this is your choice). Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or
+insights that occurred while watching, how it reflects your own process (or does not and why) or how it willinform or change your own process (or will not and why)</li>
+<li>Research one or more of the following artists for inspiration and post your findings and response on your process website:
+<ul>
+<Li>Sherrie Levine</li> 
+<li>Marcel Duchamp</li>
+<li>Joseph Cornell</li>
+<li>Felix Gonzalez-Torrez</li>
+<li>Tectonic Industries</li>
+<li>Douglas Gordon</li>
+<li>Christian Marclay</li>
+<li>DJ Spooky</li>
+</ul></td>
+<td></td>
 </tr>
 
 <!-- create -->
