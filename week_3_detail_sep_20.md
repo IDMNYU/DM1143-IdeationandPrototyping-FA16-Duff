@@ -32,12 +32,7 @@
   <td></td> 
 </tr>
 
-<!-- read -->
-<tr>
-  <td valign="top">read</td> 
-  <td></td>
-  <td></td>
-</tr>
+
 
 <!-- write -->
 <tr>
