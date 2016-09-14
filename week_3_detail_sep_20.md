@@ -65,7 +65,7 @@ insights that occurred while watching, how it reflects your own process (or does
   <td valign="top">
   <ul>
   <li><a href="narrative_timeline.md">Narrative Timeline</a></li>
-  <li>(if applicable this week), your <a href="">constant input assignment</a> on your process website.
+  <li>(if applicable this week), your <a href="constant_input_choices.md">constant input assignment</a> on your process website.
   </li>
   </ul></td>
 </table>
