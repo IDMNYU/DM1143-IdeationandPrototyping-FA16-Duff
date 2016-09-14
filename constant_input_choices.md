@@ -6,7 +6,7 @@
 Choose either for the entire semester. **Do not do both**:
 
 *   Discovery Log or
-*   Daily, Weekly, or Monthly Creations
+*   Creative Process Project: Daily, Weekly, or Monthly
 
 ####Discovery Log
 
