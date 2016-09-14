@@ -68,7 +68,11 @@ Review:
 <tr>
 <td>Create</td>
 <td><a href="input_map.md">Your Inputs Map</a></td>
-<td><a href="days_in_the_life_of_media_study.md">Days in the life of... media study</a></td>
+<td>
+<ul>
+<li><a href="days_in_the_life_of_media_study.md">Days in the life of... media study</a></li>
+<li>(if applicable this week), your <a href="">constant input assignment</a> on your process website.</li>
+</ul></td>
 </tr>
 
 <!-- write -->
