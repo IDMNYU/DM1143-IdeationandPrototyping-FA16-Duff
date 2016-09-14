@@ -32,8 +32,6 @@
   <td></td> 
 </tr>
 
-
-
 <!-- write -->
 <tr>
 <td>write (on your process website)</td>
