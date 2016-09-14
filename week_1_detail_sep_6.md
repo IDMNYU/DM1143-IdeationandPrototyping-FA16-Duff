@@ -73,7 +73,7 @@ Discuss:
 <tr>
 <td>film and post by Wednesday at 8pm</td>
 <td></td>
-<td>Your Personal Inventory</td>
+<td><a href="personal_inventory.md">Your Personal Inventory</a></td>
 </tr>
 
 <!-- write -->
