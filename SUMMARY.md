@@ -9,7 +9,7 @@
 * [Assignments](assignments.md)
    * [Constant Input Choices](constant_input_choices.md)
    * [Personal Inventory](personal_inventory.md)
-   * [Days in the Life of Media Study](days_in_the_life_of_media_study.md)
+   * [Days in the Life of ... Media Study](days_in_the_life_of_media_study.md)
    * [Inputs Map](input_map.md)
    * [Narrative Timeline](narrative_timeline.md)
    * [Notebook or Sketchbook](notebook_or_sketchbook.md)
