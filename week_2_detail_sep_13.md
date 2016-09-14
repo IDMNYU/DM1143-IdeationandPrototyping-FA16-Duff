@@ -30,6 +30,7 @@
 <td valign="top" width="48%">
 Review:
 <ul>
+<li>Watch Video</li>
 <li>Media Studies, pt. 1</li>
 <li>Pair students for Media Studies, pt. 2
 </ul>
