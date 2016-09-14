@@ -56,6 +56,7 @@ insights that occurred while watching, how it reflects your own process (or does
 <li>Douglas Gordon</li>
 <li>Christian Marclay</li>
 <li>DJ Spooky</li>
+<li>Hank Shocklee</li>
 </ol></td>
 <td></td>
 </tr>
