@@ -79,7 +79,7 @@ Review:
 <tr>
 <td>write and post on tumblr or wordpress</td>
 <td>After reading both articles... Between the two articles, Sketching: the Visual Thinking Power Tool and The Miseducation of the Doodle, write a reading response to the article that resonated with you the most. Do not write a summary. In other words, do not regurgitate the article. Discuss any epiphanies or insights that occurred while reading, how it reflects your own creative process (or does not and why) or how it will inform or change your own process (or will not and why).</td>
-<td>Your constant input details including proposed schedule</td>
+<td>Your constant input details (what are you going to do?) including proposed schedule (when? actual dates. make due date a thursday.)</td>
 </tr>
 </table>
 
