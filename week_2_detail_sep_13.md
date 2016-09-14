@@ -31,7 +31,7 @@
 Review:
 <ul>
 <li>Watch Video: Finished Not Perfect by Jake Parker</li>
-<li>Review Media Studies, pt. 1</li>
+<li>Review Days in the Life of... Media Studies</li>
 <li>Pair students for Classmate Discovery</li>
   <ul>
   <li>Interview, Survey, and/or Questionnaire two of your classmates to discover background, training, discipline, personal circumstances that led them to where they are today, and where they are going.</li>
