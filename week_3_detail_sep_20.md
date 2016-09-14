@@ -61,7 +61,7 @@ insights that occurred while watching, how it reflects your own process (or does
 <!-- create -->
 <tr>
   <td valign="top">create</td>
-  <td>Using the photo study supplemented with an interview, questionnaire, or survey, create a visual map that represents a classmates’ background, training, discipline, personal circumstances that led them to where they are today and where they are going. Show cross-references. You pick the form or metaphor: a subway map, a territory map, a thematic network, user journey map, a table of contents or an index in the back of a book, a menu on a webpage, a tree, etc</td>
+  <td>Classmate Discovery</td>
   <td valign="top">
   <ul>
   <li><a href="narrative_timeline.md">Narrative Timeline</a></li>
