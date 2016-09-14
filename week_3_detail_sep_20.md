@@ -47,7 +47,7 @@
 <li>Write your response to the Everything is A Remix Series (if this is your choice). Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or
 insights that occurred while watching, how it reflects your own process (or does not and why) or how it willinform or change your own process (or will not and why)</li>
 <li>Research one or more of the following artists for inspiration and post your findings and response on your process website:
-<ul>
+<ol>
 <Li>Sherrie Levine</li> 
 <li>Marcel Duchamp</li>
 <li>Joseph Cornell</li>
@@ -56,7 +56,7 @@ insights that occurred while watching, how it reflects your own process (or does
 <li>Douglas Gordon</li>
 <li>Christian Marclay</li>
 <li>DJ Spooky</li>
-</ul></td>
+</ol></td>
 <td></td>
 </tr>
 
