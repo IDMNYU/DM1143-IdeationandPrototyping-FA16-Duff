@@ -18,7 +18,7 @@
 </tr>
 <tr>
 <td valign="top">class</td>
-<td valign="top">Review Classmates' Map</td>
+<td valign="top">Review Classmate Discoveries</td>
 
 <!-- 2nd column class -->
 <td valign="top" width="48%">Review Narrative Timelines</td>
