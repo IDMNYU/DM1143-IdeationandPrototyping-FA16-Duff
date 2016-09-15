@@ -39,7 +39,13 @@
 <!-- write -->
 <tr>
 <td>write (on your process website)</td>
-<td>Write your response to the Everything is A Remix Series (if this is your choice) or Exit Through The Gift Shop. Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or
+<td>Write your response to one of the following:
+
+<ul>
+  <li><a href="http://everythingisaremix.info/watch-the-series" target="_blank">Eveything Is A Remix Series</a> or</li>  
+  <li>Exit Through The Gift Shop (on Netflix or Youtube)</li>
+  </ul>
+Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or
 insights that occurred while watching, how it reflects your own process (or does not and why) or how it willinform or change your own process (or will not and why)</td>
 <td>Research one or more of the following artists for inspiration and post your findings and response on your process website:
 <ol>
