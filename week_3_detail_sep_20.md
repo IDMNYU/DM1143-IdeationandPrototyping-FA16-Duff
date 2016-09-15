@@ -28,7 +28,11 @@
 <!-- watch -->
 <tr>
   <td valign="top">watch</td>
-  <td><a href="http://everythingisaremix.info/watch-the-series" target="_blank">Eveything Is A Remix Series</a> or Exit Through The Gift Shop (on Netflix or Youtube)</td>
+  <td>Choose One:
+  <ul>
+  <li><a href="http://everythingisaremix.info/watch-the-series" target="_blank">Eveything Is A Remix Series</a> or</li>  
+  <li>Exit Through The Gift Shop (on Netflix or Youtube)</li>
+  </ul></td>
   <td></td> 
 </tr>
 
