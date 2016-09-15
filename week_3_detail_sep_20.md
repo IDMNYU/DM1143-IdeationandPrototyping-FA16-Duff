@@ -28,7 +28,7 @@
 <!-- watch -->
 <tr>
   <td valign="top">watch</td>
-  <td><a href="http://everythingisaremix.info/watch-the-series" target="_blank">Eveything Is A Remix Series</a></td>
+  <td><a href="http://everythingisaremix.info/watch-the-series" target="_blank">Eveything Is A Remix Series</a> or Exit From The Gift Shop</td>
   <td></td> 
 </tr>
 
