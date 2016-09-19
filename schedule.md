@@ -31,7 +31,7 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>3</td>    
         <td><a href="week_3_detail_sep_20.md">Sep 20<br>Phase 3: Design / Sketching / Mapping: <strong>Classmate Discovery</strong></a></td>
-        <td valign="top"><a href="week_3_detail_sep_20.md">Sep 22<br>Phase 1: Discovery / Inspiration / <strong>Process</strong> </a></td>
+        <td valign="top"><a href="week_3_detail_sep_20.md">Sep 22<br>Phase 1: Discovery / Inspiration / <strong>Narrative Timeline</strong> </a></td>
     </tr>
     <tr>
         <td><td>Sep 19<br><i>Last day to drop Fall 2016 classes and not receive a grade of "W"</i></td><td></td>
