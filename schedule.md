@@ -39,7 +39,7 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>4</td>
         <td valign="top"><a href="week_4_detail_sep_22.md"></a>Sep 27<br>Phase 1: Discovery / Inspiration / <strong>Process</strong></strong></td>
-        <td><a href="week_5_detail_sep_29.md"></a>Sep 29<br></strong>Phase 1: Discovery / Inspiration / Process: <strong>Narrative Timeline</strong></td>
+        <td><a href="week_5_detail_sep_29.md"></a>Sep 29<br></strong>Phase 1: Discovery / Inspiration / Process: <strong></strong></td>
     </tr>
     <tr>
         <td>5</td>
