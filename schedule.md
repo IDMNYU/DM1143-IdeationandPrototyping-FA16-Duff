@@ -25,12 +25,12 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
         <tr>
         <td>2</td> 
-        <td valign="top"><a href="week_2_detail_sep_13.md">Sept 13<br>Phase 1: Discovery / Inspiration / Process: <strong>Inputs</strong></a></td>
+        <td valign="top"><a href="week_2_detail_sep_13.md">Sept 13<br>Phase 1: Discovery / Inspiration / Process: <strong>Input Maps</strong></a></td>
         <td valign="top"><a href="week_2_detail_sep_13.md">Sep 15<br>Phase 2: Research / Ideation / Brainstorming: <strong>Media Studies</strong></a></td>
     </tr>
     <tr>
         <td>3</td>    
-        <td><a href="week_3_detail_sep_20.md">Sep 20<br>Phase 3: Design / Sketching / Mapping: <strong>Visual Map of Classmate</strong></a></td>
+        <td><a href="week_3_detail_sep_20.md">Sep 20<br>Phase 3: Design / Sketching / Mapping: <strong>Classmate Discovery</strong></a></td>
         <td valign="top"><a href="week_3_detail_sep_20.md">Sep 22<br>Phase 1: Discovery / Inspiration / <strong>Process</strong> </a></td>
     </tr>
     <tr>
