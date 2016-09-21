@@ -26,7 +26,12 @@
 </ul></td>
 
 <!-- 2nd column class -->
-<td valign="top" width="48%">Review Narrative Timelines</td>
+<td valign="top" width="48%">
+<ul>
+<li>Discuss Remix Artists Research</li>
+<li>Review Narrative Timelines</li>
+</ul>
+</td>
  
 </tr>
 
