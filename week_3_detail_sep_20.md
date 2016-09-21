@@ -28,7 +28,6 @@
 <!-- 2nd column class -->
 <td valign="top" width="48%">
 <ul>
-<li>Visit Talk or Meetup Reminder</li>
 <li>Discuss Remix Artists Research</li>
 <li>Review Narrative Timelines</li>
 </ul>
