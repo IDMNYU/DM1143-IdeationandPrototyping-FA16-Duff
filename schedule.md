@@ -39,18 +39,16 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>4</td>
         <td valign="top"><a href="week_4_detail_sep_22.md"></a>Sep 27<br>Phase 1: Discovery / Inspiration / <strong>Process</strong></strong></td>
-        <td><a href="week_5_detail_sep_29.md"></a>Sep 29<br></strong>Phase 1: Discovery / Inspiration / Process: <strong></strong></td>
+        <td><a href="week_5_detail_sep_29.md"></a>Sep 29<br>Creative Process Annotated Biblography and Video Documentary <strong>Brainstorming</strong></td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="week_5_detail_sep_29.md"></a>Oct 04<br>Creative Process Annotated Biblography and Video Documentary <strong>Brainstorming</strong></td>
-        <td><a href="week_6_detail_oct_6.md"></a>Oct 06<br>Creative Process Annotated Biblography and Video Documentary <strong>Annotated Biblography 1st Draft</td>
+        <td><a href="week_5_detail_sep_29.md"></a>Oct 04<br>Creative Process Annotated Biblography and Video Documentary <strong>Annotated Bibliography 1st Draft</td>
+        <td><a href="week_6_detail_oct_6.md"></a>Oct 06<br>Creative Process Annotated Biblography and Video Documentary <strong>Annotated Bibliography 2nd Draft</td>
     </tr>
     <tr>
         <td>6</td>    
-        <td><a href="week_6_detail_oct_6.md"></a>Oct 11<br>Creative Process Annotated Biblography and Video Documentary <ul>
-          <li><strong>Image or Text Storyboard 1st Draft</strong></li>
-          <li><strong>Annotated Biblography 2nd Draft</strong></li></ul></td>
+        <td><a href="week_6_detail_oct_6.md"></a>Oct 11<br>Creative Process Annotated Biblography and Video Documentary: <strong>Image or Text Storyboard 1st Draft</strong></td>
         <td><a href="week_7_detail_oct_13.md"></a>Oct 13<br>Creative Process Annotated Biblography and Video Documentary: <strong>Image or Text Storyboard 2nd Draft<strong></td>
     </tr>
     <tr>
@@ -61,11 +59,16 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>8</td>     
         <td>Oct 25<br>Creative Process Annotated Biblography and Video Documentary: <strong>Creative Process Video Documentary DUE</strong></td>
-        <td valign="top">Oct 27<br><strong>Midterm Self-Assessment DUE</strong></td>
+        <td valign="top">Oct 27<br>
+        <ul>
+        <li>Creative Process Annotated Biblography and Video Documentary: <strong>Creative Process Research Paper DUE</strong></li>
+        <li>Phase 2: Research / Ideation / Brainstorming: <strong>Storytelling</strong></li>
+        
+        </ul></td>
     </tr>
     <tr>
         <td>9</td>      
-        <td valign="top">Nov 1<br>Phase 2: Research / Ideation / Brainstorming: <strong>Storytelling</strong></td>
+        <td valign="top">Nov 1<br><strong>Midterm Self-Assessment DUE</strong></td>
         <td>Nov 3<br>Phase 2: Research / Ideation / Brainstorming: <strong>Objects</strong></td>
     </tr>
      <tr>
