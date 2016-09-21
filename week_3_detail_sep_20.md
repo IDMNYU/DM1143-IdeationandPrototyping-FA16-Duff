@@ -21,7 +21,7 @@
 <td valign="top">
 <ul>
 <li>Discuss Everything is a Remix</li>
-<li>Discuss <a href="https://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER Technique</a> by Michael Michael Michalko</li>
+<li>Discuss <a href="https://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER Technique</a> by Michael Michalko</li>
 <li>Review Classmate Discoveries</li>
 </ul></td>
 
