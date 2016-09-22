@@ -24,6 +24,7 @@ Possible Choices (but not limited to):
 *   Art Fry (Post-It Note)
 *   Bill Gates
 *   Alfred Hitchcock
+*   **Frida Kahlo - Bridget &amp; ?**
 *   Hideo Kojima
 *   Steve Jobs
 *   Sal Khan (Khan Academy)
