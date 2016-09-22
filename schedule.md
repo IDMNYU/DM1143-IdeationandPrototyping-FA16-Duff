@@ -35,7 +35,7 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td><td>Sep 19<br><i>Last day to drop Fall 2016 classes and not receive a grade of "W"</i></td><td></td>
-    </tr
+    </tr>
     <tr>
         <td>4</td>
         <td valign="top"><a href="week_4_detail_sep_27.md">Sep 27<br>Phase 1: Discovery / Inspiration / <strong>Process</strong></strong></a></td>
