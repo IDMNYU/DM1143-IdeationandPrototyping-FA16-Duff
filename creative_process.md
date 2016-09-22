@@ -27,7 +27,7 @@ Possible Choices (but not limited to):
 *   Hideo Kojima
 *   Steve Jobs
 *   Sal Khan (Khan Academy)
-*   Stephen King
+*   **Stephen King - Jialin &amp; Chrystal**
 *   David Lynch
 *   **Hayao Miyazaki - Tim &amp; Catherine**
 *   Dr. John Pemberton (Coca-Cola)
