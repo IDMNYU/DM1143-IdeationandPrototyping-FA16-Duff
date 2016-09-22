@@ -16,7 +16,7 @@ Possible Choices (but not limited to):
 *   Albert Einstein
 *   Leonardo Da Vinci
 *   Charles Darwin
-*   Walt Disney
+*   **Walt Disney - Lena &amp; Dylan**
 *   Charles &amp; Ray Eames
 *   Federico Fellini
 *   Henry Ford (Ford Motor Company)
@@ -28,10 +28,12 @@ Possible Choices (but not limited to):
 *   **Frida Kahlo - Bridget &amp; ?**
 *   Hideo Kojima
 *   Steve Jobs
-*   **Sal Khan (Khan Academy) - Farzan &amp; ?**
+*   Sal Khan (Khan Academy)
 *   **Stephen King - Jialin &amp; Chrystal**
 *   David Lynch
 *   **Hayao Miyazaki - Tim &amp; Catherine**
+*   **Toni Morrison - Sophie &**
+*   **Christopher Nolan - Farzan & Abhi**
 *   Dr. John Pemberton (Coca-Cola)
 *   Philippe Petit
 *   Pablo Picasso
