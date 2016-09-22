@@ -28,7 +28,7 @@ Possible Choices (but not limited to):
 *   **Frida Kahlo - Bridget &amp; ?**
 *   Hideo Kojima
 *   Steve Jobs
-*   Sal Khan (Khan Academy)
+*   **Sal Khan (Khan Academy) - Farzan &amp; ?**
 *   **Stephen King - Jialin &amp; Chrystal**
 *   David Lynch
 *   **Hayao Miyazaki - Tim &amp; Catherine**
