@@ -37,7 +37,7 @@ Possible Choices (but not limited to):
 *   Pablo Picasso
 *   J.K. Rawlings
 *   Robert Rodriguez
-*   Twyla Tharp
+*   **Twyla Tharp - Sophie &**
 
 The key to your research is a proliferation of references on your subject, particularly interviews, sketchbooks, notebooks, and/or journals or other reflective writing which can give your team insights into the research and design processes of your subject.
 
