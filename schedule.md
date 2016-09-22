@@ -62,7 +62,6 @@ _The class website is the official source for all dates and assignments; the syl
         <td>Oct 25<br>Creative Process Annotated Biblography and Video Documentary: <strong>Creative Process Video Documentary DUE</strong></td>
         <td valign="top">Oct 27<br>
         <ul>
-        <li>Creative Process Annotated Biblography and Video Documentary: <strong>Creative Process Research Paper DUE</strong></li>
         <li>Phase 2: Research / Ideation / Brainstorming: <strong>Storytelling</strong></li>
         
         </ul></td>
