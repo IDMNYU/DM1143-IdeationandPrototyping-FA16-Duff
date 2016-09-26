@@ -64,14 +64,14 @@ _The class website is the official source for all dates and assignments; the syl
         <strong>
         <ul>
         <li>Animatic 2nd Draft or</li>
-        <li>Video 1st Draft</li>
+        <li>Hybrid Animatic / Video Draft</li>
         </ul>
         </strong></td>
     </tr>
     <tr>
         <td>7</td>     
-        <td><a href="week_7_detail_oct_13.md"></a>Oct 18<br>Creative Process Annotated Bibliography and Video Documentary: <strong>Animatic 2nd Draft</td>
-        <td><a href="week_8_detail_oct_20.md"></a>Oct 20<br>Creative Process Annotated Bibliography and Video Documentary: <strong>Animatic 2nd Draft</td>
+        <td><a href="week_7_detail_oct_13.md"></a>Oct 18<br>Creative Process Annotated Bibliography and Video Documentary: <strong>Video 1st Draft</td>
+        <td><a href="week_8_detail_oct_20.md"></a>Oct 20<br>Creative Process Annotated Bibliography and Video Documentary: <strong>Video 2nd Draft</td>
     </tr>
     <tr>
         <td>8</td>     
@@ -81,13 +81,19 @@ _The class website is the official source for all dates and assignments; the syl
         <li>Creative Process Video Documentary DUE</li>
         <li>Final Annotated Bibliography DUE</li>
         </ul></strong></td>
-        <td valign="top">Oct 27<br></td>
+        <td valign="top">Oct 27<br>Phase 2: Research / Ideation / Brainstorming: <strong>Storytelling</strong></td>
     </tr>
      
     <tr>
         <td>9</td>      
-        <td valign="top">Nov 1<br>Phase 2: Research / Ideation / Brainstorming: <strong>Storytelling</strong></td>
-        <td>Nov 3<br>Phase 2: Research / Ideation / Brainstorming: <strong>Objects</strong></td>
+        <td valign="top">Nov 1<br>Phase 2: Research / Ideation / Brainstorming: <strong>Objects</strong></td>
+        <td>Nov 3<br>Future Dystopia / Utopia Project: 
+        <strong>
+        <ul>
+        <li>Ideation</li>
+        <li>Secondary Research</li>
+        </ul>
+        </strong></td>
     </tr>
      <tr>
         <td>Midterm One on Ones</td><td>Nov 2<br><strong>Midterm Self-Assessment DUE</strong><br><i>Students TBD</i></td><td>Nov 4 <br><strong>Midterm Self-Assessment DUE</strong><br><i>Students TBD</i></td>
@@ -97,8 +103,12 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>10</td>     
-        <td>Nov 8<br>Future Dystopia / Utopia Project: <strong>Ideation</strong></td>
-        <td>Nov 10<br>Future Dystopia / Utopia Project: <strong>Secondary Research</strong></td>
+        <td>Nov 8<br>Future Dystopia / Utopia Project: 
+        <strong><ul>
+        <li>Ideation</li>
+        <li>Secondary Research</li>
+        </ul></strong></td>
+        <td>Nov 10<br><strong>Sketching and Mapping</strong></td>
     </tr>
     <tr>
         <td>11</td>   
