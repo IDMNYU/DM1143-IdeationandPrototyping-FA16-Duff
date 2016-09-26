@@ -29,12 +29,7 @@
 <!-- 2nd column class -->
 <td valign="top" width="48%">
   <ul>
-  <li>
-  <a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a> Team Working Session</li>
-  <ul>
-  <li>Exchange contact info (phone, email, address)</li>
-  <li>Exchange schedules</li>
-  <li>Discuss Collaborative Tools (Slack, Google Docs, Kanbanery/Trello, etc.)</li>
+
 
   </ul>
 </td>
