@@ -60,21 +60,27 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>6</td>    
         <td><a href="week_6_detail_oct_6.md"></a>Oct 11<br>Creative Process Annotated Bibliography and Video Documentary: <strong>Animatic 1st Draft</strong></td>
-        <td><a href="week_7_detail_oct_13.md"></a>Oct 13<br>Creative Process Annotated Bibliography and Video Documentary: <strong>Animatic 2nd Draft</strong></td>
+        <td><a href="week_7_detail_oct_13.md"></a>Oct 13<br>Creative Process Annotated Bibliography and Video Documentary: 
+        <strong>
+        <ul>
+        <li>Animatic 2nd Draft or</li>
+        <li>Video 1st Draft</li>
+        </ul>
+        </strong></td>
     </tr>
     <tr>
         <td>7</td>     
-        <td><a href="week_7_detail_oct_13.md"></a>Oct 18<br>Creative Process Annotated Bibliography and Video Documentary: 
+        <td><a href="week_7_detail_oct_13.md"></a>Oct 18<br>Creative Process Annotated Bibliography and Video Documentary: <strong>Animatic 2nd Draft</td>
+        <td><a href="week_8_detail_oct_20.md"></a>Oct 20<br>Creative Process Annotated Bibliography and Video Documentary: <strong>Animatic 2nd Draft</td>
+    </tr>
+    <tr>
+        <td>8</td>     
+        <td>Oct 25<br>Creative Process Annotated Bibliography and Video Documentary: 
         <strong>
         <ul>
         <li>Creative Process Video Documentary DUE</li>
         <li>Final Annotated Bibliography DUE</li>
         </ul></strong></td>
-        <td><a href="week_8_detail_oct_20.md"></a>Oct 20<br> </td>
-    </tr>
-    <tr>
-        <td>8</td>     
-        <td>Oct 25<br></td>
         <td valign="top">Oct 27<br></td>
     </tr>
      
