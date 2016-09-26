@@ -30,6 +30,7 @@
 <ul>
 <li>Discuss Remix Artists Research</li>
 <li>Review Narrative Timelines</li>
+<li>Brainstorm Creators in order to select teams.</li>
   <li>
   <a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a> Team Working Session</li>
   <ul>
