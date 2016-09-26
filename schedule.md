@@ -81,10 +81,10 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>9</td>      
         <td valign="top">Nov 1<br>Phase 2: Research / Ideation / Brainstorming: <strong>Storytelling</strong></td>
-        <td>Nov 3<br>Phase 2: Research / Ideation / Brainstorming: <strong>Objects</strong><strong>Midterm Self-Assessment DUE</strong></td>
+        <td>Nov 3<br>Phase 2: Research / Ideation / Brainstorming: <strong>Objects</strong></td>
     </tr>
      <tr>
-        <td>Midterm One on Ones</td><td>Nov 2<br><i>Students TBD</i></td><td>Nov 4 <br><i>Students TBD</i></td>
+        <td>Midterm One on Ones</td><td>Nov 2<br><strong>Midterm Self-Assessment DUE</strong><br><i>Students TBD</i></td><td>Nov 4 <br><strong>Midterm Self-Assessment DUE</strong><br><i>Students TBD</i></td>
     </tr>
      <tr>
         <td></td><td>Nov 7<br><i>Last Day to Withdraw</i></td><td></td>
