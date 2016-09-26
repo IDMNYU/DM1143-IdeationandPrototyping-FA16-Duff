@@ -22,7 +22,7 @@
   <ul>
   <li>Discuss Metal Gear Solid Documentaries</li>
   <li>Discuss <a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</li>
-  
+  <li>Finalize Teams for 
   </ul>
 </td>
 
