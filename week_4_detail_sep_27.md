@@ -21,8 +21,7 @@
 <td valign="top">
   <ul>
   <li>Discuss Metal Gear Solid Documentaries</li>
-  <li>Discuss <a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</li>
-  <li>Finalize Teams for 
+  <li>Finalize Teams for <a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a>
   </ul>
 </td>
 
@@ -34,6 +33,7 @@
 <ul>
 <li>Card Sorting</li>
 <li>Begin Annotated Bibliography</li>
+<li>Begin Text or Image Storyboard</li>
 </ul>
   </ul>
 </td>
@@ -68,11 +68,15 @@
 
 <!-- do -->
 <tr>
-  <td valign="top">create (post on your process website)</td>
+  <td valign="top">create and document (post on your process website)</td>
   <td>Provide documentation of how you have used some of the tools, techniques, and thinking discussed in this class in your other course assignments.</td>
   <td valign="top">
   <ul>
-   <li>Begin discovery / research for your chosen creator.</li>
+   <li>Begin discovery / research for your <a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a></li>
+   <ul>
+   <li>Each team mate should bring in their own annotated bibliography and compare and contrast.</li>
+   <li>Each team member should bring in their own text or image storyboard and compare and contrast.</li>
+   </ul>
   <li>(if applicable this week), your <a href="">constant input assignment</a></li>
  
   </ul></td>
