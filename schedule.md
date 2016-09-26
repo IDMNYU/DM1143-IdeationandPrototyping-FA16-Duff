@@ -44,13 +44,23 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="week_5_detail_sep_29.md"></a>Oct 04<br>Creative Process Annotated Biblography and Video Documentary <strong>Annotated Bibliography 1st Draft</td>
-        <td><a href="week_6_detail_oct_6.md"></a>Oct 06<br>Creative Process Annotated Biblography and Video Documentary <strong>Annotated Bibliography 2nd Draft</td>
+        <td><a href="week_5_detail_sep_29.md"></a>Oct 04<br>Creative Process Annotated Biblography and Video Documentary <strong>
+        <ul>
+        <li>Annotated Bibliography 1st Draft</li>
+        <li>Image or Text Storyboard 1st Draft</li>
+        </ul></strong></td>
+        <td><a href="week_6_detail_oct_6.md"></a>Oct 06<br>Creative Process Annotated Biblography and Video Documentary 
+        <strong>
+        <ul>
+        <li>Annotated Bibliography 2nd Draft</li>
+        <li>Image or Text Storyboard 2nd Draft</li>
+        </ul>
+        </strong></td>
     </tr>
     <tr>
         <td>6</td>    
-        <td><a href="week_6_detail_oct_6.md"></a>Oct 11<br>Creative Process Annotated Biblography and Video Documentary: <strong>Image or Text Storyboard 1st Draft</strong></td>
-        <td><a href="week_7_detail_oct_13.md"></a>Oct 13<br>Creative Process Annotated Biblography and Video Documentary: <strong>Image or Text Storyboard 2nd Draft<strong></td>
+        <td><a href="week_6_detail_oct_6.md"></a>Oct 11<br>Creative Process Annotated Biblography and Video Documentary: </td>
+        <td><a href="week_7_detail_oct_13.md"></a>Oct 13<br>Creative Process Annotated Biblography and Video Documentary: </td>
     </tr>
     <tr>
         <td>7</td>     
