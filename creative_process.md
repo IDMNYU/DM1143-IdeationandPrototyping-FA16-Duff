@@ -23,6 +23,7 @@ Possible Choices (but not limited to):
 *   Benjamin Franklin
 *   Art Fry (Post-It Note)
 *   Bill Gates
+*   **Juanjo Guarnido - Sawyer &amp; Lucas**
 *   Alfred Hitchcock
 *   **Jonathan Ive - Samir & Dong-Ha**
 *   **Frida Kahlo - Bridget &amp; ?**
