@@ -23,7 +23,7 @@ What’s new and different in your life in the following categories? Why does it
 *   _People_ (Friends, Strangers, Customers, Coworkers, etc.)
 *   _Non-school Lectures, workshops, and documentaries._
 
-####Creative Process Project: Individual (or Collaborative), Daily, Weekly or Monthly
+####Personal Creative Process Project: Individual (or Collaborative), Daily, Weekly or Monthly
 
 *   Select a daily, weekly, bi-weekly, or monthly schedule and create and promote a self- or team- directed project using social media and/or analog promotional materials.
     *   If weekly, at least 12 times
