@@ -30,6 +30,13 @@
 <ul>
 <li>Discuss Remix Artists Research</li>
 <li>Review Narrative Timelines</li>
+  <li>
+  <a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a> Team Working Session</li>
+  <ul>
+  <li>Exchange contact info (phone, email, address)</li>
+  <li>Exchange schedules</li>
+  <li>Discuss Collaborative Tools (Slack, Google Docs, Kanbanery/Trello, etc.)</li>
+  </ul>
 </ul>
 </td>
  
