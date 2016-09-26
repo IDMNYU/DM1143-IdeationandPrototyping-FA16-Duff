@@ -33,7 +33,7 @@
   <li><a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a> Team Working Session</li>
 <ul>
 <li>Card Sorting</li>
-<li>Begin Annotatated Bibliography</li>
+<li>Begin Annotated Bibliography</li>
 </ul>
   </ul>
 </td>
