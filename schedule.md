@@ -70,25 +70,29 @@ _The class website is the official source for all dates and assignments; the syl
         <li>Creative Process Video Documentary DUE</li>
         <li>Final Annotated Bibliography DUE</li>
         </ul></strong></td>
-        <td><a href="week_8_detail_oct_20.md"></a>Oct 20<br>Phase 2: Research / Ideation / Brainstorming: <strong>Storytelling</strong> </td>
+        <td><a href="week_8_detail_oct_20.md"></a>Oct 20<br> </td>
     </tr>
     <tr>
         <td>8</td>     
-        <td>Oct 25<br>Phase 2: Research / Ideation / Brainstorming: <strong>Objects</strong></td>
-        <td valign="top">Oct 27<br><strong>Midterm Self-Assessment DUE</strong></td>
+        <td>Oct 25<br></td>
+        <td valign="top">Oct 27<br></td>
     </tr>
+     
     <tr>
         <td>9</td>      
-        <td valign="top">Nov 1<br>Future Dystopia / Utopia Project: <strong>Ideation</strong></td>
-        <td>Nov 3<br>Future Dystopia / Utopia Project: <strong>Secondary Research</strong></td>
+        <td valign="top">Nov 1<br>Phase 2: Research / Ideation / Brainstorming: <strong>Storytelling</strong></td>
+        <td>Nov 3<br>Phase 2: Research / Ideation / Brainstorming: <strong>Objects</strong><strong>Midterm Self-Assessment DUE</strong></td>
+    </tr>
+     <tr>
+        <td>Midterm One on Ones</td><td>Nov 2<br><i>Students TBD</i></td><td>Nov 4 <br><i>Students TBD</i></td>
     </tr>
      <tr>
         <td></td><td>Nov 7<br><i>Last Day to Withdraw</i></td><td></td>
     </tr>
     <tr>
         <td>10</td>     
-        <td>Nov 8<br>Future Dystopia / Utopia Project: <strong>Sketching and Mapping</strong></td>
-        <td>Nov 10<br>Future Dystopia / Utopia Project: <strong>Sketching and Mapping</strong></td>
+        <td>Nov 8<br>Future Dystopia / Utopia Project: <strong>Ideation</strong></td>
+        <td>Nov 10<br>Future Dystopia / Utopia Project: <strong>Secondary Research</strong></td>
     </tr>
     <tr>
         <td>11</td>   
@@ -97,13 +101,13 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>12</td>   
-        <td>Nov 22<br><strong>Storyboard 1st Draft</td>
+        <td>Nov 22<br><strong>Sketching and Mapping</strong></td>
         <td>Nov 24<br><i>NO CLASS: Thanksgiving Holiday</i></td>
     </tr>
     <tr>
         <td>13</td>  
-        <td>Nov 29<br>Future Dystopia / Utopia Project: <strong>Storyboard 2nd Draft</td>
-        <td>Dec 1<br>Future Dystopia / Utopia Project: <strong>Storyboard 3rd Draft</td>
+        <td>Nov 29<br>Future Dystopia / Utopia Project: <strong>Storyboard 1st Draft</td>
+        <td>Dec 1<br>Future Dystopia / Utopia Project: <strong>Storyboard 2nd Draft</td>
     </tr>
     <tr>
         <td>14</td>    
