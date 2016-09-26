@@ -29,7 +29,7 @@
 <!-- 2nd column class -->
 <td valign="top" width="48%">
   <ul>
-
+<li><a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a> Team Working Session</li>
 
   </ul>
 </td>
