@@ -35,7 +35,7 @@
   <li>Exchange contact info (phone, email, address)</li>
   <li>Exchange schedules</li>
   <li>Discuss Collaborative Tools (Slack, Google Docs, Kanbanery/Trello, etc.)</li>
-  </li>
+
   </ul>
 </td>
  
