@@ -20,8 +20,16 @@
 <td valign="top">class</td>
 <td valign="top">
   <ul>
-  <li>Discuss Metal Gear Solid Documentaries</li>
+  <li>Discuss Metal Gear Solid Documentaries and Application of Ideation & Prototyping in Other Classes</li>
+  <li>Discuss Text vs. Image Storyboard</li>
   <li>Finalize Teams for <a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a>
+  <ul>
+  <li>Alice</li>
+  <li>Bridget</li>
+  <li>Miranda</li>
+  <li>Roberto</li>
+  <li>Sophie</li>
+  <li>Victoria</li>
   </ul>
 </td>
 
@@ -31,7 +39,7 @@
   
   <li><a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a> Team Working Session</li>
 <ul>
-<li>Card Sorting</li>
+
 <li>Begin Annotated Bibliography</li>
 <li>Begin Text or Image Storyboard</li>
 </ul>
