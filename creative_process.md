@@ -16,8 +16,8 @@ Possible Choices (but not limited to):
 *   Albert Einstein
 *   Leonardo Da Vinci
 *   Charles Darwin
-*   **Walt Disney - Lena &amp; Dylan**
-*   Charles &amp; Ray Eames
+*   Walt Disney
+*   **Charles &amp; Ray Eames - Lena &amp; Dylan**
 *   Federico Fellini
 *   Henry Ford (Ford Motor Company)
 *   Benjamin Franklin
