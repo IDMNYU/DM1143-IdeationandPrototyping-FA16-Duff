@@ -40,38 +40,49 @@ _The class website is the official source for all dates and assignments; the syl
     <tr>
         <td>4</td>
         <td valign="top"><a href="week_4_detail_sep_27.md">Sep 27<br>Phase 1: Discovery / Inspiration / <strong>Process</strong></strong></a></td>
-        <td><a href="week_4_detail_sep_27.md">Sep 29<br>Creative Process Annotated Bibliography and Video Documentary <strong>Brainstorming</strong></a></td>
+        <td><a href="week_4_detail_sep_27.md">Sep 29<br>Creative Process Annotated Bibliography and Video Documentary <strong>
+        <ul>
+        <li>Individual Annotated Bibliography 1st Draft</li>
+        <li>Individual Image or Text Storyboard 1st Draft</li>
+        </ul></strong></a></td>
     </tr>
     <tr>
         <td>5</td>
         <td><a href="week_5_detail_sep_29.md"></a>Oct 04<br>Creative Process Annotated Bibliography and Video Documentary <strong>
         <ul>
-        <li>Annotated Bibliography 1st Draft</li>
-        <li>Image or Text Storyboard 1st Draft</li>
+        <li>Team Annotated Bibliography 1st Draft</li>
+        <li>Team Image or Text Storyboard 1st Draft</li>
+        <li>(if applicable) Animatic 1st Draft</li>
         </ul></strong></td>
         <td><a href="week_6_detail_oct_6.md"></a>Oct 06<br>Creative Process Annotated Bibliography and Video Documentary 
         <strong>
         <ul>
-        <li>Annotated Bibliography 2nd Draft</li>
-        <li>Image or Text Storyboard 2nd Draft</li>
+        <li>(if applicable) Team Annotated Bibliography 2nd Draft</li>
+        <li>(if applicable) Team Image or Text Storyboard 2nd Draft</li>
+        <li>(if applicable) Animatic 1st or 2nd draft</li>
         </ul>
         </strong></td>
     </tr>
     <tr>
         <td>6</td>    
-        <td><a href="week_6_detail_oct_6.md"></a>Oct 11<br>Creative Process Annotated Bibliography and Video Documentary: <strong>Animatic 1st Draft</strong></td>
+        <td><a href="week_6_detail_oct_6.md"></a>Oct 11<br>Creative Process Annotated Bibliography and Video Documentary: <strong>
+        <ul>
+        <li>(if applicable) Animatic 2nd Draft or</li>
+        <li>Hybrid Animatic / Video Draft</li>
+        </ul>
+        </strong></td>
         <td><a href="week_7_detail_oct_13.md"></a>Oct 13<br>Creative Process Annotated Bibliography and Video Documentary: 
         <strong>
         <ul>
-        <li>Animatic 2nd Draft or</li>
-        <li>Hybrid Animatic / Video Draft</li>
+        <li>Hybrid Animatic / Video Draft or</li>
+        <li>Video 1st Draft</li>
         </ul>
         </strong></td>
     </tr>
     <tr>
         <td>7</td>     
-        <td><a href="week_7_detail_oct_13.md"></a>Oct 18<br>Creative Process Annotated Bibliography and Video Documentary: <strong>Video 1st Draft</td>
-        <td><a href="week_8_detail_oct_20.md"></a>Oct 20<br>Creative Process Annotated Bibliography and Video Documentary: <strong>Video 2nd Draft</td>
+        <td><a href="week_7_detail_oct_13.md"></a>Oct 18<br>Creative Process Annotated Bibliography and Video Documentary: <strong>Video 1st or 2nd Draft</td>
+        <td><a href="week_8_detail_oct_20.md"></a>Oct 20<br>Creative Process Annotated Bibliography and Video Documentary: <strong>Video 2nd or 3rd Draft</td>
     </tr>
     <tr>
         <td>8</td>     
