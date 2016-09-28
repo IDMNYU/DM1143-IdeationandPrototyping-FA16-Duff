@@ -39,9 +39,9 @@
   
   <li><a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a> Team Working Session</li>
 <ul>
-
-<li>Begin Annotated Bibliography</li>
-<li>Begin Text or Image Storyboard</li>
+<li>Compare and Contrast Annotated Bibliography</li>
+<li>Compare and Contrast Text or Image Storyboard</li>
+<li>Continue working on both</li>
 </ul>
   </ul>
 </td>
