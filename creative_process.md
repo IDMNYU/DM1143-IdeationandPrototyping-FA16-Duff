@@ -35,7 +35,6 @@ Possible Choices (but not limited to):
 *   **Hayao Miyazaki - Tim &amp; Catherine**
 *   **Toni Morrison - Sophie &**
 *   **Christopher Nolan - Farzan & Abhi**
-*   Dr. John Pemberton (Coca-Cola)
 *   Philippe Petit
 *   Pablo Picasso
 *   **J.K. Rawlings - Roberto & Victoria**
