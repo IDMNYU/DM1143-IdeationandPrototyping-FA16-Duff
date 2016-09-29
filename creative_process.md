@@ -33,8 +33,8 @@ Possible Choices (but not limited to):
 *   **Stephen King - Jialin &amp; Chrystal**
 *   David Lynch
 *   **Hayao Miyazaki - Tim &amp; Catherine**
-*   **Toni Morrison - Sophie &**
 *   **Christopher Nolan - Farzan & Abhi**
+*   Gordon Parks
 *   Philippe Petit
 *   Pablo Picasso
 *   **J.K. Rawlings - Roberto & Victoria**
