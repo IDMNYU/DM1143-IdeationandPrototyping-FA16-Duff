@@ -31,6 +31,7 @@ Possible Choices (but not limited to):
 *   Steve Jobs
 *   Sal Khan (Khan Academy)
 *   **Stephen King - Jialin &amp; Chrystal**
+*   [Paul Klee](http://www.openculture.com/2016/03/3900-pages-of-paul-klees-personal-notebooks-are-now-online.html)
 *   David Lynch
 *   **Hayao Miyazaki - Tim &amp; Catherine**
 *   **Christopher Nolan - Farzan & Abhi**
@@ -40,6 +41,7 @@ Possible Choices (but not limited to):
 *   **J.K. Rawlings - Roberto & Victoria**
 *   Robert Rodriguez
 *   **Mike Rottenberg - Bridget & Sophie**
+*   Paula Scher
 *   Twyla Tharp
 
 The key to your research is a proliferation of references on your subject, particularly interviews, sketchbooks, notebooks, and/or journals or other reflective writing which can give your team insights into the research and design processes of your subject.
