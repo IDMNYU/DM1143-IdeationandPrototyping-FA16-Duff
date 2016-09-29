@@ -48,13 +48,13 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="week_5_detail_oct_04.md">Oct 04<br>Creative Process Annotated Bibliography and Video Documentary <strong>
+        <td><a href="week_5_detail_oct_4.md">Oct 04<br>Creative Process Annotated Bibliography and Video Documentary <strong>
         <ul>
         <li>Team Annotated Bibliography 1st Draft</li>
         <li>Team Image or Text Storyboard 1st Draft</li>
         <li>(if applicable) Animatic 1st Draft</li>
         </ul></strong></a></td>
-        <td><a href="week_5_detail_oct_04.md">Oct 06<br>Creative Process Annotated Bibliography and Video Documentary 
+        <td><a href="week_5_detail_oct_4.md">Oct 06<br>Creative Process Annotated Bibliography and Video Documentary 
         <strong>
         <ul>
         <li>(if applicable) Team Annotated Bibliography 2nd Draft</li>
