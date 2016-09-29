@@ -26,7 +26,7 @@ Possible Choices (but not limited to):
 *   **Juanjo Guarnido - Sawyer &amp; Lucas**
 *   Alfred Hitchcock
 *   **Jonathan Ive - Samir & Dong-Ha**
-*   **Frida Kahlo - Bridget &amp; ?**
+*   Frida Kahlo
 *   Hideo Kojima
 *   Steve Jobs
 *   Sal Khan (Khan Academy)
@@ -40,7 +40,8 @@ Possible Choices (but not limited to):
 *   Pablo Picasso
 *   **J.K. Rawlings - Roberto & Victoria**
 *   Robert Rodriguez
-*   **Twyla Tharp - Sophie &**
+*   **Mike Rottenberg - Bridget & Sophie**
+*   Twyla Tharp
 
 The key to your research is a proliferation of references on your subject, particularly interviews, sketchbooks, notebooks, and/or journals or other reflective writing which can give your team insights into the research and design processes of your subject.
 
