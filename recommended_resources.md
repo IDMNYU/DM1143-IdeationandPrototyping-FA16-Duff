@@ -101,6 +101,8 @@ _Mapping_
 
 
 **Recommended Resources for Creative Process Annotated Bibliograpy and Video Documentary*
+* Animatic
+  * [http://www.artofthetitle.com/title/six-feet-under/](http://www.artofthetitle.com/title/six-feet-under/)
 * Royalty-Free sound 
   * [http://freesound.org](http://freesound.org)
   * [http://incompetech.com](http://incompetech.com)
