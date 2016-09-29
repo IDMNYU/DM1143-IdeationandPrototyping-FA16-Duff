@@ -100,5 +100,10 @@ _Mapping_
 *   MindMeister
 
 
-
+**Recommended Resources for Creative Process Annotated Bibliograpy and Video Documentary*
+* Royalty-Free sound 
+  * [http://freesound.org](http://freesound.org)
+  * [http://incompetech.com](http://incompetech.com)
+* Creative Commons Video
+  * [http://archive.org](http://archive.org)
 
