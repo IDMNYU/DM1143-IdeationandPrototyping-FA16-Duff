@@ -100,7 +100,7 @@ _Mapping_
 *   MindMeister
 
 
-**Recommended Resources for Creative Process Annotated Bibliograpy and Video Documentary*
+**Recommended Resources for Creative Process Annotated Bibliograpy and Video Documentary**
 * Animatic
   * [http://www.artofthetitle.com/title/six-feet-under/](http://www.artofthetitle.com/title/six-feet-under/)
 * Royalty-Free sound 
