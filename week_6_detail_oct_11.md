@@ -39,7 +39,7 @@
 <!-- do -->
 <tr>
   <td valign="top">create</td>
-  <td>Creative Process Annotated Bibliography and Video Documentary: <strong>
+  <td><a href="creative_process.md">Creative Process Annotated Bibliography and Video Documentary:</a> 
         <ul>
         <li>(if applicable) Animatic 1st or 2nd draft</li>
         <li>(if applicable) Hybrid Animatic / Video Draft</li>
@@ -47,8 +47,8 @@
   <td valign="top">
   <ul>
   <li>(if applicable this week), your <a href="">constant input assignment</a> on your process website.</li>
-  <li>Creative Process Annotated Bibliography and Video Documentary:</li>
-        <strong>
+  <li><a href="creative_process.md">Creative Process Annotated Bibliography and Video Documentary:</a></li>
+        
         <ul>
         <li>Hybrid Animatic / Video Draft or</li>
         <li>Video 1st Draft</li>
