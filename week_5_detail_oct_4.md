@@ -46,7 +46,7 @@ Creative Process Annotated Bibliography and Video Documentary
 <!-- do -->
 <tr>
   <td valign="top">create (post on your process website)</td>
-  <td><a href="creative_process.md">Creative Process Annotated Bibliography and Video Documentary</a> Your team will be notified during previous class which assignments you should be working on for homework.<strong>
+  <td><a href="creative_process.md">Creative Process Annotated Bibliography and Video Documentary</a> Your team will be notified during previous class which assignments you should be working on for homework.
         <ul>
         <li>Team Annotated Bibliography 1st Draft</li>
         <li>Team Image or Text Storyboard 1st Draft</li>
