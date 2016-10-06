@@ -19,18 +19,17 @@
 <tr>
 <td valign="top">class</td>
 <td valign="top">
-  Creative Process Annotated Bibliography and Video Documentary <strong>
         <ul>
         <li>Team Annotated Bibliography 1st Draft</li>
         <li>Team Image or Text Storyboard 1st Draft</li>
         
-        </ul></strong>
+        </ul>
 </td>
 
 <!-- 2nd column class -->
 <td valign="top" width="48%">
-Creative Process Annotated Bibliography and Video Documentary 
-        <strong>
+
+       
         <ul>
         <li>(if applicable) Team Annotated Bibliography 2nd Draft</li>
         <li>(if applicable) Team Image or Text Storyboard 2nd Draft</li>
