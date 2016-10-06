@@ -18,18 +18,17 @@
 </tr>
 <tr>
 <td valign="top">class</td>
-<td valign="top">Creative Process Annotated Bibliography and Video Documentary: <strong>
+<td valign="top">
         <ul>
         <li>(if applicable) Animatic 1st or 2nd draft</li>
         <li>(if applicable) Hybrid Animatic / Video Draft</li>
         </ul></td>
 
 <!-- 2nd column class -->
-<td valign="top" width="48%">Creative Process Annotated Bibliography and Video Documentary: 
-        <strong>
+<td valign="top" width="48%">
         <ul>
-        <li>Hybrid Animatic / Video Draft or</li>
-        <li>Video 1st Draft</li>
+        <li>(if applicable) Hybrid Animatic / Video Draft</li>
+        <li>(if applicable) Video 1st Draft</li>
         </ul></td>
  
 </tr>
