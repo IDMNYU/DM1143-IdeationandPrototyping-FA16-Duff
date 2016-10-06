@@ -68,7 +68,6 @@ Creative Process Annotated Bibliography and Video Documentary
         <ul>
         <li>Team Annotated Bibliography 1st Draft</li>
         <li>Team Image or Text Storyboard 1st Draft</li>
-        
         </ul></td>
   <td valign="top">
   <ul>
