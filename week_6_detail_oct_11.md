@@ -51,8 +51,8 @@
   <li><a href="creative_process.md">Creative Process Annotated Bibliography and Video Documentary</a></li>
         
         <ul>
-        <li>Hybrid Animatic / Video Draft or</li>
-        <li>Video 1st Draft</li>
+        <li>(if applicable) Hybrid Animatic / Video Draft</li>
+        <li>(if applicable) Video 1st Draft</li>
         </ul></ul></td>
 </table>
 
