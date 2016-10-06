@@ -23,7 +23,7 @@
         <ul>
         <li>Team Annotated Bibliography 1st Draft</li>
         <li>Team Image or Text Storyboard 1st Draft</li>
-        <li>(if applicable) Animatic 1st Draft</li>
+        
         </ul></strong>
 </td>
 
@@ -34,7 +34,7 @@ Creative Process Annotated Bibliography and Video Documentary
         <ul>
         <li>(if applicable) Team Annotated Bibliography 2nd Draft</li>
         <li>(if applicable) Team Image or Text Storyboard 2nd Draft</li>
-        <li>(if applicable) Animatic 1st or 2nd draft</li>
+        <li>(if applicable) Animatic 1st Draft</li>
         </ul>
 </td>
  
