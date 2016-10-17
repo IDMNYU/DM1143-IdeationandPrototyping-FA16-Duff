@@ -92,12 +92,17 @@ _The class website is the official source for all dates and assignments; the syl
         <li>Creative Process Video Documentary DUE</li>
         <li>Final Annotated Bibliography DUE</li>
         </ul></strong></td>
-        <td valign="top">Oct 27<br>Phase 2: Research / Ideation / Brainstorming: <strong>Storytelling</strong></td>
+        <td valign="top">Oct 27</td>
     </tr>
      
     <tr>
         <td>9</td>      
-        <td valign="top">Nov 1<br>Phase 2: Research / Ideation / Brainstorming: <strong>Objects</strong></td>
+        <td valign="top">Nov 1<<br>Creative Process Annotated Bibliography and Video Documentary: 
+        <strong>
+        <ul>
+        <li>Creative Process Video Documentary DUE</li>
+        <li>Final Annotated Bibliography DUE</li>
+        </ul></td>
         <td>Nov 3<br>Future Dystopia / Utopia Project: 
         <strong>
         <ul>
@@ -107,14 +112,15 @@ _The class website is the official source for all dates and assignments; the syl
         </strong></td>
     </tr>
      <tr>
-        <td>Midterm One on Ones</td><td>Nov 2<br><strong>Midterm Self-Assessment DUE</strong><br><i>Students TBD</i></td><td>Nov 4 <br><strong>Midterm Self-Assessment DUE</strong><br><i>Students TBD</i></td>
+        <td>Midterm One on Ones</td><td>Nov 2-4<br><strong>Midterm Self-Assessment DUE</strong><br><i>Students TBD</i></td><td></td>
     </tr>
      <tr>
         <td></td><td>Nov 7<br><i>Last Day to Withdraw</i></td><td></td>
     </tr>
     <tr>
         <td>10</td>     
-        <td>Nov 8<br>Future Dystopia / Utopia Project: 
+        <td>Nov 8<br><br>Phase 2: Research / Ideation / Brainstorming: <ul><li><strong>Storytelling</strong></li>
+        </ul>Future Dystopia / Utopia Project: 
         <strong><ul>
         <li>Ideation</li>
         <li>Secondary Research</li>
