@@ -87,11 +87,12 @@ _The class website is the official source for all dates and assignments; the syl
         <li>Another Hybrid Animatic / Video Draft</li>
         </ul>
         </strong></a></td>
-        <td><a href="week_8_detail_oct_20.md"></a>Oct 20<br>Creative Process Annotated Bibliography and Video Documentary:
-        <strong><ul>
+        <td><a href="week_7_detail_oct_18.md">Oct 20<br>Creative Process Annotated Bibliography and Video Documentary</a>
+        <strong>
+        <ul>
         <li>Another Hybrid Animatic / Video Draft</li>
- 
-        </ul></strong></td>
+        </ul>
+        </strong></td>
     </tr>
     <tr>
         <td>8</td>     
