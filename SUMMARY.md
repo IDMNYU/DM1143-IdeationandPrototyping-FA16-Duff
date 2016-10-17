@@ -9,7 +9,7 @@
    * [Week 4 Detail Sep 27](week_4_detail_sep_27.md)
    * [Week 5 Detail Oct 4](week_5_detail_oct_4.md)
    * [Week 6 Detail Oct 11](week_6_detail_oct_11.md)
-   * Week 7 Detail Oct 18
+   * [Week 7 Detail Oct 18](week_7_detail_oct_18.md)
 * [Assignments](assignments.md)
    * [Constant Input Choices](constant_input_choices.md)
    * [Inputs Map](input_map.md)
