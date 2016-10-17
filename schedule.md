@@ -84,13 +84,13 @@ _The class website is the official source for all dates and assignments; the syl
         <td>Oct 18<br>Creative Process Annotated Bibliography and Video Documentary: 
         <strong>
         <ul>
-        <li>Hybrid Animatic / Video Draft</li>
+        <li>Another Hybrid Animatic / Video Draft</li>
         </ul>
         </strong></a></td>
         <td><a href="week_8_detail_oct_20.md"></a>Oct 20<br>Creative Process Annotated Bibliography and Video Documentary:
         <strong><ul>
-        <li>Another Hybrid Animatic / Video Draft or </li>
-        <li>Video Draft</li>
+        <li>Another Hybrid Animatic / Video Draft</li>
+ 
         </ul></strong></td>
     </tr>
     <tr>
@@ -107,7 +107,8 @@ _The class website is the official source for all dates and assignments; the syl
         <li>Creative Process Video Documentary DUE</li>
         <li>Final Annotated Bibliography DUE</li>
         </ul></td>
-        <td>Nov 3<br>Future Dystopia / Utopia Project: 
+        <td>Nov 3<br>Phase 2: Research / Ideation / Brainstorming: <ul><li><strong>Storytelling</strong></li>
+        </ul>Future Dystopia / Utopia Project: 
         <strong>
         <ul>
         <li>Ideation</li>
@@ -123,8 +124,7 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>10</td>     
-        <td>Nov 8<br><br>Phase 2: Research / Ideation / Brainstorming: <ul><li><strong>Storytelling</strong></li>
-        </ul>Future Dystopia / Utopia Project: 
+        <td>Nov 8<br><br>Future Dystopia / Utopia Project: 
         <strong><ul>
         <li>Ideation</li>
         <li>Secondary Research</li>
