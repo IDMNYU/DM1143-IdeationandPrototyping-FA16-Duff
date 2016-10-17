@@ -89,14 +89,14 @@ _The class website is the official source for all dates and assignments; the syl
         </strong></a></td>
         <td><a href="week_8_detail_oct_20.md"></a>Oct 20<br>Creative Process Annotated Bibliography and Video Documentary:
         <strong><ul>
-        <li>Hybrid Animatic / Video Draft or </li>
+        <li>Another Hybrid Animatic / Video Draft or </li>
         <li>Video Draft</li>
         </ul></strong></td>
     </tr>
     <tr>
         <td>8</td>     
-        <td>Oct 25<br><a href="week_7_detail_oct_13.md"></a>Creative Process Annotated Bibliography and Video Documentary: <strong>Video 1st or 2nd Draft</td>
-        <td valign="top">Oct 27<br>Creative Process Annotated Bibliography and Video Documentary: <strong>Video 2nd or 3rd Draft</td>
+        <td>Oct 25<br><a href="week_7_detail_oct_13.md"></a>Creative Process Annotated Bibliography and Video Documentary: <strong>Another Video Draft</td>
+        <td valign="top">Oct 27<br>Creative Process Annotated Bibliography and Video Documentary: <strong>Another Video Draft</td>
     </tr>
      
     <tr>
