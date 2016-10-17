@@ -42,24 +42,24 @@ _The class website is the official source for all dates and assignments; the syl
         <td valign="top"><a href="week_4_detail_sep_27.md">Sep 27<br>Phase 1: Discovery / Inspiration / <strong>Process</strong></strong></a></td>
         <td><a href="week_4_detail_sep_27.md">Sep 29<br>Creative Process Annotated Bibliography and Video Documentary <strong>
         <ul>
-        <li>Individual Annotated Bibliography 1st Draft</li>
-        <li>Individual Image or Text Storyboard 1st Draft</li>
+        <li>Individual Annotated Bibliography Draft</li>
+        <li>Individual Image or Text Storyboard Draft</li>
         </ul></strong></a></td>
     </tr>
     <tr>
         <td>5</td>
         <td><a href="week_5_detail_oct_4.md">Oct 04<br>Creative Process Annotated Bibliography and Video Documentary <strong>
         <ul>
-        <li>Team Annotated Bibliography 1st Draft</li>
-        <li>Team Image or Text Storyboard 1st Draft</li>
+        <li>Team Annotated Bibliography Draft</li>
+        <li>Team Image or Text Storyboard Draft</li>
         
         </ul></strong></a></td>
         <td><a href="week_5_detail_oct_4.md">Oct 06<br>Creative Process Annotated Bibliography and Video Documentary 
         <strong>
         <ul>
-        <li>(if applicable) Team Annotated Bibliography 2nd Draft</li>
-        <li>(if applicable) Team Image or Text Storyboard 2nd Draft</li>
-        <li>(if applicable) Animatic 1st Draft</li>
+        <li>(if applicable) Team Annotated Bibliography Draft</li>
+        <li>(if applicable) Team Image or Text Storyboard Draft</li>
+        <li>(if applicable) Animatic Draft</li>
         </ul>
         </strong></a></td>
     </tr>
@@ -67,7 +67,7 @@ _The class website is the official source for all dates and assignments; the syl
         <td>6</td>    
         <td><a href="week_6_detail_oct_11.md">Oct 11<br>Creative Process Annotated Bibliography and Video Documentary: <strong>
         <ul>
-        <li>(if applicable) Animatic 1st or 2nd draft</li>
+        <li>(if applicable) Animatic draft</li>
         <li>(if applicable) Hybrid Animatic / Video Draft</li>
         </ul>
         </strong></a></td>
@@ -75,7 +75,7 @@ _The class website is the official source for all dates and assignments; the syl
         <strong>
         <ul>
         <li>Hybrid Animatic / Video Draft or</li>
-        <li>Video 1st Draft</li>
+        <li>Video Draft</li>
         </ul>
         </strong></a></td>
     </tr>
@@ -84,13 +84,13 @@ _The class website is the official source for all dates and assignments; the syl
         <td><a href="week_7_detail_oct_18.md">Oct 18<br>Creative Process Annotated Bibliography and Video Documentary: 
         <strong>
         <ul>
-        <li>Another Hybrid Animatic / Video Draft</li>
+        <li>Hybrid Animatic / Video Draft</li>
         </ul>
         </strong></a></td>
         <td><a href="week_7_detail_oct_18.md">Oct 20<br>Creative Process Annotated Bibliography and Video Documentary
         <strong>
         <ul>
-        <li>Another Hybrid Animatic / Video Draft</li>
+        <li>Hybrid Animatic / Video Draft</li>
         </ul>
         </strong></a></td>
     </tr>
