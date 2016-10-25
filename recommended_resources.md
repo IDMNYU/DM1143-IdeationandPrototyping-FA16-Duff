@@ -103,9 +103,16 @@ _Mapping_
 **Recommended Resources for Creative Process Annotated Bibliograpy and Video Documentary**
 * Animatic
   * [http://www.artofthetitle.com/title/six-feet-under/](http://www.artofthetitle.com/title/six-feet-under/)
+* Fair Use Media
+* http://creativecommons.org (images / audio /video)
+* 
 * Royalty-Free sound 
   * [https://www.pond5.com/royalty-free-music/](https://www.pond5.com/royalty-free-music/)
-  * [http://freesound.org](http://freesound.org)
+  * [http://freesound.org](http://freesound.org) (soud effects)
+  * http://freemusicarchive.org
+  * http://ccmixter.org
+  * http://soundbible.com
+  * http://www.audioblocks.com
   * [http://incompetech.com](http://incompetech.com)
 * Creative Commons Video
   * [http://archive.org](http://archive.org)
