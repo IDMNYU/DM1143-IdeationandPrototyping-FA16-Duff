@@ -118,10 +118,8 @@ _The class website is the official source for all dates and assignments; the syl
         </strong></td>
     </tr>
      <tr>
-        <td>Midterm One on Ones</td><td>Nov 2-4<br><strong>Midterm Self-Assessment DUE</strong><br><i>Students TBD</i></td><td></td>
-    </tr>
-     <tr>
-        <td></td><td>Nov 7<br><i>Last Day to Withdraw</i></td><td></td>
+        <td>Midterm One on Ones</td><td>Nov 2-4<br><strong>Midterm Self-Assessment DUE</strong><br><i>Students TBD</i></td>
+  <td>Nov 7<br><i>Last Day to Withdraw</i></td>
     </tr>
     <tr>
         <td>10</td>     
