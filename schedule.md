@@ -119,7 +119,7 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
      <tr>
         <td>Midterm One on Ones</td><td>Nov 2-4<br><strong>Midterm Self-Assessment DUE</strong><br><i>Students TBD</i></td>
-  <td>Nov 7<br><i>Last Day to Withdraw</i></td>
+  <td>Nov 7<br><strong><i>Last Day to Withdraw</i></strong></td>
     </tr>
     <tr>
         <td>10</td>     
