@@ -104,8 +104,7 @@ _Mapping_
 * Animatic
   * [http://www.artofthetitle.com/title/six-feet-under/](http://www.artofthetitle.com/title/six-feet-under/)
 * Fair Use Media
-* http://creativecommons.org (images / audio /video)
-* 
+  * http://creativecommons.org (images / audio /video)
 * Royalty-Free sound 
   * [https://www.pond5.com/royalty-free-music/](https://www.pond5.com/royalty-free-music/)
   * [http://freesound.org](http://freesound.org) (soud effects)
