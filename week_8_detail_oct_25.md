@@ -52,7 +52,7 @@
         <li>Video Draft</li>
       
         </ul>
-   <li>Schedule your midterm one on one appointment with me here on <strong>Nov. 1 (starting @ 4:30pm)-4</strong> only, not before or afterwards: <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a></li>
+   <li>Schedule your midterm one on one appointment with me here on <strong>Nov 1 (starting @4:30pm) thru Nov 4</strong> only, not before or afterwards: <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a></li>
 <ul>
 <li>Bring your Midterm Self-Reflection filled out with you. A physical copy will be passed out to you during class and a digital copy will be pinned on slack.</li>
 </ul></ul></td>
