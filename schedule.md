@@ -108,8 +108,7 @@ _The class website is the official source for all dates and assignments; the syl
         <li>Creative Process Video Documentary DUE</li>
         <li>Final Annotated Bibliography DUE</li>
         </ul></td>
-        <td>Nov 3<br>Phase 2: Research / Ideation / Brainstorming: <ul><li><strong>Storytelling</strong></li>
-        </ul>Future Dystopia / Utopia Project: 
+        <td>Nov 3<br>Future Dystopia / Utopia Project: 
         <strong>
         <ul>
         <li>Ideation</li>
@@ -123,7 +122,8 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>10</td>     
-        <td>Nov 8<br><br>Future Dystopia / Utopia Project: 
+        <td>Nov 8<br>Phase 2: Research / Ideation / Brainstorming: <ul><li><strong>Storytelling</strong></li>
+        </ul><br>Future Dystopia / Utopia Project: 
         <strong><ul>
         <li>Ideation</li>
         <li>Secondary Research</li>
