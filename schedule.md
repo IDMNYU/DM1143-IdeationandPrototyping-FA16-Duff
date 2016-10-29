@@ -132,8 +132,12 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>11</td>   
-        <td>Nov 15<br>NO CLASS: Instructor out of country for conference<br>Get Training at MAGNET's Fab Lab</td>
-        <td>Nov 17<br>NO CLASS: Instructor out of country for conference<br>Get Training at MAGNET's Fab Lab</td>
+        <td>Nov 15<br><ul>
+        <li>NO CLASS: Instructor out of country for conference</li>
+        <li>Get Training at MAGNET's Fab Lab</li></ul></td>
+        <td>Nov 17<br><ul>
+        <li>NO CLASS: Instructor out of country for conference</li>
+        <li>Get Training at MAGNET's Fab Lab</li></ul></td>
     </tr>
     <tr>
         <td>12</td>   
