@@ -34,13 +34,16 @@
 
 <!-- 2nd column class -->
 <td valign="top" width="48%">
-        Future Dystopia / Utopia Project: 
+<ul>
+<li>(if applicable this week), your <a href="">constant input assignment</a> on your process website.</li>
+<li><a href="future.md">Future Dystopia / Utopia Project:</a> 
         <strong>
         <ul>
         <li>Ideation</li>
         <li>Secondary Research</li>
         </ul>
         </strong>
+        </ul>
         </td>
  
 </tr>
@@ -59,8 +62,8 @@
         </ul></ul></td>
   <td valign="top">
   <ul>
-  <li>(if applicable this week), your <a href="">constant input assignment</a> on your process website.</li>
-  <li>Future Dystopia / Utopia Project: 
+  
+  <li><a href="future.md">Future Dystopia / Utopia Project:</a> 
         <strong>
         <ul>
         <li>Ideation</li>
