@@ -112,7 +112,7 @@ _The class website is the official source for all dates and assignments; the syl
         <strong>
         <ul>
         <li>Ideation</li>
-        <li>Secondary Research</li>
+    
         </ul>
         </strong></td>
     </tr>
@@ -125,7 +125,7 @@ _The class website is the official source for all dates and assignments; the syl
         <td>Nov 8<br>Phase 2: Research / Ideation / Brainstorming: <ul><li><strong>Storytelling</strong></li>
         </ul><br>Future Dystopia / Utopia Project: 
         <strong><ul>
-        <li>Ideation</li>
+        <li>Ideation continued</li>
         <li>Secondary Research</li>
         </ul></strong></td>
         <td>Nov 10<br>Future Dystopia / Utopia Project: <strong>Sketching and Mapping</strong></td>
