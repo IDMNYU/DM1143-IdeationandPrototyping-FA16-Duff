@@ -17,18 +17,18 @@
   <td valign="top" width="48%"><strong>Nov 3</strong></td>
 </tr>
 <tr>
-<td valign="top">class</td>
+<td valign="top">class / do</td>
 <td valign="top">
-        <ul>
-        <li><a href="creative_process.md">Creative Process Annotated Bibliography and Video Documentary</a></li>
+<ul>
+<li><a href="creative_process.md">Creative Process Annotated Bibliography and Video Documentary</a></li>
         <ul>
       <li>Creative Process Video Documentary DUE</li>
       <li>Final Annotated Bibliography DUE</li>
-        </ul></ul>
+        </ul>
         <li>Schedule your midterm one on one 30min appointment with me here on <strong>Nov 1 (starting @4:30pm) thru Nov 4</strong> only, not before or afterwards: <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a></li>
 <ul>
 <li>Bring your Midterm Self-Reflection filled out with you. (A physical copy was passed out to you during the last class and a digital copy is pinned on slack.</li>
-<li>Share a google drive folder with your constant input assignments in it.</li>
+<li>Share a google drive folder with deangela.duff@nyu.edu with your constant input assignments in it.</li>
 </ul></ul>
         </ul></td>
 
