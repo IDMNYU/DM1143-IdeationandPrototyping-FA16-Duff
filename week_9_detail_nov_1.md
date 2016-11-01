@@ -50,28 +50,7 @@
 
 
 
-<!-- do -->
-<tr>
-  <td valign="top">create</td>
-  <td>
-  <ul>
-  <li><a href="creative_process.md">Creative Process Annotated Bibliography and Video Documentary</a></li>
-        <ul>
-      <li>Creative Process Video Documentary DUE</li>
-      <li>Final Annotated Bibliography DUE</li>
-        </ul></ul></td>
-  <td valign="top">
-  <ul>
-  
-  <li><a href="future.md">Future Dystopia / Utopia Project:</a> 
-        <strong>
-        <ul>
-        <li>Ideation</li>
-        <li>Secondary Research</li>
-        </ul>
-        </strong></li>
-      
-        </ul>
+
    </td>
 </table>
 
