@@ -40,18 +40,13 @@
         <strong>
         <ul>
         <li>Ideation</li>
-        <li>Secondary Research</li>
         </ul>
         </strong>
         </ul>
         </td>
  
 </tr>
-
-
-
-
-   </td>
+</td>
 </table>
 
 
