@@ -86,6 +86,7 @@ Do at least one of the following assignments:
 <li><a href="future.md">Future Dystopia / Utopia Project:</a> 
         <strong>
         <ul>
+        <li>Mood Board</li>
         <li>Sketching and Mapping</li>
         <li>Secondary Research</li>
         </strong>
