@@ -20,7 +20,7 @@
 <td valign="top"><strong>class</strong></td>
 <td valign="top">
 <ul>
-<li>Phase 2: Research / Ideation / Brainstorming>/li> 
+<li>Phase 2: Research / Ideation / Brainstorming</li> 
 <ul><li><strong>Storytelling</strong></li></ul>
 <li><a href="future.md">Future Dystopia / Utopia Project</a></li> 
         <strong>
