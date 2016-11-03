@@ -2,7 +2,7 @@
 ##### Fall 2016 • De Angela L. Duff • Tuesdays and Thursdays • 10:30-12:20pm • 2MTC MAGNET 811
 
 ---
-## [Schedule:](schedule.md) Week 8
+## [Schedule:](schedule.md) Week 10
 
 
 <table>
@@ -12,7 +12,7 @@
 <td>Thursdays (due on date listed</td>
 </tr>
 <tr>
-  <td valign="top">8</td>
+  <td valign="top">10</td>
   <td valign="top" width="48%"><strong>Nov 8</strong></td>
   <td valign="top" width="48%"><strong>Nov 10</strong></td>
 </tr>
