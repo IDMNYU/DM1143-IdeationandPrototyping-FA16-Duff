@@ -134,10 +134,10 @@ _The class website is the official source for all dates and assignments; the syl
         <td>11</td>   
         <td>Nov 15<br><ul>
         <li>NO CLASS: Instructor out of country for conference</li>
-        <li>Get Training at MAGNET's Fab Lab</li></ul></td>
+       <li><strong>Get Training at Tandon's MakerSpace from 10:30 - 12pm.</strong> I have confirmed a special safety training session as well as laser cutter and 3D printer training just for this class.</li></ul></td>
         <td>Nov 17<br><ul>
         <li>NO CLASS: Instructor out of country for conference</li>
-        <li>Get Training at MAGNET's Fab Lab</li></ul></td>
+        </ul></td>
     </tr>
     <tr>
         <td>12</td>   
