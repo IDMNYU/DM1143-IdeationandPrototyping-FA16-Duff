@@ -88,8 +88,12 @@ Do at least one of the following assignments:
         <ul>
         <li>Sketching and Mapping</li>
         <li>Secondary Research</li>
-        </ul>
         </strong>
+        <ul>
+        <li>Useful material to be sourced may include books, articles, records and statistics (pew foundation), precedent projects, products or case studies documented in various ways, photographs, maps, diagrams, and other visual materials.</li></ul>
+        </ul>
+        </ul>
+        
         </ul></td>
 </tr>
 </table>
