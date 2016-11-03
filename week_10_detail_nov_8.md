@@ -35,7 +35,8 @@
 <li><a href="future.md">Future Dystopia / Utopia Project:</a> 
         <strong>
         <ul>
-        <li>Ideation</li>
+        <li>Sketching and Mapping</li>
+        <li>Secondary Research</li>
         </ul>
         </strong>
         </ul>
