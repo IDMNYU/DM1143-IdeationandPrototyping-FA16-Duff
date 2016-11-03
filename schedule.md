@@ -126,9 +126,13 @@ _The class website is the official source for all dates and assignments; the syl
         </ul><br>Future Dystopia / Utopia Project: 
         <strong><ul>
         <li>Ideation continued</li>
+        
+        </ul></strong></td>
+        <td>Nov 10<br>Future Dystopia / Utopia Project: <strong>
+        <ul>
+        <li>Sketching and Mapping</li>
         <li>Secondary Research</li>
         </ul></strong></td>
-        <td>Nov 10<br>Future Dystopia / Utopia Project: <strong>Sketching and Mapping</strong></td>
     </tr>
     <tr>
         <td>11</td>   
