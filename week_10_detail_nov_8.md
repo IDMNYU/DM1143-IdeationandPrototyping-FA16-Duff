@@ -48,7 +48,7 @@
 </tr>
 
 <tr>
-<td>Write (and post on your process website as separate posts):</td>
+<td>write (and post on your process website as separate posts):</td>
 <td>
 <ul>
 <li>A response to Ira Glass on Storytelling. Do not write a summary. In other words, do not regurgitate what he says. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
