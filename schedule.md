@@ -122,8 +122,8 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>10</td>     
-        <td>Nov 8<br>Phase 2: Research / Ideation / Brainstorming: <ul><li><strong>Storytelling</strong></li>
-        </ul><br>Future Dystopia / Utopia Project: 
+        <td>Nov 8<br>Phase 2: Research / Ideation / Brainstorming: <ul><li><strong>Storytelling</strong></li></ul>
+        Future Dystopia / Utopia Project: 
         <strong><ul>
         <li>Ideation continued</li>
         
