@@ -20,10 +20,12 @@
 <td valign="top">class</td>
 <td valign="top">
 <ul>
-<li>Discuss Ira Glass on Storytelling</li>
+<li>Phase 2: Research / Ideation / Brainstorming>/li> 
+<ul><li><strong>Storytelling</strong></li></ul>
 <li><a href="future.md">Future Dystopia / Utopia Project:</a> 
         <strong>
         <ul>
+        <li>Discuss Ira Glass on Storytelling</li>
         <li>Ideation</li>
         </ul>
         </strong>
