@@ -22,7 +22,7 @@
 <ul>
 <li>Phase 2: Research / Ideation / Brainstorming>/li> 
 <ul><li><strong>Storytelling</strong></li></ul>
-<li><a href="future.md">Future Dystopia / Utopia Project:</a> 
+<li><a href="future.md">Future Dystopia / Utopia Project</a></li> 
         <strong>
         <ul>
         <li>Discuss Ira Glass on Storytelling</li>
