@@ -102,19 +102,19 @@ _The class website is the official source for all dates and assignments; the syl
      
     <tr>
         <td>9</td>      
-        <td valign="top">Nov 1<br>Creative Process Annotated Bibliography and Video Documentary: 
+        <td valign="top"><a href="week_9_detail_nov_1.md">Nov 1<br>Creative Process Annotated Bibliography and Video Documentary: 
         <strong>
         <ul>
         <li>Creative Process Video Documentary DUE</li>
         <li>Final Annotated Bibliography DUE</li>
-        </ul></td>
-        <td>Nov 3<br>Future Dystopia / Utopia Project: 
+        </ul></as></td>
+        <td><a href="week_9_detail_nov_1.md">Nov 3<br>Future Dystopia / Utopia Project: 
         <strong>
         <ul>
         <li>Ideation</li>
     
         </ul>
-        </strong></td>
+        </strong></a></td>
     </tr>
      <tr>
         <td></td><td>Nov 1 (starting @4:30pm) thru Nov 4<br>Midterm One on Ones<br><strong>Midterm Self-Assessment DUE</strong> <ul><li>Schedule your midterm one on one 30min appointment with me here on <strong>Nov 1 (starting @4:30pm) thru Nov 4</strong> only, not before or afterwards: <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a></li></ul></td>
