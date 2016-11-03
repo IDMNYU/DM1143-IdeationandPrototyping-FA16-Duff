@@ -17,7 +17,7 @@
   <td valign="top" width="48%"><strong>Nov 10</strong></td>
 </tr>
 <tr>
-<td valign="top">class</td>
+<td valign="top"><strong>class</strong></td>
 <td valign="top">
 <ul>
 <li>Phase 2: Research / Ideation / Brainstorming>/li> 
@@ -26,7 +26,7 @@
         <strong>
         <ul>
         <li>Discuss Ira Glass on Storytelling</li>
-        <li>Ideation</li>
+        <li>Ideation continued</li>
         </ul>
         </strong>
         </ul></td>
@@ -45,13 +45,13 @@
     </td>
 </tr>
 <tr>
-<td>watch</td>
+<td><strong>watch</strong></td>
 <td><a href="">Ira Glass on storytelling (all 3 parts)</a></td>
 <td></td>
 </tr>
 
 <tr>
-<td>write (and post on your process website as separate posts):</td>
+<td><strong>write</strong> (and post on your process website as separate posts):</td>
 <td>
 <ul>
 <li>A response to Ira Glass on Storytelling. Do not write a summary. In other words, do not regurgitate what he says. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).</li>
@@ -70,13 +70,14 @@ Do at least one of the following assignments:
 <td></td>
 </tr>
 <tr>
-<td>watchdo</td>
+<td><strong>do</strong></td>
 <td>
 <ul>
-<li><a href="future.md">Future Dystopia / Utopia Project:</a></li>
+<li><a href="future.md">Future Dystopia / Utopia Project</a>
+</li>
         <strong>
         <ul>
-        <li>Ideation</li>
+        <li>Ideation continued</li>
         </ul>
         </strong>
         </ul></td>
@@ -85,7 +86,8 @@ Do at least one of the following assignments:
 <li><a href="future.md">Future Dystopia / Utopia Project:</a> 
         <strong>
         <ul>
-        <li>Ideation</li>
+        <li>Sketching and Mapping</li>
+        <li>Secondary Research</li>
         </ul>
         </strong>
         </ul></td>
