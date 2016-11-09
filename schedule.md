@@ -147,7 +147,7 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>12</td>   
-        <td>Nov 22<br>Future Dystopia / Utopia Project: <strong>Sketching and Mapping</strong></td>
+        <td>Nov 22<br><a href="week_12_detail_nov_22.md">Future Dystopia / Utopia Project: <strong>Sketching and Mapping</strong></a></td>
         <td>Nov 24<br><i>NO CLASS: Thanksgiving Holiday</i></td>
     </tr>
     <tr>
