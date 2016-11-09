@@ -31,11 +31,7 @@
  </td>
 
 <!-- 2nd column class -->
-<td valign="top" width="48%">
-<ul>
-<li><i>NO CLASS: Thanksgiving Holiday</i></li>
-</ul>
-    </td>
+<td valign="top" width="48%"><i>NO CLASS: Thanksgiving Holiday</i></td>
 </tr>
 
 
