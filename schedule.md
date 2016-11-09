@@ -149,7 +149,7 @@ _The class website is the official source for all dates and assignments; the syl
         <td>12</td>   
         <td>Nov 22<br><a href="week_12_detail_nov_22.md">Future Dystopia / Utopia Project: 
         <ul>
-        <li><strong>Storyboard 1st Draft</li>
+        <li><strong>Storyboard Draft</li>
         <li>(OPTIONAL) Lo-fi Prototype Draft</li>
         </ul></strong></a></td>
         <td>Nov 24<br><i>NO CLASS: Thanksgiving Holiday</i></td>
