@@ -147,18 +147,29 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>12</td>   
-        <td>Nov 22<br><a href="week_12_detail_nov_22.md">Future Dystopia / Utopia Project: <strong>Sketching and Mapping</strong></a></td>
+        <td>Nov 22<br><a href="week_12_detail_nov_22.md">Future Dystopia / Utopia Project: 
+        <ul>
+        <li><strong>Storyboard 1st Draft</li>
+        <li>(OPTIONAL) Lo-fi Prototype Draft</li>
+        </ul></strong></a></td>
         <td>Nov 24<br><i>NO CLASS: Thanksgiving Holiday</i></td>
     </tr>
     <tr>
         <td>13</td>  
-        <td>Nov 29<br>Future Dystopia / Utopia Project: <strong>Storyboard 1st Draft</td>
-        <td>Dec 1<br>Future Dystopia / Utopia Project: <strong>Storyboard 2nd Draft</td>
+        <td>Nov 29<br><a href="week_12_detail_nov_22.md">Future Dystopia / Utopia Project: 
+        <strong><ul>
+        <li><strong>Storyboard Draft</li>
+        <li>Lo-fi Prototype Draft</li>
+        </ul></strong></a></td>
+        <td>Dec 1<br><a href="week_12_detail_nov_22.md">Future Dystopia / Utopia Project: <strong><ul>
+        <li><strong>Storyboard Draft</li>
+        <li>Lo-fi Prototype Draft</li>
+        </ul></strong></a></td>
     </tr>
     <tr>
         <td>14</td>    
-        <td>Dec 6<br>Future Dystopia / Utopia Project: <strong>Lo-fi Prototype 1st Draft</td>
-        <td>Dec 8<br>Future Dystopia / Utopia Project: <strong>Lo-fi Prototype 2nd Draft</td>
+        <td>Dec 6<br>Future Dystopia / Utopia Project: <strong>Lo-fi Prototype Draft</td>
+        <td>Dec 8<br>Future Dystopia / Utopia Project: <strong>Lo-fi Prototype Draft</td>
     </tr>
     <tr>
         <td>15</td>     
