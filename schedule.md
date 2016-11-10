@@ -168,8 +168,14 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>14</td>    
-        <td>Dec 6<br>Future Dystopia / Utopia Project: <strong>Lo-fi Prototype Draft</td>
-        <td>Dec 8<br>Future Dystopia / Utopia Project: <strong>Lo-fi Prototype Draft</td>
+        <td>Dec 6<br>Future Dystopia / Utopia Project: <strong><ul>
+      
+        <li>Lo-fi Prototype Draft</li>
+        </ul></strong></td>
+        <td>Dec 8<br>Future Dystopia / Utopia Project: <strong><ul>
+       
+        <li>Lo-fi Prototype Draft</li>
+        </ul></strong></td>
     </tr>
     <tr>
         <td>15</td>     
