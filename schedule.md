@@ -156,15 +156,15 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>13</td>  
-        <td>Nov 29<br>Future Dystopia / Utopia Project: 
+        <td><a href="week_13_detail_nov_29.md">Nov 29<br>Future Dystopia / Utopia Project: 
         <strong><ul>
         <li><strong>Storyboard Draft</li>
         <li>Lo-fi Prototype Draft</li>
-        </ul></strong></td>
-        <td>Dec 1<br>Future Dystopia / Utopia Project: <strong><ul>
+        </ul></strong></a></td>
+        <td><a href="week_13_detail_nov_29.md">Dec 1<br>Future Dystopia / Utopia Project: <strong><ul>
         <li><strong>Storyboard Draft</li>
         <li>Lo-fi Prototype Draft</li>
-        </ul></strong></td>
+        </ul></strong></a></td>
     </tr>
     <tr>
         <td>14</td>    
