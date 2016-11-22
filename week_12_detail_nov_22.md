@@ -25,6 +25,7 @@
         <strong>
         <ul>
         <li>Storyboard or User Workflow</li>
+        <li>(OPTIONAL) Lo-fi Prototype Draft</li>
         </ul>
         </strong>
         </ul>
@@ -46,7 +47,7 @@
         <li>Continue Sketching and Mapping</li>
         <li>Continue Secondary Research</li>
         <li>Storyboard or User Workflow</li>
-        
+        <li>(OPTIONAL) Lo-fi Prototype Draft</li>
         </ul>
         </strong>
         </ul></td>
