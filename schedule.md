@@ -178,7 +178,7 @@ New York, NY<br>A, C or 2, 3 to Fulton Street</td>
     </tr>
     <tr>
         <td>15</td>     
-        <td>Dec 13<br>NO CLASS: Legislative Day - Classes will meet according to a Monday schedule</td>  
+        <td>Dec 13<br><i>NO CLASS: Legislative Day - Classes will meet according to a Monday schedule</i></td>  
         <td>Dec 15<br><br>Future Dystopia / Utopia Project: <ul>
         <li><strong>Hi-Fidelity Prototype 1st Draft</strong></li>
         <li><strong>Positioning and Pitching 1st Draft</strong></li>
