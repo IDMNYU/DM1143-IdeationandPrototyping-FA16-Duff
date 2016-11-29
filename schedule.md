@@ -170,7 +170,7 @@ _The class website is the official source for all dates and assignments; the syl
         <td>14</td>    
         <td>Dec 6<br><strong>Field Trip to <a href-"http://localprojects.com/" target="_blank">Local Projects</a></strong><br>123 William Street<br>
 Suite 801<br>
-New York, NY 10038</td>
+New York, NY<br>A, C or 2, 3 to Fulton Street</td>
         <td>Dec 8<br>Future Dystopia / Utopia Project: <strong><ul>
        
         <li>Lo-fi Prototype Draft</li>
