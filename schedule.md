@@ -168,13 +168,13 @@ _The class website is the official source for all dates and assignments; the syl
     </tr>
     <tr>
         <td>14</td>    
-        <td>Dec 6<br><strong>Field Trip to <a href-"http://localprojects.com/" target="_blank">Local Projects</a></strong><br>123 William Street<br>
+        <td><a href="week_14_detail_dec_6.md">Dec 6<br><strong>Field Trip to <a href-"http://localprojects.com/" target="_blank">Local Projects</a></strong><br>123 William Street<br>
 Suite 801<br>
-New York, NY<br>A, C or 2, 3 to Fulton Street</td>
-        <td>Dec 8<br>Future Dystopia / Utopia Project: <strong><ul>
+New York, NY<br>A, C or 2, 3 to Fulton Street</a></td>
+        <td><a href="week_14_detail_dec_6.md"Dec 8<br>Future Dystopia / Utopia Project: <strong><ul>
        
         <li>Lo-fi Prototype Draft</li>
-        </ul></strong></td>
+        </ul></strong></a></td>
     </tr>
     <tr>
         <td>15</td>     
