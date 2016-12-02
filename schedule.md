@@ -170,7 +170,7 @@ _The class website is the official source for all dates and assignments; the syl
         <td>14</td>    
         <td><a href="week_14_detail_dec_6.md">Dec 6<br><strong>Field Trip to <a href-"http://localprojects.com/" target="_blank">Local Projects</a></strong><br>123 William Street<br>
 Suite 801<br>
-New York, NY<br>A, C or 2, 3 to Fulton Street<br>Meet in Tandon's 2MTC Lobby at 9:30am or meet us at Local Projects at 10:30am</a></td>
+New York, NY<br>A, C or 2, 3 to Fulton Street<br><br>Meet in Tandon's 2MTC Lobby at 9:30am or meet us at Local Projects at 10:30am</a></td>
         <td><a href="week_14_detail_dec_6.md"Dec 8<br>Future Dystopia / Utopia Project: <strong><ul>
        
         <li>Lo-fi Prototype Draft</li>
