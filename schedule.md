@@ -192,7 +192,7 @@ New York, NY<br>A, C or 2, 3 to Fulton Street<br><br>Meet in Tandon's 2MTC Lobby
         </ul></td>
         <td>Dec 20-22 (at 10am)
 <ul>
-<li>End of Semester Deliverables Due</li>
+<li><a href="https://deangela.gitbooks.io/dm1143-ideation-and-prototyping-fall-2016/content/end-of-semester-deliverables.md">End of Semester Deliverables Due</a></li>
 </ul></td>
     </tr>
 </table>
