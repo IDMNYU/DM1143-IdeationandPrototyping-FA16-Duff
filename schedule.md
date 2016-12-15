@@ -186,7 +186,7 @@ New York, NY<br>A, C or 2, 3 to Fulton Street<br><br>Meet in Tandon's 2MTC Lobby
     </tr>
     <tr>
         <td>16</td>
-        <td><a href="future.md"Dec 20<br>Future Dystopia / Utopia Project DUE</a> </td>
+        <td><strong><a href="future.md"Dec 20<br>Future Dystopia / Utopia Project DUE</a></strong> </td>
         <td>Dec 20-22 (at 10am)
 <ul>
 <li><a href="https://deangela.gitbooks.io/dm1143-ideation-and-prototyping-fall-2016/content/end-of-semester-deliverables.html">End of Semester Deliverables Due</a></li>
