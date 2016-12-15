@@ -194,8 +194,7 @@ New York, NY<br>A, C or 2, 3 to Fulton Street<br><br>Meet in Tandon's 2MTC Lobby
     </tr>
 </table>
 
-Fri Dec 16 and Mon Dec 19<br>
-* **INDIVIDUAL ONE on ONES (To Be Scheduled)**
+
 
 
 
