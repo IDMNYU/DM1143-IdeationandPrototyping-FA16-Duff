@@ -27,9 +27,13 @@ with the following files and
 ## Final Self Assessment
 *Include in google drive folder, I&P Fall 2016*
 
-Handed out during class and pinned on slack.
+<ul>
+<li>Handed out during class and pinned on slack.
+</ul>
 
 ## Letter or Video to Next Cohort
 *Include in google drive folder, I&P Fall 2016*
 
-Write a letter to the next class or create a 1-2 minute video, giving them advice on how to reach their learning goals and get value out of this course.
+<ul>
+<Li>Write a letter to the next class or create a 1-2 minute video, giving them advice on how to reach their learning goals and get value out of this course.</li>
+</ul>
