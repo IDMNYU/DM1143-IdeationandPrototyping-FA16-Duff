@@ -13,6 +13,7 @@
 </ol>
  
 ##Create a google drive folder, I&P Fall 2016 
+and share with deangela.duff@nyu.edu
 
 with the following files and 
 <ul>
