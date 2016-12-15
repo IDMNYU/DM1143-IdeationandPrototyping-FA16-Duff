@@ -22,7 +22,7 @@ with the following files and
 <li>Letter as pdf or Video To Next Cohort (.mov, .mp4, etc)</li>
 </ul>
 
-(if applicable) with constant input folder with native files:
+(if applicable) with constant input folder with native files
 
 ## Final Self Assessment
 *Include in google drive folder, I&P Fall 2016*
