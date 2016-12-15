@@ -180,16 +180,13 @@ New York, NY<br>A, C or 2, 3 to Fulton Street<br><br>Meet in Tandon's 2MTC Lobby
         <td>15</td>     
         <td>Dec 13<br><i>NO CLASS: Legislative Day - Classes will meet according to a Monday schedule</i></td>  
         <td>Dec 15<br><br>Future Dystopia / Utopia Project: <ul>
-        <li><strong>Hi-Fidelity Prototype 1st Draft</strong></li>
-        <li><strong>Positioning and Pitching 1st Draft</strong></li>
+        <li><strong>Hi-Fidelity Prototype Draft</strong></li>
+       
         </ul></td>
     </tr>
     <tr>
         <td>16</td>
-        <td>Dec 20<br>Future Dystopia / Utopia Project: <ul>
-        <li><strong>Hi-Fidelity Prototype 2nd Draft</strong></li>
-        <li><strong>Positioning and Pitching FINAL</strong></li>
-        </ul></td>
+        <td><a href="future.md"Dec 20<br>Future Dystopia / Utopia Project DUE</a> </td>
         <td>Dec 20-22 (at 10am)
 <ul>
 <li><a href="https://deangela.gitbooks.io/dm1143-ideation-and-prototyping-fall-2016/content/end-of-semester-deliverables.html">End of Semester Deliverables Due</a></li>
