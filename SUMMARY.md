@@ -34,5 +34,4 @@
 * [Printed Assignment Guidelines](printed_assignment_guidelines.md)
 * [Recommended Resources](recommended_resources.md)
 * [End of Semester Deliverables](end-of-semester-deliverables.md)
-* [Deliverables](deliverables.md)
 
