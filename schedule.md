@@ -190,7 +190,10 @@ New York, NY<br>A, C or 2, 3 to Fulton Street<br><br>Meet in Tandon's 2MTC Lobby
         <li><strong>Hi-Fidelity Prototype 2nd Draft</strong></li>
         <li><strong>Positioning and Pitching FINAL</strong></li>
         </ul></td>
-        <td></td>
+        <td>Dec 20-22 (at 10am)
+<ul>
+<li>End of Semester Deliverables Due</li>
+</ul></td>
     </tr>
 </table>
 
